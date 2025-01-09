@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{D8052CC2-5311-4AC0-9DF8-0EE04549D90C}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="MediConnect2" Key="{EFCECC79-5BEF-4774-BD16-E3A9FA4644FB}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="MediConnect2" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="fmLogin" Key="{A317E9BA-81F1-4C62-8517-230F98850013}">
+								<Image FileName="-739900248" Left="0" Top="0" Right="450" Bottom="357" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="fmLogin" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="LayoutControl1" Key="{5EEEE827-410D-4FEE-BE82-FB01B2621098}">
+										<Image FileName="-739900248" Left="1" Top="31" Right="449" Bottom="356" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="LayoutControl1" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="txtPassword" Key="{74BEDEE7-2566-4815-9F99-1A4678BD707C}">
+												<Image FileName="-739900248" Left="92" Top="247" Right="434" Bottom="269" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="txtPassword" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TextBoxMaskBox" Key="{4375BD2A-A376-4D7B-BE67-E0C8054933ED}">
+														<Image FileName="-739900248" Left="96" Top="250" Right="430" Bottom="266" />
+														<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+														<Properties>
+															<Property Name="ClrFullClassName">
+																<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="fmMain" Key="{F26D7B13-5B0F-4F91-BB87-8EA89D8D9AEE}">
+								<Image FileName="-283536611" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="fmMain" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="FhLayoutControl1" Key="{1B0945FB-EC10-4341-B5A4-EC14D4714588}">
+										<Image FileName="85719655" Left="0" Top="166" Right="1920" Bottom="1013" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="FhLayoutControl1" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="ClientPanel" Key="{556670B7-FEE0-4E5D-9D2F-D1FD39A2CB90}">
+												<Image FileName="85719655" Left="0" Top="304" Right="1920" Bottom="1013" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="ClientPanel" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="ucPatientManagement" Key="{35DAF108-EB12-47E2-B701-C9B02B671A0B}">
+														<Image FileName="85719655" Left="0" Top="304" Right="1920" Bottom="1013" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="ucPatientManagement" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="LayoutControl1" Key="{92903BDD-9794-4699-BD4C-5FFAA17B336F}">
+																<Image FileName="85719655" Left="0" Top="304" Right="1920" Bottom="1013" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="LayoutControl1" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="gcPatient" Key="{78A8223A-5F57-46F9-A1F6-5EE4447D2283}">
+																		<Image FileName="85719655" Left="2" Top="356" Right="1918" Bottom="1011" />
+																		<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="gcPatient" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="ucUserManagement" Key="{35ED20D1-D598-4BC2-915F-26BCC65AD2D8}">
+														<Image FileName="-2146493642" Left="0" Top="273" Right="1920" Bottom="1013" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="ucUserManagement" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="FhLayoutControl1" Key="{AB96E38F-EA8A-426B-A9D3-E74A9F3FC039}">
+																<Image FileName="-2146493642" Left="0" Top="273" Right="1920" Bottom="1013" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="FhLayoutControl1" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="XtraTabControl1" Key="{CC02DA43-FF85-4EF0-AE17-A98D298F24EF}">
+																		<Image FileName="-2146493642" Left="468" Top="283" Right="1910" Bottom="1002" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="XtraTabControl1" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="tabUserInfo" Key="{91312768-7CE9-4858-9860-FCC43E4B4FE5}">
+																				<Image FileName="-2146493642" Left="469" Top="310" Right="1909" Bottom="1001" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="tabUserInfo" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="lcUserInfo" Key="{769ACBDE-5CE1-4467-A682-FA79C9BA936B}">
+																						<Image FileName="-2146493642" Left="469" Top="310" Right="1909" Bottom="1001" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="lcUserInfo" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="txtFirstName" Key="{680ACAF7-75D0-498D-9379-087803795FA2}">
+																								<Image FileName="-2146493642" Left="582" Top="404" Right="1575" Bottom="426" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="txtFirstName" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="TextBoxMaskBox" Key="{C1C34618-326F-491C-9200-59F72A28F548}">
+																										<Image FileName="-2146493642" Left="586" Top="407" Right="1571" Bottom="423" />
+																										<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+																										<Properties>
+																											<Property Name="ClrFullClassName">
+																												<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="txtLastName" Key="{5ACCA3D5-F6CC-4CCB-B1D3-5531F0DD1ADA}">
+																								<Image FileName="555133245" Left="582" Top="430" Right="1575" Bottom="452" />
+																								<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="txtLastName" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="TextBoxMaskBox" Key="{22E847BA-1BE9-4B59-97E8-9FF49EF0EB41}">
+																										<Image FileName="-118159294" Left="586" Top="433" Right="1571" Bottom="449" />
+																										<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+																										<Properties>
+																											<Property Name="ClrFullClassName">
+																												<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="txtDisplayName" Key="{5E9CFD85-C932-4A3C-8CD9-4C587FD7ED73}">
+																								<Image FileName="-106775099" Left="582" Top="456" Right="1575" Bottom="478" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="txtDisplayName" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="TextBoxMaskBox" Key="{E7631B26-1F6B-49AC-8642-83E1A1CC3594}">
+																										<Image FileName="-106775099" Left="586" Top="459" Right="1571" Bottom="475" />
+																										<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+																										<Properties>
+																											<Property Name="ClrFullClassName">
+																												<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="txtUserLogin" Key="{E40A6B4E-4559-41D0-B38B-D837E95DE63E}">
+																								<Image FileName="-244621356" Left="582" Top="707" Right="906" Bottom="729" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="txtUserLogin" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="TextBoxMaskBox" Key="{28CEFC7E-C9F1-4822-AA1B-8BA44C389B6F}">
+																										<Image FileName="-244621356" Left="586" Top="710" Right="902" Bottom="726" />
+																										<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+																										<Properties>
+																											<Property Name="ClrFullClassName">
+																												<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="txtUserPwd" Key="{DFF92729-811E-49D8-9BA5-43938BE258A5}">
+																								<Image FileName="-551569993" Left="582" Top="733" Right="906" Bottom="755" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="txtUserPwd" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="TextBoxMaskBox" Key="{67C7FAB9-7DC2-4E39-8896-FCD19986A729}">
+																										<Image FileName="-551569993" Left="586" Top="736" Right="902" Bottom="752" />
+																										<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+																										<Properties>
+																											<Property Name="ClrFullClassName">
+																												<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="tabUserGroup" Key="{174FDEED-B97A-4CA2-888E-771D12D8A8F3}">
+																				<Image FileName="1068255717" Left="469" Top="310" Right="1909" Bottom="1001" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="tabUserGroup" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="lcUserGroup" Key="{5D9D0C42-E689-4E59-A1FB-24DB85BBF6B2}">
+																						<Image FileName="1068255717" Left="469" Top="310" Right="1909" Bottom="1001" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="lcUserGroup" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="btnAdd" Key="{81B1F8D8-0DC4-43A6-A7FE-8FBE94EAA854}">
+																								<Image FileName="1068255717" Left="1801" Top="523" Right="1841" Bottom="546" />
+																								<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="btnAdd" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="RibbonControl" Key="{E3004F00-4CE0-471C-BC48-BC60FAA6EC4D}">
+										<Image FileName="1710531651" Left="0" Top="-8" Right="1920" Bottom="166" />
+										<TypeInfo Item0="{1746F366-6C4B-45D8-A943-3F1A73C05F2B}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="RibbonControl" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="fmPatientPopup" Key="{E247B16B-B651-47B1-8600-3276BB8045D4}">
+								<Image FileName="-969869851" Left="0" Top="0" Right="1006" Bottom="728" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="fmPatientPopup" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="FhLayoutControl1" Key="{F4032BF4-D1B9-4043-BA17-8ED90066C745}">
+										<Image FileName="-969869851" Left="1" Top="31" Right="1005" Bottom="727" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="FhLayoutControl1" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="ucPatientEditor" Key="{296D313C-3E7A-45A1-AD59-5704DEFE0150}">
+												<Image FileName="-969869851" Left="1" Top="33" Right="1005" Bottom="727" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="ucPatientEditor" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="layoutPatient" Key="{D8749F4E-5AF9-4B5E-81E1-D9C607EB54B4}">
+														<Image FileName="-969869851" Left="1" Top="33" Right="1005" Bottom="727" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="layoutPatient" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="txtFirstName" Key="{C9908629-20A1-44E5-805C-25D42029C231}">
+																<Image FileName="-969869851" Left="142" Top="146" Right="327" Bottom="168" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="txtFirstName" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="TextBoxMaskBox" Key="{E9DB6E7B-3F48-49A7-8076-CE593DC3E3E8}">
+																		<Image FileName="-969869851" Left="146" Top="149" Right="323" Bottom="165" />
+																		<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+																		<Properties>
+																			<Property Name="ClrFullClassName">
+																				<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="txtLastName" Key="{C766DADC-1503-4365-BD24-65718A467358}">
+																<Image FileName="379739849" Left="435" Top="146" Right="582" Bottom="168" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="txtLastName" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="TextBoxMaskBox" Key="{AC0D77EE-13CB-4D6C-8C30-5FAC1F4E7A14}">
+																		<Image FileName="379739849" Left="439" Top="149" Right="578" Bottom="165" />
+																		<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+																		<Properties>
+																			<Property Name="ClrFullClassName">
+																				<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="dtBirthday" Key="{14D7C4A2-1348-4CE8-A2EC-C7A8BBF7290B}">
+																<Image FileName="-1414887441" Left="435" Top="198" Right="582" Bottom="220" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="dtBirthday" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="TextBoxMaskBox" Key="{7A03A010-D9BF-497C-9B98-EFBB199C51C8}">
+																		<Image FileName="-1414887441" Left="439" Top="201" Right="563" Bottom="217" />
+																		<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+																		<Properties>
+																			<Property Name="ClrFullClassName">
+																				<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="txtCity" Key="{B9D968BF-A89F-4712-871A-EC7EC031D33A}">
+																<Image FileName="1776652087" Left="210" Top="387" Right="329" Bottom="409" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="txtCity" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="TextBoxMaskBox" Key="{1E898E07-4469-493D-A94B-719CEAAF2615}">
+																		<Image FileName="1776652087" Left="214" Top="390" Right="325" Bottom="406" />
+																		<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+																		<Properties>
+																			<Property Name="ClrFullClassName">
+																				<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="btnSave" Key="{9CB19ED2-2776-4E57-A72C-5FC44EA6C90D}">
+																<Image FileName="809525790" Left="920" Top="698" Right="957" Bottom="721" />
+																<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="btnSave" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="ucOrderTemplateSelect" Key="{1031DBD0-F95D-4FAF-B580-0E66F1FA72BD}">
+												<Image FileName="1155369971" Left="1" Top="121" Right="1413" Bottom="959" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="ucOrderTemplateSelect" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="FhLayoutControl1" Key="{97707BA7-D4DE-40DA-98BF-8939621EDFDC}">
+														<Image FileName="1155369971" Left="1" Top="121" Right="1413" Bottom="959" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="FhLayoutControl1" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="ucItemManagement" Key="{D5239662-8332-4DBB-88DC-1D3170FDCBCB}">
+																<Image FileName="1155369971" Left="26" Top="173" Right="1388" Bottom="906" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="ucItemManagement" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="MainLayoutControl" Key="{1323ACEC-C56A-4A25-BF64-53E1858D1208}">
+																		<Image FileName="1155369971" Left="26" Top="173" Right="1388" Bottom="906" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="MainLayoutControl" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="UcItemGridFilterControl" Key="{9654D190-8148-4D2E-B1DC-D5849F047A2D}">
+																				<Image FileName="1155369971" Left="28" Top="175" Right="1386" Bottom="295" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="UcItemGridFilterControl" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="MainLayoutControl" Key="{24BB79F5-1FA6-4AFF-A5AB-15403D117422}">
+																						<Image FileName="1155369971" Left="28" Top="175" Right="1386" Bottom="295" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="MainLayoutControl" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="btnFind" Key="{DC11A8F8-B9B3-4960-B068-F86F17F980C4}">
+																								<Image FileName="1155369971" Left="1282" Top="206" Right="1331" Bottom="229" />
+																								<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="btnFind" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="gc" Key="{41FA458E-E9E3-4276-A4A5-064465EA63FB}">
+																				<Image FileName="-2063350683" Left="30" Top="297" Right="1384" Bottom="902" />
+																				<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="gc" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="fhTextBox" Key="{7AAB2180-8401-4147-A730-CE4D55F704D2}">
+																						<Image FileName="1124005874" Left="152" Top="360" Right="229" Bottom="391" />
+																						<Properties>
+																							<Property Name="ClrFullClassName">
+																								<Value Value="Fleischhacker.ControlLibrary.Editors.fhTextBox" />
+																							</Property>
+																							<Property Name="WndCaption">
+																								<Value Value="" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="TextBoxMaskBox" Key="{14401493-45B4-4316-92F7-51A08DFA2DE0}">
+																								<Image FileName="1124005874" Left="155" Top="367" Right="227" Bottom="383" />
+																								<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+																								<Properties>
+																									<Property Name="ClrFullClassName">
+																										<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="btnAdd" Key="{B2969580-CECB-4540-837F-6522335A39E6}">
+																<Image FileName="1767007367" Left="1324" Top="922" Right="1355" Bottom="945" />
+																<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="btnAdd" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="UcPatientHeader1" Key="{30317316-09DE-44C7-84E1-CDF2338A567F}">
+												<Image FileName="-867865247" Left="3" Top="33" Right="1411" Bottom="118" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="UcPatientHeader1" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="lcMain" Key="{C7594A4B-0CD1-4B9A-80E6-B0C6D25EC8DB}">
+														<Image FileName="-867865247" Left="3" Top="33" Right="1411" Bottom="118" />
+														<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="lcMain" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="fmWorkflow" Key="{DA23476C-3B6F-4DD8-88C3-3546E352B7F8}">
+								<Image FileName="-2134241845" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="fmWorkflow" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="FhLayoutControl1" Key="{AE5BD7F7-8974-49D1-9513-C540440953E8}">
+										<Image FileName="-2134241845" Left="0" Top="23" Right="1920" Bottom="1040" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="FhLayoutControl1" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="ucWorkflow" Key="{1C8E8954-753D-4339-BD64-29E7759EC552}">
+												<Image FileName="-2134241845" Left="0" Top="123" Right="1920" Bottom="1040" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="ucWorkflow" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="FhLayoutControl1" Key="{631B810F-EADB-4373-8010-0094D8DEAEA0}">
+														<Image FileName="-2134241845" Left="0" Top="159" Right="1920" Bottom="1015" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="FhLayoutControl1" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="tabMain" Key="{A985C488-F4CA-45BB-87B5-162D2426FD3F}">
+																<Image FileName="-2134241845" Left="14" Top="173" Right="1906" Bottom="1001" />
+																<TypeInfo Item0="{B02379E9-EE0E-4A24-A6B6-1089095BE630}" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="tabMain" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="d650bdab_6bb2_4328_8575_8f7126dede64" Key="{0F82A192-1BF0-4F96-9D9B-B15B71FA67A4}">
+																		<Image FileName="-1275081038" Left="15" Top="216" Right="1905" Bottom="1000" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="d650bdab_6bb2_4328_8575_8f7126dede64" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ucPatientOrderLine" Key="{AE6F5248-9E7D-4FAE-ACEA-F4875CC3BB69}">
+																				<Image FileName="-1275081038" Left="15" Top="216" Right="1905" Bottom="1000" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="ucPatientOrderLine" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="BarDockControl" Key="{42C66180-0273-4E87-BDE3-26BFDEDE7623}">
+																						<Image FileName="-1275081038" Left="15" Top="216" Right="1905" Bottom="252" />
+																						<Properties>
+																							<Property Name="ClrFullClassName">
+																								<Value Value="DevExpress.XtraBars.BarDockControl" />
+																							</Property>
+																							<Property Name="WndCaption">
+																								<Value Value="" />
+																							</Property>
+																							<Property Name="Index">
+																								<Value Value="5" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="DockedBarControl" Key="{F1816804-8343-422B-81B1-2479221F9964}">
+																								<Image FileName="-1275081038" Left="15" Top="216" Right="1905" Bottom="252" />
+																								<TypeInfo Item0="{1746F366-6C4B-45D8-A943-3F1A73C05F2B}" />
+																								<Properties>
+																									<Property Name="ClrFullClassName">
+																										<Value Value="DevExpress.XtraBars.Controls.DockedBarControl" />
+																									</Property>
+																									<Property Name="WndCaption">
+																										<Value Value="" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="FhLayoutControl1" Key="{CD1292BE-4AF8-4180-A9D2-898FDFA21904}">
+																						<Image FileName="-1800399587" Left="15" Top="252" Right="1905" Bottom="1000" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="FhLayoutControl1" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="tabMain" Key="{3C347E03-60B6-4DB9-B0F2-7CEF349B4A57}">
+																								<Image FileName="-1800399587" Left="23" Top="261" Right="1897" Bottom="965" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="tabMain" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="tpItem" Key="{80C9D9A8-998A-4A29-9649-296E06603FC0}">
+																										<Image FileName="-1800399587" Left="24" Top="262" Right="1896" Bottom="964" />
+																										<Properties>
+																											<Property Name="WinFormsControlName">
+																												<Value Value="tpItem" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="fhLayoutControl" Key="{7B82AF1B-3B37-4043-8537-58BD9BEC7613}">
+																												<Image FileName="-1800399587" Left="24" Top="262" Right="1896" Bottom="964" />
+																												<Properties>
+																													<Property Name="ClrFullClassName">
+																														<Value Value="Fleischhacker.ControlLibrary.Control.fhLayoutControl" />
+																													</Property>
+																													<Property Name="WndCaption">
+																														<Value Value="" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="gcItem" Key="{62BA30B3-5499-40E3-917D-8FBDBAA2A9C8}">
+																														<Image FileName="-1800399587" Left="36" Top="373" Right="1884" Bottom="952" />
+																														<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																														<Properties>
+																															<Property Name="WinFormsControlName">
+																																<Value Value="gcItem" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="zfb8a796_752d_4827_a8a8_dec3532c44e0" Key="{7BBBD339-AAEA-441C-9648-5C26DE4F9D7A}">
+																		<Image FileName="-2048377575" Left="15" Top="218" Right="1905" Bottom="1000" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="5fb8a796_752d_4827_a8a8_dec3532c44e0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ucIntervAppliedMed" Key="{0798E3DE-58C2-4AB9-8E27-FB501F81326D}">
+																				<Image FileName="-2048377575" Left="15" Top="218" Right="1905" Bottom="1000" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="ucIntervAppliedMed" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="BarDockControl" Key="{91F37438-5143-406F-AA80-8A10FC597917}">
+																						<Image FileName="-2048377575" Left="15" Top="218" Right="1905" Bottom="262" />
+																						<Properties>
+																							<Property Name="ClrFullClassName">
+																								<Value Value="DevExpress.XtraBars.BarDockControl" />
+																							</Property>
+																							<Property Name="WndCaption">
+																								<Value Value="" />
+																							</Property>
+																							<Property Name="Index">
+																								<Value Value="5" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="DockedBarControl" Key="{EDDB446A-2CA2-49C0-A10D-D111527144D3}">
+																								<Image FileName="-2048377575" Left="15" Top="218" Right="1905" Bottom="262" />
+																								<TypeInfo Item0="{1746F366-6C4B-45D8-A943-3F1A73C05F2B}" />
+																								<Properties>
+																									<Property Name="ClrFullClassName">
+																										<Value Value="DevExpress.XtraBars.Controls.DockedBarControl" />
+																									</Property>
+																									<Property Name="WndCaption">
+																										<Value Value="" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="FhLayoutControl1" Key="{86CEA70D-6FBA-4CE7-A1FA-A483B8CDCB63}">
+																						<Image FileName="-139336029" Left="15" Top="262" Right="1905" Bottom="1000" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="FhLayoutControl1" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="UcIntervention1" Key="{C2EB3542-B3CA-426F-AB23-A17F0FEFE510}">
+																								<Image FileName="1172682455" Left="42" Top="306" Right="1878" Bottom="961" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="UcIntervention1" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="FhLayoutControl1" Key="{1833134F-F49D-42D2-94E0-F41388D607F5}">
+																										<Image FileName="1172682455" Left="42" Top="306" Right="1878" Bottom="961" />
+																										<Properties>
+																											<Property Name="WinFormsControlName">
+																												<Value Value="FhLayoutControl1" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="gcMainIntervention" Key="{294F74EF-157F-4E04-86B1-1FAF0A527C0B}">
+																												<Image FileName="1172682455" Left="56" Top="320" Right="1864" Bottom="947" />
+																												<Properties>
+																													<Property Name="WinFormsControlName">
+																														<Value Value="gcMainIntervention" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="SpinEdit" Key="{09322F0D-41BD-4106-A858-6D48BFCA232A}">
+																														<Image FileName="1172682455" Left="740" Top="348" Right="806" Bottom="379" />
+																														<Properties>
+																															<Property Name="ClrFullClassName">
+																																<Value Value="DevExpress.XtraEditors.SpinEdit" />
+																															</Property>
+																															<Property Name="WndCaption">
+																																<Value Value="" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="TextBoxMaskBox" Key="{2313AE48-3C9B-4B4E-AE77-9F027E2AED1F}">
+																																<Image FileName="1172682455" Left="743" Top="355" Right="789" Bottom="371" />
+																																<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+																																<Properties>
+																																	<Property Name="ClrFullClassName">
+																																		<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="z629f78e_2f9f_4dcb_8a2c_26f0a663f24c" Key="{92A64B49-5F20-44D6-BE8C-6710AEACC2CF}">
+																		<Image FileName="1661305765" Left="15" Top="218" Right="1905" Bottom="1000" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="5629f78e_2f9f_4dcb_8a2c_26f0a663f24c" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ucEntryTemplate" Key="{D11ABE10-2F01-4244-975F-46D31D8E55C1}">
+																				<Image FileName="1661305765" Left="15" Top="218" Right="1905" Bottom="1000" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="ucEntryTemplate" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="MainLayoutControl" Key="{111CC2A1-FAAF-4442-A09F-E57C7FB7B680}">
+																						<Image FileName="1661305765" Left="15" Top="254" Right="1905" Bottom="1000" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="MainLayoutControl" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="E37F5D41_CC68_459E_88B8_E4B5F907C954" Key="{3641CBB8-F2D9-4055-8752-DD7D5325C106}">
+																								<Image FileName="1661305765" Left="154" Top="497" Right="173" Bottom="516" />
+																								<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="E37F5D41_CC68_459E_88B8_E4B5F907C954" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="DAFBC821_951E_4680_913E_0E3F45ED5CB2" Key="{6DEA4220-3E3A-42D8-AE23-12CC20C8852D}">
+																								<Image FileName="325429392" Left="154" Top="391" Right="173" Bottom="410" />
+																								<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="DAFBC821_951E_4680_913E_0E3F45ED5CB2" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="BFEBC8B5_4B13_4AA9_9684_9EF96E0B3BC5" Key="{39D007B0-64A6-4DEF-AE16-70B70CF1067B}">
+																								<Image FileName="-923088314" Left="154" Top="417" Right="173" Bottom="436" />
+																								<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="BFEBC8B5_4B13_4AA9_9684_9EF96E0B3BC5" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="D6A0E990_A1CD_4EB7_B176_5FF96FAFE3D9" Key="{4B788109-DFEB-4C5F-9BE6-C28232D69531}">
+																								<Image FileName="1847702224" Left="154" Top="443" Right="173" Bottom="462" />
+																								<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="D6A0E990_A1CD_4EB7_B176_5FF96FAFE3D9" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="z66927D6_0DE7_4B34_A183_7D76587B351E" Key="{7329E09C-4FDA-4C6B-A1ED-B4C8F206D07F}">
+																								<Image FileName="-1420827342" Left="154" Top="365" Right="173" Bottom="384" />
+																								<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="366927D6_0DE7_4B34_A183_7D76587B351E" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="zc4fe445_ca2b_4c64_b66a_ca3851976de9" Key="{FEB960B5-05F5-4F2A-88F4-8BF9CCE458B8}">
+																		<Image FileName="-1014677794" Left="15" Top="218" Right="1905" Bottom="1000" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="5c4fe445_ca2b_4c64_b66a_ca3851976de9" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ucEntryTemplate" Key="{898398CA-6F21-4F0F-88E5-300750C04143}">
+																				<Image FileName="-1014677794" Left="15" Top="218" Right="1905" Bottom="1000" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="ucEntryTemplate" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="BarDockControl" Key="{19EC3CA9-2593-4F4F-A964-BFC449A16644}">
+																						<Image FileName="-1014677794" Left="15" Top="218" Right="1905" Bottom="254" />
+																						<Properties>
+																							<Property Name="ClrFullClassName">
+																								<Value Value="DevExpress.XtraBars.BarDockControl" />
+																							</Property>
+																							<Property Name="WndCaption">
+																								<Value Value="" />
+																							</Property>
+																							<Property Name="Index">
+																								<Value Value="5" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="DockedBarControl" Key="{FA813100-CB1D-4031-9D4F-30887C9A204D}">
+																								<Image FileName="-1014677794" Left="15" Top="218" Right="1905" Bottom="254" />
+																								<TypeInfo Item0="{1746F366-6C4B-45D8-A943-3F1A73C05F2B}" />
+																								<Properties>
+																									<Property Name="ClrFullClassName">
+																										<Value Value="DevExpress.XtraBars.Controls.DockedBarControl" />
+																									</Property>
+																									<Property Name="WndCaption">
+																										<Value Value="" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="z2e94da9_b913_4903_bb0a_8d6d4c19dd9b" Key="{4119CF48-F040-47C6-976C-51BCC9F30CAA}">
+																		<Image FileName="217669489" Left="15" Top="216" Right="1905" Bottom="1000" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="72e94da9_b913_4903_bb0a_8d6d4c19dd9b" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ucEntryTemplate" Key="{20442C2D-E4EB-4843-8654-570E2A13DAD3}">
+																				<Image FileName="217669489" Left="15" Top="216" Right="1905" Bottom="1000" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="ucEntryTemplate" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="MainLayoutControl" Key="{1A11CEF6-8D7B-4027-B868-4464637FD434}">
+																						<Image FileName="217669489" Left="15" Top="252" Right="1905" Bottom="1000" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="MainLayoutControl" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="z826EB41_C305_4C5A_84BB_182B82BE141C" Key="{463C4B16-9F0A-4B3C-8D5D-80F9B2994221}">
+																								<Image FileName="217669489" Left="29" Top="287" Right="525" Bottom="583" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="3826EB41_C305_4C5A_84BB_182B82BE141C" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="TextBoxMaskBox" Key="{2B34DD06-737E-494C-AAA6-4900F46A5D1B}">
+																										<Image FileName="217669489" Left="33" Top="288" Right="524" Bottom="582" />
+																										<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+																										<Properties>
+																											<Property Name="ClrFullClassName">
+																												<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="z0063d5a_4d81_4117_816a_c1afbac9163c" Key="{0B453F7F-3303-4C16-AD1A-3DC6052E5649}">
+																		<Image FileName="1190790941" Left="15" Top="216" Right="1905" Bottom="1000" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="00063d5a_4d81_4117_816a_c1afbac9163c" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ucEntryTemplate" Key="{8DCCF921-DD36-4413-BDB0-669235F7FD96}">
+																				<Image FileName="1190790941" Left="15" Top="216" Right="1905" Bottom="1000" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="ucEntryTemplate" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="MainLayoutControl" Key="{6A461B35-665E-422D-B194-8352FDFA6E4C}">
+																						<Image FileName="1190790941" Left="15" Top="252" Right="1905" Bottom="1000" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="MainLayoutControl" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="zEEC58DC_DF58_4F05_91D4_A142322381FD" Key="{037B3095-D3F5-4A47-81AB-BABD94A4FDCC}">
+																								<Image FileName="1190790941" Left="134" Top="313" Right="295" Bottom="335" />
+																								<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="6EEC58DC_DF58_4F05_91D4_A142322381FD" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="z2B3D946_F06B_4A96_88F7_4788F2417E07" Key="{BF419C42-151D-4CD7-8E7C-FEB287D32B13}">
+																								<Image FileName="885028418" Left="134" Top="339" Right="295" Bottom="361" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="42B3D946_F06B_4A96_88F7_4788F2417E07" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="TextBoxMaskBox" Key="{E3D70741-34B4-432B-B0ED-AE7C08C14167}">
+																										<Image FileName="885028418" Left="138" Top="342" Right="291" Bottom="358" />
+																										<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+																										<Properties>
+																											<Property Name="ClrFullClassName">
+																												<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="z5F5CA79_B462_493E_88FC_0DBF72B4663D" Key="{FA768715-A2EF-4B54-ADAA-504E5334BAE0}">
+																								<Image FileName="1303349466" Left="134" Top="365" Right="295" Bottom="387" />
+																								<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="75F5CA79_B462_493E_88FC_0DBF72B4663D" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="TextBoxMaskBox" Key="{4BB4C1CB-E232-459B-9BAE-17EF06B7302D}">
+																										<Image FileName="1074832325" Left="138" Top="368" Right="276" Bottom="384" />
+																										<TypeInfo Item0="{0C73F7A9-9703-4BAA-A549-E0072F93C89F}" />
+																										<Properties>
+																											<Property Name="ClrFullClassName">
+																												<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="C10C1141_69DF_442B_9374_D24D5F771FB8" Key="{BCB56569-69A2-4577-B884-1C1246DC2803}">
+																								<Image FileName="165803244" Left="134" Top="391" Right="153" Bottom="410" />
+																								<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="C10C1141_69DF_442B_9374_D24D5F771FB8" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="BarDockControl" Key="{FF056F58-E107-4184-89A6-DC71BC04C294}">
+																						<Image FileName="164177276" Left="15" Top="216" Right="1905" Bottom="252" />
+																						<Properties>
+																							<Property Name="ClrFullClassName">
+																								<Value Value="DevExpress.XtraBars.BarDockControl" />
+																							</Property>
+																							<Property Name="WndCaption">
+																								<Value Value="" />
+																							</Property>
+																							<Property Name="Index">
+																								<Value Value="5" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="DockedBarControl" Key="{5E7A002D-7BDE-4D58-8279-1BE822F32206}">
+																								<Image FileName="164177276" Left="15" Top="216" Right="1905" Bottom="252" />
+																								<TypeInfo Item0="{1746F366-6C4B-45D8-A943-3F1A73C05F2B}" />
+																								<Properties>
+																									<Property Name="ClrFullClassName">
+																										<Value Value="DevExpress.XtraBars.Controls.DockedBarControl" />
+																									</Property>
+																									<Property Name="WndCaption">
+																										<Value Value="" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="BarDockControl" Key="{D22C899C-D5DB-4FF2-A3B7-69A96363C817}">
+														<Image FileName="1989429402" Left="0" Top="123" Right="1920" Bottom="159" />
+														<Properties>
+															<Property Name="ClrFullClassName">
+																<Value Value="DevExpress.XtraBars.BarDockControl" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="5" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="DockedBarControl" Key="{5DFBA0CB-2502-4DEF-9DC6-4D2AC9C19CCD}">
+																<Image FileName="1989429402" Left="0" Top="123" Right="1920" Bottom="159" />
+																<TypeInfo Item0="{1746F366-6C4B-45D8-A943-3F1A73C05F2B}" />
+																<Properties>
+																	<Property Name="ClrFullClassName">
+																		<Value Value="DevExpress.XtraBars.Controls.DockedBarControl" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="UcHeaderNew1" Key="{5BD3CEA8-D9CF-4618-858F-0E806CCA330E}">
+												<Image FileName="-2066112533" Left="2" Top="25" Right="1918" Bottom="121" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="UcHeaderNew1" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="lcMain" Key="{F517DFB7-81A3-43D3-B4E7-2E8EA6532C96}">
+														<Image FileName="-2066112533" Left="2" Top="25" Right="1918" Bottom="121" />
+														<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="lcMain" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="PopupLookUpEditForm" Key="{E4D1DC6C-6AEA-46CC-8702-BA51AC5A43FC}">
+								<Image FileName="-837300630" Left="0" Top="0" Right="443" Bottom="362" />
+								<TypeInfo Item0="{03C35441-C90D-42B7-AACE-0262B8479176}" />
+								<Properties>
+									<Property Name="ClrFullClassName">
+										<Value Value="DevExpress.XtraEditors.Popup.PopupLookUpEditForm" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="fmMessage" Key="{58D5DA0E-830A-41DF-9AB3-FA889BD2FEEA}">
+								<Image FileName="-1828397292" Left="0" Top="0" Right="590" Bottom="452" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="fmMessage" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="LayoutControl1" Key="{CB88A05D-3B69-4C9F-A695-1508629AF95B}">
+										<Image FileName="-1828397292" Left="1" Top="134" Right="589" Bottom="450" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="LayoutControl1" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="btn1" Key="{E88E7587-9A5C-4CC2-AB79-09EA5FA0657E}">
+												<Image FileName="-1828397292" Left="517" Top="413" Right="546" Bottom="436" />
+												<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="btn1" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="btn3" Key="{480E9E14-EE4E-485C-AF03-5C4B304499F0}">
+												<Image FileName="-1843645739" Left="552" Top="461" Right="682" Bottom="484" />
+												<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="btn3" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="ComboBoxPopupListBoxForm" Key="{AB9AA8A4-DA5B-4365-B335-075B0809721A}">
+								<Image FileName="-2113257" Left="0" Top="0" Right="161" Bottom="38" />
+								<Properties>
+									<Property Name="ClrFullClassName">
+										<Value Value="DevExpress.XtraEditors.Popup.ComboBoxPopupListBoxForm" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="ComboBoxPopupListBox" Key="{E35FA60A-2BA0-4ABD-AA7B-41C7B537D816}">
+										<Image FileName="-2113257" Left="1" Top="1" Right="160" Bottom="37" />
+										<TypeInfo Item0="{AA698F0F-44AB-4834-99E4-0FB16D2CD497}" />
+										<Properties>
+											<Property Name="ClrFullClassName">
+												<Value Value="DevExpress.XtraEditors.Popup.ComboBoxPopupListBox" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="katalon" Key="{CBCDB99B-9754-4C00-A823-E33014C78086}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="katalon" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Shell" Key="{52F7B9A5-087B-4559-B07F-A2489F385206}">
+								<Image FileName="1475871009" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<TypeInfo Item0="{673E3ADC-E298-4681-9447-D008BAD26302}" />
+								<Properties>
+									<Property Name="JavaFullClassName">
+										<Value Value="org.eclipse.swt.widgets.Shell" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Katalon Studio Enterprise - 9.7.2-6e20a075f4 - MC - [Location: D:\KatalonGithub\KatalonGithub]" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{2EDB6CEF-35AA-41B1-8CB6-96ED9CB8A581}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndMediConnect2" Key="{AFCA6F36-3D43-4EEE-AB3E-7BFF9E14510F}">
+								<TypeInfo Item0="{673E3ADC-E298-4681-9447-D008BAD26302}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="CabinetWClass" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="MediConnect2" Owner="{EFCECC79-5BEF-4774-BD16-E3A9FA4644FB}">
+			<Child Name="fmLogin" Owner="{A317E9BA-81F1-4C62-8517-230F98850013}">
+				<Child Name="LayoutControl1" Owner="{5EEEE827-410D-4FEE-BE82-FB01B2621098}">
+					<Child Name="txtPassword" Owner="{74BEDEE7-2566-4815-9F99-1A4678BD707C}">
+						<Child Name="TextBoxMaskBox" Owner="{4375BD2A-A376-4D7B-BE67-E0C8054933ED}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="fmMain" Owner="{F26D7B13-5B0F-4F91-BB87-8EA89D8D9AEE}">
+				<Child Name="FhLayoutControl1" Owner="{1B0945FB-EC10-4341-B5A4-EC14D4714588}">
+					<Child Name="ClientPanel" Owner="{556670B7-FEE0-4E5D-9D2F-D1FD39A2CB90}">
+						<Child Name="ucPatientManagement" Owner="{35DAF108-EB12-47E2-B701-C9B02B671A0B}">
+							<Child Name="LayoutControl1" Owner="{92903BDD-9794-4699-BD4C-5FFAA17B336F}">
+								<Child Name="gcPatient" Owner="{78A8223A-5F57-46F9-A1F6-5EE4447D2283}" />
+							</Child>
+						</Child>
+						<Child Name="ucUserManagement" Owner="{35ED20D1-D598-4BC2-915F-26BCC65AD2D8}">
+							<Child Name="FhLayoutControl1" Owner="{AB96E38F-EA8A-426B-A9D3-E74A9F3FC039}">
+								<Child Name="XtraTabControl1" Owner="{CC02DA43-FF85-4EF0-AE17-A98D298F24EF}">
+									<Child Name="tabUserInfo" Owner="{91312768-7CE9-4858-9860-FCC43E4B4FE5}">
+										<Child Name="lcUserInfo" Owner="{769ACBDE-5CE1-4467-A682-FA79C9BA936B}">
+											<Child Name="txtFirstName" Owner="{680ACAF7-75D0-498D-9379-087803795FA2}">
+												<Child Name="TextBoxMaskBox" Owner="{C1C34618-326F-491C-9200-59F72A28F548}" />
+											</Child>
+											<Child Name="txtLastName" Owner="{5ACCA3D5-F6CC-4CCB-B1D3-5531F0DD1ADA}">
+												<Child Name="TextBoxMaskBox" Owner="{22E847BA-1BE9-4B59-97E8-9FF49EF0EB41}" />
+											</Child>
+											<Child Name="txtDisplayName" Owner="{5E9CFD85-C932-4A3C-8CD9-4C587FD7ED73}">
+												<Child Name="TextBoxMaskBox" Owner="{E7631B26-1F6B-49AC-8642-83E1A1CC3594}" />
+											</Child>
+											<Child Name="txtUserLogin" Owner="{E40A6B4E-4559-41D0-B38B-D837E95DE63E}">
+												<Child Name="TextBoxMaskBox" Owner="{28CEFC7E-C9F1-4822-AA1B-8BA44C389B6F}" />
+											</Child>
+											<Child Name="txtUserPwd" Owner="{DFF92729-811E-49D8-9BA5-43938BE258A5}">
+												<Child Name="TextBoxMaskBox" Owner="{67C7FAB9-7DC2-4E39-8896-FCD19986A729}" />
+											</Child>
+										</Child>
+									</Child>
+									<Child Name="tabUserGroup" Owner="{174FDEED-B97A-4CA2-888E-771D12D8A8F3}">
+										<Child Name="lcUserGroup" Owner="{5D9D0C42-E689-4E59-A1FB-24DB85BBF6B2}">
+											<Child Name="btnAdd" Owner="{81B1F8D8-0DC4-43A6-A7FE-8FBE94EAA854}" />
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="RibbonControl" Owner="{E3004F00-4CE0-471C-BC48-BC60FAA6EC4D}" />
+			</Child>
+			<Child Name="fmPatientPopup" Owner="{E247B16B-B651-47B1-8600-3276BB8045D4}">
+				<Child Name="FhLayoutControl1" Owner="{F4032BF4-D1B9-4043-BA17-8ED90066C745}">
+					<Child Name="ucPatientEditor" Owner="{296D313C-3E7A-45A1-AD59-5704DEFE0150}">
+						<Child Name="layoutPatient" Owner="{D8749F4E-5AF9-4B5E-81E1-D9C607EB54B4}">
+							<Child Name="txtFirstName" Owner="{C9908629-20A1-44E5-805C-25D42029C231}">
+								<Child Name="TextBoxMaskBox" Owner="{E9DB6E7B-3F48-49A7-8076-CE593DC3E3E8}" />
+							</Child>
+							<Child Name="txtLastName" Owner="{C766DADC-1503-4365-BD24-65718A467358}">
+								<Child Name="TextBoxMaskBox" Owner="{AC0D77EE-13CB-4D6C-8C30-5FAC1F4E7A14}" />
+							</Child>
+							<Child Name="dtBirthday" Owner="{14D7C4A2-1348-4CE8-A2EC-C7A8BBF7290B}">
+								<Child Name="TextBoxMaskBox" Owner="{7A03A010-D9BF-497C-9B98-EFBB199C51C8}" />
+							</Child>
+							<Child Name="txtCity" Owner="{B9D968BF-A89F-4712-871A-EC7EC031D33A}">
+								<Child Name="TextBoxMaskBox" Owner="{1E898E07-4469-493D-A94B-719CEAAF2615}" />
+							</Child>
+							<Child Name="btnSave" Owner="{9CB19ED2-2776-4E57-A72C-5FC44EA6C90D}" />
+						</Child>
+					</Child>
+					<Child Name="ucOrderTemplateSelect" Owner="{1031DBD0-F95D-4FAF-B580-0E66F1FA72BD}">
+						<Child Name="FhLayoutControl1" Owner="{97707BA7-D4DE-40DA-98BF-8939621EDFDC}">
+							<Child Name="ucItemManagement" Owner="{D5239662-8332-4DBB-88DC-1D3170FDCBCB}">
+								<Child Name="MainLayoutControl" Owner="{1323ACEC-C56A-4A25-BF64-53E1858D1208}">
+									<Child Name="UcItemGridFilterControl" Owner="{9654D190-8148-4D2E-B1DC-D5849F047A2D}">
+										<Child Name="MainLayoutControl" Owner="{24BB79F5-1FA6-4AFF-A5AB-15403D117422}">
+											<Child Name="btnFind" Owner="{DC11A8F8-B9B3-4960-B068-F86F17F980C4}" />
+										</Child>
+									</Child>
+									<Child Name="gc" Owner="{41FA458E-E9E3-4276-A4A5-064465EA63FB}">
+										<Child Name="fhTextBox" Owner="{7AAB2180-8401-4147-A730-CE4D55F704D2}">
+											<Child Name="TextBoxMaskBox" Owner="{14401493-45B4-4316-92F7-51A08DFA2DE0}" />
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+							<Child Name="btnAdd" Owner="{B2969580-CECB-4540-837F-6522335A39E6}" />
+						</Child>
+					</Child>
+					<Child Name="UcPatientHeader1" Owner="{30317316-09DE-44C7-84E1-CDF2338A567F}">
+						<Child Name="lcMain" Owner="{C7594A4B-0CD1-4B9A-80E6-B0C6D25EC8DB}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="fmWorkflow" Owner="{DA23476C-3B6F-4DD8-88C3-3546E352B7F8}">
+				<Child Name="FhLayoutControl1" Owner="{AE5BD7F7-8974-49D1-9513-C540440953E8}">
+					<Child Name="ucWorkflow" Owner="{1C8E8954-753D-4339-BD64-29E7759EC552}">
+						<Child Name="FhLayoutControl1" Owner="{631B810F-EADB-4373-8010-0094D8DEAEA0}">
+							<Child Name="tabMain" Owner="{A985C488-F4CA-45BB-87B5-162D2426FD3F}">
+								<Child Name="d650bdab_6bb2_4328_8575_8f7126dede64" Owner="{0F82A192-1BF0-4F96-9D9B-B15B71FA67A4}">
+									<Child Name="ucPatientOrderLine" Owner="{AE6F5248-9E7D-4FAE-ACEA-F4875CC3BB69}">
+										<Child Name="BarDockControl" Owner="{42C66180-0273-4E87-BDE3-26BFDEDE7623}">
+											<Child Name="DockedBarControl" Owner="{F1816804-8343-422B-81B1-2479221F9964}" />
+										</Child>
+										<Child Name="FhLayoutControl1" Owner="{CD1292BE-4AF8-4180-A9D2-898FDFA21904}">
+											<Child Name="tabMain" Owner="{3C347E03-60B6-4DB9-B0F2-7CEF349B4A57}">
+												<Child Name="tpItem" Owner="{80C9D9A8-998A-4A29-9649-296E06603FC0}">
+													<Child Name="fhLayoutControl" Owner="{7B82AF1B-3B37-4043-8537-58BD9BEC7613}">
+														<Child Name="gcItem" Owner="{62BA30B3-5499-40E3-917D-8FBDBAA2A9C8}" />
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+								<Child Name="zfb8a796_752d_4827_a8a8_dec3532c44e0" Owner="{7BBBD339-AAEA-441C-9648-5C26DE4F9D7A}">
+									<Child Name="ucIntervAppliedMed" Owner="{0798E3DE-58C2-4AB9-8E27-FB501F81326D}">
+										<Child Name="BarDockControl" Owner="{91F37438-5143-406F-AA80-8A10FC597917}">
+											<Child Name="DockedBarControl" Owner="{EDDB446A-2CA2-49C0-A10D-D111527144D3}" />
+										</Child>
+										<Child Name="FhLayoutControl1" Owner="{86CEA70D-6FBA-4CE7-A1FA-A483B8CDCB63}">
+											<Child Name="UcIntervention1" Owner="{C2EB3542-B3CA-426F-AB23-A17F0FEFE510}">
+												<Child Name="FhLayoutControl1" Owner="{1833134F-F49D-42D2-94E0-F41388D607F5}">
+													<Child Name="gcMainIntervention" Owner="{294F74EF-157F-4E04-86B1-1FAF0A527C0B}">
+														<Child Name="SpinEdit" Owner="{09322F0D-41BD-4106-A858-6D48BFCA232A}">
+															<Child Name="TextBoxMaskBox" Owner="{2313AE48-3C9B-4B4E-AE77-9F027E2AED1F}" />
+														</Child>
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+								<Child Name="z629f78e_2f9f_4dcb_8a2c_26f0a663f24c" Owner="{92A64B49-5F20-44D6-BE8C-6710AEACC2CF}">
+									<Child Name="ucEntryTemplate" Owner="{D11ABE10-2F01-4244-975F-46D31D8E55C1}">
+										<Child Name="MainLayoutControl" Owner="{111CC2A1-FAAF-4442-A09F-E57C7FB7B680}">
+											<Child Name="E37F5D41_CC68_459E_88B8_E4B5F907C954" Owner="{3641CBB8-F2D9-4055-8752-DD7D5325C106}" />
+											<Child Name="DAFBC821_951E_4680_913E_0E3F45ED5CB2" Owner="{6DEA4220-3E3A-42D8-AE23-12CC20C8852D}" />
+											<Child Name="BFEBC8B5_4B13_4AA9_9684_9EF96E0B3BC5" Owner="{39D007B0-64A6-4DEF-AE16-70B70CF1067B}" />
+											<Child Name="D6A0E990_A1CD_4EB7_B176_5FF96FAFE3D9" Owner="{4B788109-DFEB-4C5F-9BE6-C28232D69531}" />
+											<Child Name="z66927D6_0DE7_4B34_A183_7D76587B351E" Owner="{7329E09C-4FDA-4C6B-A1ED-B4C8F206D07F}" />
+										</Child>
+									</Child>
+								</Child>
+								<Child Name="zc4fe445_ca2b_4c64_b66a_ca3851976de9" Owner="{FEB960B5-05F5-4F2A-88F4-8BF9CCE458B8}">
+									<Child Name="ucEntryTemplate" Owner="{898398CA-6F21-4F0F-88E5-300750C04143}">
+										<Child Name="BarDockControl" Owner="{19EC3CA9-2593-4F4F-A964-BFC449A16644}">
+											<Child Name="DockedBarControl" Owner="{FA813100-CB1D-4031-9D4F-30887C9A204D}" />
+										</Child>
+									</Child>
+								</Child>
+								<Child Name="z2e94da9_b913_4903_bb0a_8d6d4c19dd9b" Owner="{4119CF48-F040-47C6-976C-51BCC9F30CAA}">
+									<Child Name="ucEntryTemplate" Owner="{20442C2D-E4EB-4843-8654-570E2A13DAD3}">
+										<Child Name="MainLayoutControl" Owner="{1A11CEF6-8D7B-4027-B868-4464637FD434}">
+											<Child Name="z826EB41_C305_4C5A_84BB_182B82BE141C" Owner="{463C4B16-9F0A-4B3C-8D5D-80F9B2994221}">
+												<Child Name="TextBoxMaskBox" Owner="{2B34DD06-737E-494C-AAA6-4900F46A5D1B}" />
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+								<Child Name="z0063d5a_4d81_4117_816a_c1afbac9163c" Owner="{0B453F7F-3303-4C16-AD1A-3DC6052E5649}">
+									<Child Name="ucEntryTemplate" Owner="{8DCCF921-DD36-4413-BDB0-669235F7FD96}">
+										<Child Name="MainLayoutControl" Owner="{6A461B35-665E-422D-B194-8352FDFA6E4C}">
+											<Child Name="zEEC58DC_DF58_4F05_91D4_A142322381FD" Owner="{037B3095-D3F5-4A47-81AB-BABD94A4FDCC}" />
+											<Child Name="z2B3D946_F06B_4A96_88F7_4788F2417E07" Owner="{BF419C42-151D-4CD7-8E7C-FEB287D32B13}">
+												<Child Name="TextBoxMaskBox" Owner="{E3D70741-34B4-432B-B0ED-AE7C08C14167}" />
+											</Child>
+											<Child Name="z5F5CA79_B462_493E_88FC_0DBF72B4663D" Owner="{FA768715-A2EF-4B54-ADAA-504E5334BAE0}">
+												<Child Name="TextBoxMaskBox" Owner="{4BB4C1CB-E232-459B-9BAE-17EF06B7302D}" />
+											</Child>
+											<Child Name="C10C1141_69DF_442B_9374_D24D5F771FB8" Owner="{BCB56569-69A2-4577-B884-1C1246DC2803}" />
+										</Child>
+										<Child Name="BarDockControl" Owner="{FF056F58-E107-4184-89A6-DC71BC04C294}">
+											<Child Name="DockedBarControl" Owner="{5E7A002D-7BDE-4D58-8279-1BE822F32206}" />
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+						<Child Name="BarDockControl" Owner="{D22C899C-D5DB-4FF2-A3B7-69A96363C817}">
+							<Child Name="DockedBarControl" Owner="{5DFBA0CB-2502-4DEF-9DC6-4D2AC9C19CCD}" />
+						</Child>
+					</Child>
+					<Child Name="UcHeaderNew1" Owner="{5BD3CEA8-D9CF-4618-858F-0E806CCA330E}">
+						<Child Name="lcMain" Owner="{F517DFB7-81A3-43D3-B4E7-2E8EA6532C96}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="PopupLookUpEditForm" Owner="{E4D1DC6C-6AEA-46CC-8702-BA51AC5A43FC}" />
+			<Child Name="fmMessage" Owner="{58D5DA0E-830A-41DF-9AB3-FA889BD2FEEA}">
+				<Child Name="LayoutControl1" Owner="{CB88A05D-3B69-4C9F-A695-1508629AF95B}">
+					<Child Name="btn1" Owner="{E88E7587-9A5C-4CC2-AB79-09EA5FA0657E}" />
+					<Child Name="btn3" Owner="{480E9E14-EE4E-485C-AF03-5C4B304499F0}" />
+				</Child>
+			</Child>
+			<Child Name="ComboBoxPopupListBoxForm" Owner="{AB9AA8A4-DA5B-4365-B335-075B0809721A}">
+				<Child Name="ComboBoxPopupListBox" Owner="{E35FA60A-2BA0-4ABD-AA7B-41C7B537D816}" />
+			</Child>
+		</Child>
+		<Child Name="katalon" Owner="{CBCDB99B-9754-4C00-A823-E33014C78086}">
+			<Child Name="Shell" Owner="{52F7B9A5-087B-4559-B07F-A2489F385206}" />
+		</Child>
+		<Child Name="explorer" Owner="{2EDB6CEF-35AA-41B1-8CB6-96ED9CB8A581}">
+			<Child Name="wndMediConnect2" Owner="{AFCA6F36-3D43-4EEE-AB3E-7BFF9E14510F}" />
+		</Child>
+	</LogicalNodes>
+</Root>

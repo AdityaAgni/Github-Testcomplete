@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="log data">
+			<Node name="row4">
+				<Prp name="details" type="S" value="{29414A5F-937C-44AD-92A2-0895C7E1E958}"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="45649.6141120486"/>
+				<Prp name="end time" type="D" value="45649.6141657407"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="name" type="S" value="Open All Orders [KeywordTests - Open_All_Orders]"/>
+				<Prp name="index" type="I" value="4"/>
+				<Prp name="extended message" type="S" value=""/>
+			</Node>
+			<Node name="row5">
+				<Prp name="details" type="S" value="{0654F474-C90C-40BF-9876-0197C0CF65F2}"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="45649.6141657523"/>
+				<Prp name="end time" type="D" value="45649.6176502894"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="name" type="S" value="Looping open order [KeywordTests - Open_1_Order_20_times]"/>
+				<Prp name="index" type="I" value="5"/>
+				<Prp name="extended message" type="S" value=""/>
+			</Node>
+			<Node name="row0">
+				<Prp name="details" type="S" value=""/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="-1"/>
+				<Prp name="start time" type="D" value="45649.6136365046"/>
+				<Prp name="end time" type="D" value="45649.6136365046"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="name" type="S" value="Element to be run"/>
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="extended message" type="S" value=""/>
+			</Node>
+			<Node name="row2">
+				<Prp name="details" type="S" value="{57D20521-9138-4BCF-85D8-C7A9C7790FFB}"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="45649.6136365162"/>
+				<Prp name="end time" type="D" value="45649.613673912"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="name" type="S" value="Run MC [KeywordTests - Run_Application_MC]"/>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="extended message" type="S" value=""/>
+			</Node>
+			<Node name="row6">
+				<Prp name="details" type="S" value="{99A7290D-086A-472B-939A-570DF92BAE8D}"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="45649.6176503009"/>
+				<Prp name="end time" type="D" value="45649.6178711227"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="name" type="S" value="Export to excel [Script\exportLogToExcel - exportLogToExcel]"/>
+				<Prp name="index" type="I" value="6"/>
+				<Prp name="extended message" type="S" value=""/>
+			</Node>
+			<Node name="row1">
+				<Prp name="details" type="S" value=""/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="45649.6136365046"/>
+				<Prp name="end time" type="D" value="45649.6136365046"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="name" type="S" value="No element to be run for the 'Open Orders 20 times' test item was specified."/>
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="extended message" type="S" value=""/>
+			</Node>
+			<Node name="row3">
+				<Prp name="details" type="S" value="{5E23FD6C-3DB8-416D-B55F-9DA8FD949EDC}"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="45649.6136739236"/>
+				<Prp name="end time" type="D" value="45649.6141120255"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="name" type="S" value="Login [KeywordTests - Login_MC]"/>
+				<Prp name="index" type="I" value="3"/>
+				<Prp name="extended message" type="S" value=""/>
+			</Node>
+		</Node>
+	</Node>
+</Nodes>

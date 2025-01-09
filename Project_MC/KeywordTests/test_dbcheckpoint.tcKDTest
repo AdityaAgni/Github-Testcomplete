@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{3983E356-B0B5-4B7C-9A55-25CF64B79615}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="378" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="87" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientManagement.LayoutControl1.gcPatient;" />
+				</Data>
+			</Operation>
+			<Operation Type="{AE794690-DDF6-4B63-8E92-60B253E7F7CA}">
+				<Data Description="Compares the %n Stores element with values stored in the database specified by the element properties." Checkpoint="tbl_patient" />
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{02B74B2B-D667-46FE-A335-E39F2EEBF5B0}" />
+</Root>

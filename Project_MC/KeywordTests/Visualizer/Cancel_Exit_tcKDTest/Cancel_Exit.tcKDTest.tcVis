@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{E6266DD3-8659-42A1-9B2B-9866F8347CC8}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45645.0856134259" objectName="Aliases.MediConnect2.fmMain.RibbonControl" objectLeft="0" objectTop="-8" objectRight="1920" objectBottom="166" clickPointX="1884" clickPointY="17" imageFileName="tcvi655187718130360.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45645.0856712963" objectName="Aliases.MediConnect2.fmMessage.LayoutControl1.btnCancel" objectLeft="536" objectTop="413" objectRight="576" objectBottom="436" clickPointX="566" clickPointY="424" imageFileName="tcvi655192546130362.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

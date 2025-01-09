@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 10">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage10_Dif.png"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1928"/>
+					<Prp name="object top" type="I" value="-8"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="577"/>
+					<Prp name="object bottom" type="I" value="1048"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi59091871133201.png"/>
+					<Prp name="object left" type="I" value="-8"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.1377314815"/>
+					<Prp name="click point y" type="I" value="252"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1928"/>
+					<Prp name="object top" type="I" value="-8"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="1048"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage10.png"/>
+					<Prp name="object left" type="I" value="-8"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2405499653"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+			</Node>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="date" type="D" value="45649.5322386227"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="6"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="10"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmMain.XtraMainMenu&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).XtraMainMenu)"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The menu item 'Start workflow' was clicked."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 12">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage12_Dif.png"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1910"/>
+					<Prp name="object top" type="I" value="314"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="738"/>
+					<Prp name="object bottom" type="I" value="661"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi97707501163202.png"/>
+					<Prp name="object left" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.1824305556"/>
+					<Prp name="click point y" type="I" value="359"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1910"/>
+					<Prp name="object top" type="I" value="314"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="738"/>
+					<Prp name="object bottom" type="I" value="661"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage12.png"/>
+					<Prp name="object left" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2406604514"/>
+					<Prp name="click point y" type="I" value="359"/>
+				</Node>
+			</Node>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="date" type="D" value="45649.5323290856"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="12"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (728, 45) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ClientPanel&quot;).WinFormsObject(&quot;ucOrderHeaderList&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;gcOrderHeader&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 14">
+			<Prp name="stack beginning" type="I" value="3"/>
+			<Prp name="picture" type="S" value="Picture1.png"/>
+			<Prp name="date" type="D" value="45649.5325792014"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="14"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="remarks" type="S" value="&lt;!doctype html&gt; &lt;html&gt;&lt;style&gt;body {font-family : Segoe UI, Tahoma, Arial, Helvetica, sans-serif; font-size : 10pt; font-weight : normal; padding : 14px 8px 8px 14px; margin : 0 0 0 0;} p {margin : 4px 0 4px 0; padding : 0 0 0 0;} h4 {font-size: 10pt; font-weight : bold; margin : 12px 0 0 16px; padding : 0 0 0 0;} table {margin-left : 16px; border-top: 1px solid grey;} td {font-size : 10pt; font-weight : normal; padding-left : 8px;} &lt;/style&gt;&lt;style&gt;p, td, th{font-size: 10pt;} td, th {border-bottom: 1px solid #cdcdcd; padding: 2px 10px 2px 10px;} th {text-align: left; background: #cdcdcd; font-weight : normal;}  p {padding : 0; margin : 4 0 4 0px; line-height: 16pt;} table {border: 0px;}&lt;/style&gt;&lt;style&gt;.wide{width: 100%; margin: 0; padding:0; border:0;} .clsimg{width: 400px; margin: auto; border:0} td.row1{width: *;}  td.row2{width: 250px;}&lt;/style&gt;&lt;body&gt;&lt;div class=&quot;wide&quot;&gt;&lt;table class=&quot;wide&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;td class=&quot;row1&quot;&gt;&lt;/td&gt;&lt;td class=&quot;row2&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top;text-align:left&quot;&gt;&lt;p&gt;Unable to find the following object when executing the &lt;code&gt;Keys&lt;/code&gt; command:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;MediConnect2.&amp;#8203;fmMain.&amp;#8203;FhLayoutControl1.&amp;#8203;ClientPanel.&amp;#8203;ucOrderHeaderList.&amp;#8203;FhLayoutControl1.&amp;#8203;gcOrderHeader.&amp;#8203;&lt;a href=&quot;lnamemapping://{6DD6770B-CBBD-44DC-B56D-B35ED825B677}.Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;TextEdit&lt;/span&gt;&lt;/a&gt;.&amp;#8203;&lt;a href=&quot;lnamemapping://{6DD6770B-CBBD-44DC-B56D-B35ED825B677}.Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit.TextBoxMaskBox&quot; title=&quot;Called object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: #00a5e5; font-weight: bold;&quot;&gt;TextBoxMaskBox&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Reason&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The parent object was not found:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;MediConnect2.&amp;#8203;fmMain.&amp;#8203;FhLayoutControl1.&amp;#8203;ClientPanel.&amp;#8203;ucOrderHeaderList.&amp;#8203;FhLayoutControl1.&amp;#8203;gcOrderHeader.&amp;#8203;&lt;a href=&quot;lnamemapping://{6DD6770B-CBBD-44DC-B56D-B35ED825B677}.Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;TextEdit&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt; &lt;style&gt; a.btn { background-color: #00b2ff; color: white; padding: 5px 20px; text-decoration: none; font-weight : bold; }&lt;/style&gt;&lt;a class=&quot;btn&quot; href=&quot;helpme://54Wh5r2zAQAEAHJvb3QMAAQAbW9kZQAAAAABAHQAAMWeAAEAcgAAzq4AAgBubQEAJABCMzk1NEJB&#xA;QXgxRkRCeDQxODJ4QjVFN3g3OTdGQ0EwNjBFREUHAHByb2plY3QBACQANkRENjc3MEJ4Q0JCRHg0&#xA;NERDeEI1NkR4QjM1RUQ4MjVCNjc3AQBiAADGhAAJAHByb3Bjb3VudAAAAgAIAGNhbGxuYW1lAQBy&#xA;AEFsaWFzZXMuTWVkaUNvbm5lY3QyLmZtTWFpbi5GaExheW91dENvbnRyb2wxLkNsaWVudFBhbmVs&#xA;LnVjT3JkZXJIZWFkZXJMaXN0LkZoTGF5b3V0Q29udHJvbDEuZ2NPcmRlckhlYWRlci5UZXh0RWRp&#xA;dAcAcGljZmlsZQEAKgB7MzYzQjAxNjEtQTFDOC00OUJBLTg3MkQtMzE3MUMwMUU4NTkxfS5wbmcE&#xA;AHR5cGUBAAsAUmVjb2duaXRpb24BAGwAAMqoAAYAY29uZmlnAQAVAERlZmF1bHQgQ29uZmlndXJh&#xA;dGlvbgQACwBmb3VuZHZhbHVlcwIAAQAwAQB9AEA0NDAwNjUwMDc2MDA0NTAwNzgwMDcwMDA3MjAw&#xA;NjUwMDczMDA3MzAwMkUwMDU4MDA3NDAwNzIwMDYxMDA0NTAwNjQwMDY5MDA3NDAwNkYwMDcyMDA3&#xA;MzAwMkUwMDU0MDA2NTAwNzgwMDc0MDA0NTAwNjQwMDY5MDA3NDAwAQAxAQAhAEA0OTAwNkUwMDc2&#xA;MDA2MTAwNzMwMDY5MDA3NjAwNjUwMAAABQBuYW1lcwIAAQAwAQAQAENsckZ1bGxDbGFzc05hbWUB&#xA;ADEBAAoAV25kQ2FwdGlvbgAABwBtYXRjaGVkAgABADAAAO+/v+e/vwEAMQAAAQAAAAYAdmFsdWVz&#xA;AgABADABAH0AQDQ0MDA2NTAwNzYwMDQ1MDA3ODAwNzAwMDcyMDA2NTAwNzMwMDczMDAyRTAwNTgw&#xA;MDc0MDA3MjAwNjEwMDQ1MDA2NDAwNjkwMDc0MDA2RjAwNzIwMDczMDAyRTAwNTQwMDY1MDA3ODAw&#xA;NzQwMDQ1MDA2NDAwNjkwMDc0MDABADEBAAEAQAAA&quot;&gt;Intelligent Fix&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Tips&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top: 10px&quot;&gt;&lt;li&gt;On the &lt;a href=&quot;showpicture://pic&quot;&gt;Picture&lt;/a&gt; tab, check if the object existed during the test run.&lt;/li&gt;&lt;li&gt;View the search criteria for the object in the &lt;a href=&quot;lnamemapping://{6DD6770B-CBBD-44DC-B56D-B35ED825B677}.Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit&quot;&gt;NameMapping editor&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;aqa-help://2201&quot;&gt;Learn more&lt;/a&gt; about possible causes of the error.&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td style=&quot;vertical-align:top;text-align:center&quot;&gt; &lt;a href=&quot;showpicturedialog://%%LogDir%%\{C4D3BAB2-3043-4BBC-85A9-BDD913404E20}_1.png&quot;&gt; &lt;img title=&quot;The expected state of the tested application. The missing object (red frame) and the called test object (blue frame).&quot; class=&quot;clsimg&quot; src=&quot;file:///%%LogDir%%\{C4D3BAB2-3043-4BBC-85A9-BDD913404E20}_1.png&quot;&gt; &lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stack end" type="I" value="3"/>
+			<Prp name="message" type="S" value="The object &quot;TextBoxMaskBox&quot; does not exist."/>
+			<Prp name="priority" type="I" value="400"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{3BC1BB36-BBCD-4DF3-BC04-FADF64F81382}"/>
+		</Node>
+		<Node name="item 1">
+			<Prp name="stacktext" type="S" value="Open_1_Order_20_times()"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="4"/>
+		</Node>
+		<Node name="message 15">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage13_Dif.png"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1910"/>
+					<Prp name="object top" type="I" value="314"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="745"/>
+					<Prp name="object bottom" type="I" value="661"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi14685609994402.png"/>
+					<Prp name="object left" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2393055556"/>
+					<Prp name="click point y" type="I" value="402"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1910"/>
+					<Prp name="object top" type="I" value="314"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="745"/>
+					<Prp name="object bottom" type="I" value="661"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage13.png"/>
+					<Prp name="object left" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2409126505"/>
+					<Prp name="click point y" type="I" value="402"/>
+				</Node>
+			</Node>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="date" type="D" value="45649.5325835995"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="15"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (735, 88) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ClientPanel&quot;).WinFormsObject(&quot;ucOrderHeaderList&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;gcOrderHeader&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 9">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage9_Dif.png"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1910"/>
+					<Prp name="object top" type="I" value="314"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="745"/>
+					<Prp name="object bottom" type="I" value="661"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi14685609994401.png"/>
+					<Prp name="object left" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2393055556"/>
+					<Prp name="click point y" type="I" value="402"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1910"/>
+					<Prp name="object top" type="I" value="314"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="745"/>
+					<Prp name="object bottom" type="I" value="661"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage9.png"/>
+					<Prp name="object left" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2405440625"/>
+					<Prp name="click point y" type="I" value="402"/>
+				</Node>
+			</Node>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="date" type="D" value="45649.5322151273"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (735, 88) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ClientPanel&quot;).WinFormsObject(&quot;ucOrderHeaderList&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;gcOrderHeader&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 6">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage6_Dif.png"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1910"/>
+					<Prp name="object top" type="I" value="314"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="738"/>
+					<Prp name="object bottom" type="I" value="661"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi97707501163201.png"/>
+					<Prp name="object left" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.1824305556"/>
+					<Prp name="click point y" type="I" value="359"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1910"/>
+					<Prp name="object top" type="I" value="314"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="738"/>
+					<Prp name="object bottom" type="I" value="661"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage6.png"/>
+					<Prp name="object left" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.240285706"/>
+					<Prp name="click point y" type="I" value="359"/>
+				</Node>
+			</Node>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="date" type="D" value="45649.5319539931"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (728, 45) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ClientPanel&quot;).WinFormsObject(&quot;ucOrderHeaderList&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;gcOrderHeader&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 7">
+			<Prp name="stack beginning" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture1.png"/>
+			<Prp name="date" type="D" value="45649.5320820255"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="remarks" type="S" value="&lt;!doctype html&gt; &lt;html&gt;&lt;style&gt;body {font-family : Segoe UI, Tahoma, Arial, Helvetica, sans-serif; font-size : 10pt; font-weight : normal; padding : 14px 8px 8px 14px; margin : 0 0 0 0;} p {margin : 4px 0 4px 0; padding : 0 0 0 0;} h4 {font-size: 10pt; font-weight : bold; margin : 12px 0 0 16px; padding : 0 0 0 0;} table {margin-left : 16px; border-top: 1px solid grey;} td {font-size : 10pt; font-weight : normal; padding-left : 8px;} &lt;/style&gt;&lt;style&gt;p, td, th{font-size: 10pt;} td, th {border-bottom: 1px solid #cdcdcd; padding: 2px 10px 2px 10px;} th {text-align: left; background: #cdcdcd; font-weight : normal;}  p {padding : 0; margin : 4 0 4 0px; line-height: 16pt;} table {border: 0px;}&lt;/style&gt;&lt;style&gt;.wide{width: 100%; margin: 0; padding:0; border:0;} .clsimg{width: 400px; margin: auto; border:0} td.row1{width: *;}  td.row2{width: 250px;}&lt;/style&gt;&lt;body&gt;&lt;div class=&quot;wide&quot;&gt;&lt;table class=&quot;wide&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;td class=&quot;row1&quot;&gt;&lt;/td&gt;&lt;td class=&quot;row2&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top;text-align:left&quot;&gt;&lt;p&gt;Unable to find the following object when executing the &lt;code&gt;SetText&lt;/code&gt; command:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;MediConnect2.&amp;#8203;fmMain.&amp;#8203;FhLayoutControl1.&amp;#8203;ClientPanel.&amp;#8203;ucOrderHeaderList.&amp;#8203;FhLayoutControl1.&amp;#8203;gcOrderHeader.&amp;#8203;&lt;a href=&quot;lnamemapping://{6DD6770B-CBBD-44DC-B56D-B35ED825B677}.Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;TextEdit&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt; &lt;style&gt; a.btn { background-color: #00b2ff; color: white; padding: 5px 20px; text-decoration: none; font-weight : bold; }&lt;/style&gt;&lt;a class=&quot;btn&quot; href=&quot;helpme://54Wh5r2zAQAEAHJvb3QMAAEAdAAAxZ4ABwBwaWNmaWxlAQAqAHtDMDlFMTY4MC03RTc1LTRBMzct&#xA;QUIzMy01REY3RDhFQkM4QjB9LnBuZwcAcHJvamVjdAEAJAA2REQ2NzcwQnhDQkJEeDQ0REN4QjU2&#xA;RHhCMzVFRDgyNUI2NzcEAG1vZGUAAAAAAQByAADOrgAGAGNvbmZpZwEAFQBEZWZhdWx0IENvbmZp&#xA;Z3VyYXRpb24IAGNhbGxuYW1lAQByAEFsaWFzZXMuTWVkaUNvbm5lY3QyLmZtTWFpbi5GaExheW91&#xA;dENvbnRyb2wxLkNsaWVudFBhbmVsLnVjT3JkZXJIZWFkZXJMaXN0LkZoTGF5b3V0Q29udHJvbDEu&#xA;Z2NPcmRlckhlYWRlci5UZXh0RWRpdAkAcHJvcGNvdW50AAACAAQAdHlwZQEACwBSZWNvZ25pdGlv&#xA;bgEAbAAAyqgAAgBubQEAJABCMzk1NEJBQXgxRkRCeDQxODJ4QjVFN3g3OTdGQ0EwNjBFREUBAGIA&#xA;AMaEAAQABwBtYXRjaGVkAgABADAAAO+/v+e/vwEAMQAAAQAAAAUAbmFtZXMCAAEAMAEAEABDbHJG&#xA;dWxsQ2xhc3NOYW1lAQAxAQAKAFduZENhcHRpb24AAAsAZm91bmR2YWx1ZXMCAAEAMAEAfQBANDQw&#xA;MDY1MDA3NjAwNDUwMDc4MDA3MDAwNzIwMDY1MDA3MzAwNzMwMDJFMDA1ODAwNzQwMDcyMDA2MTAw&#xA;NDUwMDY0MDA2OTAwNzQwMDZGMDA3MjAwNzMwMDJFMDA1NDAwNjUwMDc4MDA3NDAwNDUwMDY0MDA2&#xA;OTAwNzQwMAEAMQEAIQBANDkwMDZFMDA3NjAwNjEwMDczMDA2OTAwNzYwMDY1MDAAAAYAdmFsdWVz&#xA;AgABADABAH0AQDQ0MDA2NTAwNzYwMDQ1MDA3ODAwNzAwMDcyMDA2NTAwNzMwMDczMDAyRTAwNTgw&#xA;MDc0MDA3MjAwNjEwMDQ1MDA2NDAwNjkwMDc0MDA2RjAwNzIwMDczMDAyRTAwNTQwMDY1MDA3ODAw&#xA;NzQwMDQ1MDA2NDAwNjkwMDc0MDABADEBAAEAQAAA&quot;&gt;Intelligent Fix&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Tips&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top: 10px&quot;&gt;&lt;li&gt;On the &lt;a href=&quot;showpicture://pic&quot;&gt;Picture&lt;/a&gt; tab, check if the object existed during the test run.&lt;/li&gt;&lt;li&gt;View the search criteria for the object in the &lt;a href=&quot;lnamemapping://{6DD6770B-CBBD-44DC-B56D-B35ED825B677}.Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit&quot;&gt;NameMapping editor&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;aqa-help://2201&quot;&gt;Learn more&lt;/a&gt; about possible causes of the error.&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td style=&quot;vertical-align:top;text-align:center&quot;&gt; &lt;a href=&quot;showpicturedialog://%%LogDir%%\{B3954BAA-1FDB-4182-B5E7-797FCA060EDE}.png&quot;&gt; &lt;img title=&quot;The expected state of the tested application. The missing object (red frame) and the called test object (blue frame).&quot; class=&quot;clsimg&quot; src=&quot;file:///%%LogDir%%\{B3954BAA-1FDB-4182-B5E7-797FCA060EDE}.png&quot;&gt; &lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stack end" type="I" value="0"/>
+			<Prp name="message" type="S" value="The object &quot;TextEdit&quot; does not exist."/>
+			<Prp name="priority" type="I" value="400"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 0">
+			<Prp name="stacktext" type="S" value="Open_1_Order_20_times()"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="3"/>
+		</Node>
+		<Node name="message 17">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage15_Dif.png"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.BarDockControl.DockedBarControl"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1920"/>
+					<Prp name="object top" type="I" value="123"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="864"/>
+					<Prp name="object bottom" type="I" value="159"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi59229371133222.png"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.1378935185"/>
+					<Prp name="click point y" type="I" value="138"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.BarDockControl.DockedBarControl"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1920"/>
+					<Prp name="object top" type="I" value="123"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="159"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage15.png"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2410069444"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+			</Node>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="date" type="D" value="45649.5326787037"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="17"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.BarDockControl.DockedBarControl&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmWorkflow&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ucWorkflow&quot;).WinFormsObject(&quot;BarDockControl&quot;, &quot;&quot;, 5).WinFormsObject(&quot;DockedBarControl&quot;, &quot;&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The 'Close' item of the bar control was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 3">
+			<Prp name="stacktext" type="S" value="Open_1_Order_20_times()"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="4"/>
+		</Node>
+		<Node name="message 4">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage4_Dif.png"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1928"/>
+					<Prp name="object top" type="I" value="-8"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="577"/>
+					<Prp name="object bottom" type="I" value="1048"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi5909187113320.png"/>
+					<Prp name="object left" type="I" value="-8"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.1377314815"/>
+					<Prp name="click point y" type="I" value="252"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1928"/>
+					<Prp name="object top" type="I" value="-8"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="1048"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage4.png"/>
+					<Prp name="object left" type="I" value="-8"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2401789699"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+			</Node>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="date" type="D" value="45649.5318673958"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="6"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmMain.XtraMainMenu&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).XtraMainMenu)"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The menu item 'Start workflow' was clicked."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 3">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage3_Dif.png"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1910"/>
+					<Prp name="object top" type="I" value="314"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="745"/>
+					<Prp name="object bottom" type="I" value="661"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi1468560999440.png"/>
+					<Prp name="object left" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2393055556"/>
+					<Prp name="click point y" type="I" value="402"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1910"/>
+					<Prp name="object top" type="I" value="314"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="745"/>
+					<Prp name="object bottom" type="I" value="661"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage3.png"/>
+					<Prp name="object left" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2401728356"/>
+					<Prp name="click point y" type="I" value="402"/>
+				</Node>
+			</Node>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="date" type="D" value="45649.5318441319"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (735, 88) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ClientPanel&quot;).WinFormsObject(&quot;ucOrderHeaderList&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;gcOrderHeader&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 13">
+			<Prp name="stack beginning" type="I" value="2"/>
+			<Prp name="picture" type="S" value="Picture1.png"/>
+			<Prp name="date" type="D" value="45649.5324540046"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="13"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="remarks" type="S" value="&lt;!doctype html&gt; &lt;html&gt;&lt;style&gt;body {font-family : Segoe UI, Tahoma, Arial, Helvetica, sans-serif; font-size : 10pt; font-weight : normal; padding : 14px 8px 8px 14px; margin : 0 0 0 0;} p {margin : 4px 0 4px 0; padding : 0 0 0 0;} h4 {font-size: 10pt; font-weight : bold; margin : 12px 0 0 16px; padding : 0 0 0 0;} table {margin-left : 16px; border-top: 1px solid grey;} td {font-size : 10pt; font-weight : normal; padding-left : 8px;} &lt;/style&gt;&lt;style&gt;p, td, th{font-size: 10pt;} td, th {border-bottom: 1px solid #cdcdcd; padding: 2px 10px 2px 10px;} th {text-align: left; background: #cdcdcd; font-weight : normal;}  p {padding : 0; margin : 4 0 4 0px; line-height: 16pt;} table {border: 0px;}&lt;/style&gt;&lt;style&gt;.wide{width: 100%; margin: 0; padding:0; border:0;} .clsimg{width: 400px; margin: auto; border:0} td.row1{width: *;}  td.row2{width: 250px;}&lt;/style&gt;&lt;body&gt;&lt;div class=&quot;wide&quot;&gt;&lt;table class=&quot;wide&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;td class=&quot;row1&quot;&gt;&lt;/td&gt;&lt;td class=&quot;row2&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top;text-align:left&quot;&gt;&lt;p&gt;Unable to find the following object when executing the &lt;code&gt;SetText&lt;/code&gt; command:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;MediConnect2.&amp;#8203;fmMain.&amp;#8203;FhLayoutControl1.&amp;#8203;ClientPanel.&amp;#8203;ucOrderHeaderList.&amp;#8203;FhLayoutControl1.&amp;#8203;gcOrderHeader.&amp;#8203;&lt;a href=&quot;lnamemapping://{6DD6770B-CBBD-44DC-B56D-B35ED825B677}.Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;TextEdit&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt; &lt;style&gt; a.btn { background-color: #00b2ff; color: white; padding: 5px 20px; text-decoration: none; font-weight : bold; }&lt;/style&gt;&lt;a class=&quot;btn&quot; href=&quot;helpme://54Wh5r2zAQAEAHJvb3QMAAkAcHJvcGNvdW50AAACAAYAY29uZmlnAQAVAERlZmF1bHQgQ29uZmln&#xA;dXJhdGlvbgEAcgAAzq4ACABjYWxsbmFtZQEAcgBBbGlhc2VzLk1lZGlDb25uZWN0Mi5mbU1haW4u&#xA;RmhMYXlvdXRDb250cm9sMS5DbGllbnRQYW5lbC51Y09yZGVySGVhZGVyTGlzdC5GaExheW91dENv&#xA;bnRyb2wxLmdjT3JkZXJIZWFkZXIuVGV4dEVkaXQHAHBpY2ZpbGUBACoAe0U4RDIxRDlELTREOTEt&#xA;NEUzMS05RjE0LUQ5QjJGMDY1NzIwNH0ucG5nAQBiAADGhAAEAG1vZGUAAAAAAQB0AADFngABAGwA&#xA;AMqoAAIAbm0BACQAQjM5NTRCQUF4MUZEQng0MTgyeEI1RTd4Nzk3RkNBMDYwRURFBwBwcm9qZWN0&#xA;AQAkADZERDY3NzBCeENCQkR4NDREQ3hCNTZEeEIzNUVEODI1QjY3NwQAdHlwZQEACwBSZWNvZ25p&#xA;dGlvbgQABwBtYXRjaGVkAgABADAAAO+/v+e/vwEAMQAAAQAAAAsAZm91bmR2YWx1ZXMCAAEAMAEA&#xA;fQBANDQwMDY1MDA3NjAwNDUwMDc4MDA3MDAwNzIwMDY1MDA3MzAwNzMwMDJFMDA1ODAwNzQwMDcy&#xA;MDA2MTAwNDUwMDY0MDA2OTAwNzQwMDZGMDA3MjAwNzMwMDJFMDA1NDAwNjUwMDc4MDA3NDAwNDUw&#xA;MDY0MDA2OTAwNzQwMAEAMQEAIQBANDkwMDZFMDA3NjAwNjEwMDczMDA2OTAwNzYwMDY1MDAAAAYA&#xA;dmFsdWVzAgABADABAH0AQDQ0MDA2NTAwNzYwMDQ1MDA3ODAwNzAwMDcyMDA2NTAwNzMwMDczMDAy&#xA;RTAwNTgwMDc0MDA3MjAwNjEwMDQ1MDA2NDAwNjkwMDc0MDA2RjAwNzIwMDczMDAyRTAwNTQwMDY1&#xA;MDA3ODAwNzQwMDQ1MDA2NDAwNjkwMDc0MDABADEBAAEAQAAABQBuYW1lcwIAAQAwAQAQAENsckZ1&#xA;bGxDbGFzc05hbWUBADEBAAoAV25kQ2FwdGlvbgAA&quot;&gt;Intelligent Fix&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Tips&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top: 10px&quot;&gt;&lt;li&gt;On the &lt;a href=&quot;showpicture://pic&quot;&gt;Picture&lt;/a&gt; tab, check if the object existed during the test run.&lt;/li&gt;&lt;li&gt;View the search criteria for the object in the &lt;a href=&quot;lnamemapping://{6DD6770B-CBBD-44DC-B56D-B35ED825B677}.Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit&quot;&gt;NameMapping editor&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;aqa-help://2201&quot;&gt;Learn more&lt;/a&gt; about possible causes of the error.&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td style=&quot;vertical-align:top;text-align:center&quot;&gt; &lt;a href=&quot;showpicturedialog://%%LogDir%%\{B3954BAA-1FDB-4182-B5E7-797FCA060EDE}_1.png&quot;&gt; &lt;img title=&quot;The expected state of the tested application. The missing object (red frame) and the called test object (blue frame).&quot; class=&quot;clsimg&quot; src=&quot;file:///%%LogDir%%\{B3954BAA-1FDB-4182-B5E7-797FCA060EDE}_1.png&quot;&gt; &lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stack end" type="I" value="2"/>
+			<Prp name="message" type="S" value="The object &quot;TextEdit&quot; does not exist."/>
+			<Prp name="priority" type="I" value="400"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 8">
+			<Prp name="stack beginning" type="I" value="1"/>
+			<Prp name="picture" type="S" value="Picture1.png"/>
+			<Prp name="date" type="D" value="45649.5322106134"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="remarks" type="S" value="&lt;!doctype html&gt; &lt;html&gt;&lt;style&gt;body {font-family : Segoe UI, Tahoma, Arial, Helvetica, sans-serif; font-size : 10pt; font-weight : normal; padding : 14px 8px 8px 14px; margin : 0 0 0 0;} p {margin : 4px 0 4px 0; padding : 0 0 0 0;} h4 {font-size: 10pt; font-weight : bold; margin : 12px 0 0 16px; padding : 0 0 0 0;} table {margin-left : 16px; border-top: 1px solid grey;} td {font-size : 10pt; font-weight : normal; padding-left : 8px;} &lt;/style&gt;&lt;style&gt;p, td, th{font-size: 10pt;} td, th {border-bottom: 1px solid #cdcdcd; padding: 2px 10px 2px 10px;} th {text-align: left; background: #cdcdcd; font-weight : normal;}  p {padding : 0; margin : 4 0 4 0px; line-height: 16pt;} table {border: 0px;}&lt;/style&gt;&lt;style&gt;.wide{width: 100%; margin: 0; padding:0; border:0;} .clsimg{width: 400px; margin: auto; border:0} td.row1{width: *;}  td.row2{width: 250px;}&lt;/style&gt;&lt;body&gt;&lt;div class=&quot;wide&quot;&gt;&lt;table class=&quot;wide&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;td class=&quot;row1&quot;&gt;&lt;/td&gt;&lt;td class=&quot;row2&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top;text-align:left&quot;&gt;&lt;p&gt;Unable to find the following object when executing the &lt;code&gt;Keys&lt;/code&gt; command:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;MediConnect2.&amp;#8203;fmMain.&amp;#8203;FhLayoutControl1.&amp;#8203;ClientPanel.&amp;#8203;ucOrderHeaderList.&amp;#8203;FhLayoutControl1.&amp;#8203;gcOrderHeader.&amp;#8203;&lt;a href=&quot;lnamemapping://{6DD6770B-CBBD-44DC-B56D-B35ED825B677}.Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;TextEdit&lt;/span&gt;&lt;/a&gt;.&amp;#8203;&lt;a href=&quot;lnamemapping://{6DD6770B-CBBD-44DC-B56D-B35ED825B677}.Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit.TextBoxMaskBox&quot; title=&quot;Called object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: #00a5e5; font-weight: bold;&quot;&gt;TextBoxMaskBox&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Reason&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The parent object was not found:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;MediConnect2.&amp;#8203;fmMain.&amp;#8203;FhLayoutControl1.&amp;#8203;ClientPanel.&amp;#8203;ucOrderHeaderList.&amp;#8203;FhLayoutControl1.&amp;#8203;gcOrderHeader.&amp;#8203;&lt;a href=&quot;lnamemapping://{6DD6770B-CBBD-44DC-B56D-B35ED825B677}.Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;TextEdit&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt; &lt;style&gt; a.btn { background-color: #00b2ff; color: white; padding: 5px 20px; text-decoration: none; font-weight : bold; }&lt;/style&gt;&lt;a class=&quot;btn&quot; href=&quot;helpme://54Wh5r2zAQAEAHJvb3QMAAYAY29uZmlnAQAVAERlZmF1bHQgQ29uZmlndXJhdGlvbgIAbm0BACQA&#xA;QjM5NTRCQUF4MUZEQng0MTgyeEI1RTd4Nzk3RkNBMDYwRURFBwBwcm9qZWN0AQAkADZERDY3NzBC&#xA;eENCQkR4NDREQ3hCNTZEeEIzNUVEODI1QjY3NwcAcGljZmlsZQEAKgB7MDRCOEUxREUtQ0U5MS00&#xA;Mzc5LTlDRDQtQjY1NUFCRjg5N0QxfS5wbmcJAHByb3Bjb3VudAAAAgABAGwAAMqoAAEAYgAAxoQA&#xA;BABtb2RlAAAAAAQAdHlwZQEACwBSZWNvZ25pdGlvbgEAdAAAxZ4AAQByAADOrgAIAGNhbGxuYW1l&#xA;AQByAEFsaWFzZXMuTWVkaUNvbm5lY3QyLmZtTWFpbi5GaExheW91dENvbnRyb2wxLkNsaWVudFBh&#xA;bmVsLnVjT3JkZXJIZWFkZXJMaXN0LkZoTGF5b3V0Q29udHJvbDEuZ2NPcmRlckhlYWRlci5UZXh0&#xA;RWRpdAQABgB2YWx1ZXMCAAEAMAEAfQBANDQwMDY1MDA3NjAwNDUwMDc4MDA3MDAwNzIwMDY1MDA3&#xA;MzAwNzMwMDJFMDA1ODAwNzQwMDcyMDA2MTAwNDUwMDY0MDA2OTAwNzQwMDZGMDA3MjAwNzMwMDJF&#xA;MDA1NDAwNjUwMDc4MDA3NDAwNDUwMDY0MDA2OTAwNzQwMAEAMQEAAQBAAAAFAG5hbWVzAgABADAB&#xA;ABAAQ2xyRnVsbENsYXNzTmFtZQEAMQEACgBXbmRDYXB0aW9uAAALAGZvdW5kdmFsdWVzAgABADAB&#xA;AH0AQDQ0MDA2NTAwNzYwMDQ1MDA3ODAwNzAwMDcyMDA2NTAwNzMwMDczMDAyRTAwNTgwMDc0MDA3&#xA;MjAwNjEwMDQ1MDA2NDAwNjkwMDc0MDA2RjAwNzIwMDczMDAyRTAwNTQwMDY1MDA3ODAwNzQwMDQ1&#xA;MDA2NDAwNjkwMDc0MDABADEBACEAQDQ5MDA2RTAwNzYwMDYxMDA3MzAwNjkwMDc2MDA2NTAwAAAH&#xA;AG1hdGNoZWQCAAEAMAAA77+/57+/AQAxAAABAAAA&quot;&gt;Intelligent Fix&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Tips&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top: 10px&quot;&gt;&lt;li&gt;On the &lt;a href=&quot;showpicture://pic&quot;&gt;Picture&lt;/a&gt; tab, check if the object existed during the test run.&lt;/li&gt;&lt;li&gt;View the search criteria for the object in the &lt;a href=&quot;lnamemapping://{6DD6770B-CBBD-44DC-B56D-B35ED825B677}.Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit&quot;&gt;NameMapping editor&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;aqa-help://2201&quot;&gt;Learn more&lt;/a&gt; about possible causes of the error.&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td style=&quot;vertical-align:top;text-align:center&quot;&gt; &lt;a href=&quot;showpicturedialog://%%LogDir%%\{C4D3BAB2-3043-4BBC-85A9-BDD913404E20}.png&quot;&gt; &lt;img title=&quot;The expected state of the tested application. The missing object (red frame) and the called test object (blue frame).&quot; class=&quot;clsimg&quot; src=&quot;file:///%%LogDir%%\{C4D3BAB2-3043-4BBC-85A9-BDD913404E20}.png&quot;&gt; &lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stack end" type="I" value="1"/>
+			<Prp name="message" type="S" value="The object &quot;TextBoxMaskBox&quot; does not exist."/>
+			<Prp name="priority" type="I" value="400"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 11">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage11_Dif.png"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.BarDockControl.DockedBarControl"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1920"/>
+					<Prp name="object top" type="I" value="123"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="864"/>
+					<Prp name="object bottom" type="I" value="159"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi59229371133221.png"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.1378935185"/>
+					<Prp name="click point y" type="I" value="138"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.BarDockControl.DockedBarControl"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1920"/>
+					<Prp name="object top" type="I" value="123"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="159"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage11.png"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2406400694"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+			</Node>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="date" type="D" value="45649.53231125"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="11"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.BarDockControl.DockedBarControl&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmWorkflow&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ucWorkflow&quot;).WinFormsObject(&quot;BarDockControl&quot;, &quot;&quot;, 5).WinFormsObject(&quot;DockedBarControl&quot;, &quot;&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The 'Close' item of the bar control was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 1">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage1_Dif.png"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="827"/>
+					<Prp name="object top" type="I" value="342"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="380"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi9775609116328.png"/>
+					<Prp name="object left" type="I" value="627"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.1824768518"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="929"/>
+					<Prp name="object top" type="I" value="342"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="380"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage1.png"/>
+					<Prp name="object left" type="I" value="669"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2401661227"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+			</Node>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="date" type="D" value="45649.5318341782"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ClientPanel&quot;).WinFormsObject(&quot;ucOrderHeaderList&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;gcOrderHeader&quot;).WinFormsObject(&quot;TextEdit&quot;, &quot;&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The text 'Invasive' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 2">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage2_Dif.png"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit.TextBoxMaskBox"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="825"/>
+					<Prp name="object top" type="I" value="353"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="369"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi9775718116329.png"/>
+					<Prp name="object left" type="I" value="650"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.1824884259"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit.TextBoxMaskBox"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="927"/>
+					<Prp name="object top" type="I" value="353"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="369"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage2.png"/>
+					<Prp name="object left" type="I" value="692"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2401684375"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+			</Node>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="date" type="D" value="45649.5318386921"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="'[Enter]' was sent as a keyboard input to the following window or control.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader.TextEdit.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ClientPanel&quot;).WinFormsObject(&quot;ucOrderHeaderList&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;gcOrderHeader&quot;).WinFormsObject(&quot;TextEdit&quot;, &quot;&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="message" type="S" value="Keyboard input."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 16">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage14_Dif.png"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1928"/>
+					<Prp name="object top" type="I" value="-8"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="577"/>
+					<Prp name="object bottom" type="I" value="1048"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi59091871133202.png"/>
+					<Prp name="object left" type="I" value="-8"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.1377314815"/>
+					<Prp name="click point y" type="I" value="252"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1928"/>
+					<Prp name="object top" type="I" value="-8"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="1048"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage14.png"/>
+					<Prp name="object left" type="I" value="-8"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2409184375"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+			</Node>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="date" type="D" value="45649.5326066319"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="6"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="16"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmMain.XtraMainMenu&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).XtraMainMenu)"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The menu item 'Start workflow' was clicked."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 5">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage5_Dif.png"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.BarDockControl.DockedBarControl"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1920"/>
+					<Prp name="object top" type="I" value="123"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="864"/>
+					<Prp name="object bottom" type="I" value="159"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi5922937113322.png"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.1378935185"/>
+					<Prp name="click point y" type="I" value="138"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.BarDockControl.DockedBarControl"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1920"/>
+					<Prp name="object top" type="I" value="123"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="159"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage5.png"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2402669444"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+			</Node>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="date" type="D" value="45649.5319382407"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.BarDockControl.DockedBarControl&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmWorkflow&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ucWorkflow&quot;).WinFormsObject(&quot;BarDockControl&quot;, &quot;&quot;, 5).WinFormsObject(&quot;DockedBarControl&quot;, &quot;&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The 'Close' item of the bar control was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 0">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage0_Dif.png"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1910"/>
+					<Prp name="object top" type="I" value="314"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="738"/>
+					<Prp name="object bottom" type="I" value="661"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi9770750116320.png"/>
+					<Prp name="object left" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.1824305556"/>
+					<Prp name="click point y" type="I" value="359"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1910"/>
+					<Prp name="object top" type="I" value="314"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="738"/>
+					<Prp name="object bottom" type="I" value="661"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage0.png"/>
+					<Prp name="object left" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45649.2401554745"/>
+					<Prp name="click point y" type="I" value="359"/>
+				</Node>
+			</Node>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="date" type="D" value="45649.5318314005"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (728, 45) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucOrderHeaderList.FhLayoutControl1.gcOrderHeader&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ClientPanel&quot;).WinFormsObject(&quot;ucOrderHeaderList&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;gcOrderHeader&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 2">
+			<Prp name="stacktext" type="S" value="Open_1_Order_20_times()"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="3"/>
+		</Node>
+		<Prp name="status" type="I" value="2"/>
+	</Node>
+</Nodes>

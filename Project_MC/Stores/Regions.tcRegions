@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="fmPopupWithBar" key="{88E6497E-F821-4C43-97BC-5D4DD8B50D3F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="fmPopupWithBar" ID="{88E6497E-F821-4C43-97BC-5D4DD8B50D3F}" FileName="Regions\fmPopupWithBar.png" Update="False" />
+		</child>
+		<child name="fmPopupWithBar_Mask" key="{D51F8495-CB6C-4E7C-A0A2-6685AC72C775}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="fmPopupWithBar_Mask" ID="{D51F8495-CB6C-4E7C-A0A2-6685AC72C775}" FileName="Regions\fmPopupWithBar_Mask.png" Update="False" />
+		</child>
+	</children>
+</Root>

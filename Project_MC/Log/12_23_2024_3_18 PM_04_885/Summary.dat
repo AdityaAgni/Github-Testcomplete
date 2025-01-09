@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="projects">
+			<Node name="project0">
+				<Node name="tests">
+					<Node name="test2">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="status" type="I" value="0"/>
+						<Prp name="duration" type="I" value="32169"/>
+						<Prp name="durationwithoutchildren" type="I" value="32169"/>
+						<Prp name="starttime" type="D" value="45649.6380283912"/>
+						<Prp name="name" type="S" value="Add patient data"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewBFAEYAMQBDAEUANAAzADYALQA0ADMAMgBFAC0ANABBADEAQwAtAEEANgA3AEYALQBBAEYAOQA2AEYARgBGADQAMgAzADcAMwB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+					</Node>
+					<Node name="test4">
+						<Node name="warnings"/>
+						<Node name="errors">
+							<Node name="error1">
+								<Prp name="msg" type="S" value="The window is overlapped by the 'Befund-Kardioversion' window."/>
+							</Node>
+							<Node name="error5">
+								<Prp name="msg" type="S" value="The object does not exist."/>
+							</Node>
+							<Node name="error2">
+								<Prp name="msg" type="S" value="There was an attempt to perform an action at point (54, 24), which is overlapped by another window."/>
+							</Node>
+							<Node name="error6">
+								<Prp name="msg" type="S" value="The test execution was interrupted."/>
+							</Node>
+							<Node name="error0">
+								<Prp name="msg" type="S" value="Unexpected window: 'MediConnect © - 3.1.0.801 - Start workflow'"/>
+							</Node>
+							<Node name="error4">
+								<Prp name="msg" type="S" value="The object &quot;tabMain&quot; does not exist."/>
+							</Node>
+							<Node name="error3">
+								<Prp name="msg" type="S" value="The object &quot;tabMain&quot; does not exist."/>
+							</Node>
+							<Node name="error7">
+								<Prp name="msg" type="S" value="The execution process was interrupted."/>
+							</Node>
+						</Node>
+						<Prp name="status" type="I" value="2"/>
+						<Prp name="duration" type="I" value="107839"/>
+						<Prp name="durationwithoutchildren" type="I" value="107839"/>
+						<Prp name="starttime" type="D" value="45649.6397304167"/>
+						<Prp name="name" type="S" value="Open Existing Order"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewBGAEMAQQAwADMAQQAxADYALQBFADEAQgA5AC0ANABBADcAOQAtADgARQAwAEMALQA5ADcARQAyAEIAMwAzAEUAOAAwADMAQQB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+					</Node>
+					<Node name="test3">
+						<Node name="warnings"/>
+						<Node name="errors">
+							<Node name="error1">
+								<Prp name="msg" type="S" value="The object &quot;btn2&quot; does not exist."/>
+							</Node>
+							<Node name="error2">
+								<Prp name="msg" type="S" value="The object &quot;btn1&quot; does not exist."/>
+							</Node>
+							<Node name="error0">
+								<Prp name="msg" type="S" value="The object &quot;fmLetterDesigner&quot; does not exist."/>
+							</Node>
+							<Node name="error4">
+								<Prp name="msg" type="S" value="The object &quot;btn1&quot; does not exist."/>
+							</Node>
+							<Node name="error3">
+								<Prp name="msg" type="S" value="Cannot obtain the popup menu for item 'Close'."/>
+							</Node>
+						</Node>
+						<Prp name="status" type="I" value="2"/>
+						<Prp name="duration" type="I" value="114872"/>
+						<Prp name="durationwithoutchildren" type="I" value="114872"/>
+						<Prp name="starttime" type="D" value="45649.6384007986"/>
+						<Prp name="name" type="S" value="Create new order"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewA1ADYAOQA0ADMAOQAwADgALQAwAEIAMwAxAC0ANAA3AEMAMgAtADkAOQA0AEEALQA0ADEAMgBCADYAQQBBAEMAMABDADYAOAB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+					</Node>
+					<Node name="test0">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="status" type="I" value="0"/>
+						<Prp name="duration" type="I" value="3369"/>
+						<Prp name="durationwithoutchildren" type="I" value="3369"/>
+						<Prp name="starttime" type="D" value="45649.6375569213"/>
+						<Prp name="name" type="S" value="Run App"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewAyADEARQA3AEMAQwBFADEALQAzADEANAA5AC0ANAA5AEYAQwAtAEIAMwA4ADUALQBFADQARgBCADcANwBGADYANgAxADgAQgB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+					</Node>
+					<Node name="test1">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="status" type="I" value="0"/>
+						<Prp name="duration" type="I" value="37344"/>
+						<Prp name="durationwithoutchildren" type="I" value="37344"/>
+						<Prp name="starttime" type="D" value="45649.6375959954"/>
+						<Prp name="name" type="S" value="Login"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewA2AEYARgBCADUAMAA0ADEALQA5AEYANgA5AC0ANAA5AEMAQgAtADgAMwAxADgALQBFADMANQAxADcANQA0AEYANQAwADQARgB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+					</Node>
+				</Node>
+				<Prp name="duration" type="I" value="295593"/>
+				<Prp name="failedtests" type="I" value="2"/>
+				<Prp name="starttime" type="D" value="45649.6375569213"/>
+				<Prp name="incompletedtests" type="I" value="0"/>
+				<Prp name="warningtests" type="I" value="0"/>
+				<Prp name="name" type="S" value="Project_MC"/>
+				<Prp name="loadtests" type="I" value="0"/>
+			</Node>
+		</Node>
+		<Prp name="key" type="S" value="{5148F296-87AB-4EF0-8F38-A9529A3FF519}"/>
+		<Prp name="starttime" type="D" value="45649.6375566319"/>
+		<Prp name="warningtestwithretries" type="I" value="0"/>
+		<Prp name="name" type="S" value="Project_MC"/>
+		<Prp name="user" type="S" value="Administrator"/>
+		<Prp name="failedtests" type="I" value="2"/>
+		<Prp name="testname" type="S" value="Project_MC: Create Workflow"/>
+		<Prp name="successtestwithretries" type="I" value="0"/>
+		<Prp name="host" type="S" value="SERVERFSI"/>
+		<Prp name="tests" type="I" value="5"/>
+		<Prp name="stop" type="D" value="45649.6409818519"/>
+		<Prp name="incompletedtests" type="I" value="0"/>
+		<Prp name="warningtests" type="I" value="0"/>
+		<Prp name="loadtests" type="I" value="0"/>
+		<Prp name="executionstatus" type="I" value="2"/>
+	</Node>
+</Nodes>

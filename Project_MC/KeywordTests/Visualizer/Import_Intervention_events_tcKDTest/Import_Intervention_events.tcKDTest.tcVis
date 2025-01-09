@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{9439FCE8-8CAF-4200-89BE-4CCCA3D1CA9D}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45580.402349537" objectName="Aliases.MediConnect2.fmMain.RibbonControl" objectLeft="0" objectTop="-8" objectRight="1920" objectBottom="166" clickPointX="1273" clickPointY="95" imageFileName="tcvi492998281257441.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45580.4023958333" objectName="Aliases.MediConnect2.fmMain" objectLeft="-8" objectTop="-8" objectRight="1928" objectBottom="1048" clickPointX="636" clickPointY="260" imageFileName="tcvi493002656257442.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45580.4024421296" objectName="Aliases.MediConnect2.dlgOpenFile.DUIViewWndClassName.Explorer_Pane.CtrlNotifySink.ShellView.Items_View.Intervention_Events_csv.Name" objectLeft="204" objectTop="149" objectRight="787" objectBottom="171" clickPointX="311" clickPointY="163" imageFileName="tcvi493006343257447.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45580.4025" objectName="Aliases.MediConnect2.fmTransfer.lcMain.btnSelectAll" objectLeft="1676" objectTop="1003" objectRight="1737" objectBottom="1026" clickPointX="1714" clickPointY="1013" imageFileName="tcvi493010796257449.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45580.4025115741" objectName="Aliases.MediConnect2.fmTransfer.lcMain.btnContinue" objectLeft="1803" objectTop="1003" objectRight="1862" objectBottom="1026" clickPointX="1832" clickPointY="1008" imageFileName="tcvi4930125782574410.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

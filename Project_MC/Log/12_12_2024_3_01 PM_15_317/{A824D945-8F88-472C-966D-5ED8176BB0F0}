@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="log data">
+			<Node name="row4">
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45638.6261019907"/>
+				<Prp name="start time" type="D" value="45638.6260769444"/>
+				<Prp name="details" type="S" value="{E8DBC28B-466C-4146-8397-E57A8375D475}"/>
+				<Prp name="name" type="S" value="Failed password [KeywordTests - Login_Failed_Password]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="index" type="I" value="4"/>
+			</Node>
+			<Node name="row0">
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45638.6258809838"/>
+				<Prp name="start time" type="D" value="45638.6258809838"/>
+				<Prp name="details" type="S" value=""/>
+				<Prp name="name" type="S" value="Element to be run"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="-1"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="index" type="I" value="0"/>
+			</Node>
+			<Node name="row3">
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45638.6260769329"/>
+				<Prp name="start time" type="D" value="45638.6259052083"/>
+				<Prp name="details" type="S" value="{0104F2AB-50E9-49C1-9FAC-005460A11D22}"/>
+				<Prp name="name" type="S" value="Failed user name [KeywordTests - Login_Failed_User_name]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="index" type="I" value="3"/>
+			</Node>
+			<Node name="row1">
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45638.6258809838"/>
+				<Prp name="start time" type="D" value="45638.6258809838"/>
+				<Prp name="details" type="S" value=""/>
+				<Prp name="name" type="S" value="No element to be run for the 'Login' test item was specified."/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="index" type="I" value="1"/>
+			</Node>
+			<Node name="row2">
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45638.6259051968"/>
+				<Prp name="start time" type="D" value="45638.6258810069"/>
+				<Prp name="details" type="S" value="{A2CFE7FF-1388-401B-92C4-D5DD98F913D4}"/>
+				<Prp name="name" type="S" value="Run App [KeywordTests - Run_Application_MC]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="index" type="I" value="2"/>
+			</Node>
+			<Node name="row5">
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45638.6261252894"/>
+				<Prp name="start time" type="D" value="45638.6261020023"/>
+				<Prp name="details" type="S" value="{FD617FC0-FE3C-48C8-AF9E-25C9DA6A3CFD}"/>
+				<Prp name="name" type="S" value="Valid user name and password [KeywordTests - Login_Success]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="index" type="I" value="5"/>
+			</Node>
+			<Node name="row6">
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45638.6279047685"/>
+				<Prp name="start time" type="D" value="45638.6261253125"/>
+				<Prp name="details" type="S" value="{09799DA3-3CA1-462A-8050-8232A8EEADE3}"/>
+				<Prp name="name" type="S" value="Add patient data [KeywordTests - Add_Basic_Information_Driven_Loop]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="index" type="I" value="6"/>
+			</Node>
+		</Node>
+	</Node>
+</Nodes>

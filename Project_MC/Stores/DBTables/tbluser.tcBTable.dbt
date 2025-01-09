@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Table Name="tbluser">
+		<Source ConnectionString="Provider=MSOLEDBSQL.1;Password=outlander;Persist Security Info=True;User ID=mcclient;Initial Catalog=MEDICONNECT2;Data Source=localhost\mcmm;Extended Properties=&quot;Trusted_Connection=yes;Server=localhost\\mcmm;Database=mediconnect2&quot;;Initial File Name=&quot;&quot;;Trust Server Certificate=True;Server SPN=&quot;&quot;;Authentication=&quot;&quot;;Access Token=&quot;&quot;" Login="mcclient" Password="0804CE97A28C4AC7C97A220B2A2A6E8F66065E43488B671868EA62FE55D7" Object="Table" DataObjectContent="SYS_USER&#13;&#10;dbo">
+			<DataExtraction Type="" />
+		</Source>
+		<Columns>
+			<Column>USER_LOGIN</Column>
+		</Columns>
+		<Rows>
+			<Row>
+				<Cell Type="String">hl7</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">mc2admin</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">mc2service</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">default</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">mc2</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">QA</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">dicom</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">maintenance</Cell>
+			</Row>
+		</Rows>
+	</Table>
+</Root>

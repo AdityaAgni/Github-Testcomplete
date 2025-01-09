@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{05F5CF4A-1203-443E-9E62-10BB18E360B1}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45602.3627662037" objectName="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientManagement.LayoutControl1.gcPatient" objectLeft="5" objectTop="447" objectRight="1920" objectBottom="996" clickPointX="477" clickPointY="556" imageFileName="tcvi196666593222640.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

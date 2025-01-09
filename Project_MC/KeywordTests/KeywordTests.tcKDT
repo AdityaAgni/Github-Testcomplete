@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="Patient">
+			<child name="Add_Basic_Information_Driven_Loop" key="{5193A9B5-2CEB-4999-A372-0ACDA71213BD}" path="Add_Basic_Information_Driven_Loop.tcKDTest" />
+			<child name="Edit_Patient" key="{9880CF54-956B-4269-B1F2-F99A331232F4}" path="Edit_Patient.tcKDTest" />
+			<child name="Delete_new_patient" key="{C6B77D37-9973-4C26-9A72-C874886FB3D9}" path="Delete_new_patient.tcKDTest" />
+			<child name="Delete_Patient" key="{F5771E1C-F83E-4570-9D76-FAFC0964601F}" path="Delete_Patient.tcKDTest" />
+			<child name="Delete_Data_Driven_Loop" key="{B78BD735-6B1D-47AA-82BB-25B3ECFE4128}" path="Delete_Data_Driven_Loop.tcKDTest" />
+			<child name="All_Patient" key="{D2B5B8C9-5AD0-4AEE-A367-07633176422A}" path="All_Patient.tcKDTest" />
+			<child name="Add_Basic_Information_Driven_Loop2" key="{DD65DB28-F7F7-4512-8539-F499F0243493}" path="Add_Basic_Information_Driven_Loop2.tcKDTest" />
+		</folder>
+		<folder name="Visit">
+			<child name="Add_Visit" key="{C82D42AB-5353-4890-968A-8ABA772030DC}" path="Add_Visit.tcKDTest" />
+			<child name="Delete_Visit" key="{D5F26786-3D60-4234-B7DC-10C21E5FCA6F}" path="Delete_Visit.tcKDTest" />
+			<child name="EditVisit" key="{A4AFFC9B-83E4-4202-92E3-797554B6925D}" path="EditVisit.tcKDTest" />
+		</folder>
+		<folder name="Login">
+			<child name="Run_Application_MC" key="{E6B4AC57-0376-4BA4-8905-0AC39B4ECA90}" path="Run_Application_MC.tcKDTest" />
+			<child name="Login_MC" key="{9B0BA9DE-9DC4-43E7-B7FD-67465ABDF532}" path="Login_MC.tcKDTest" />
+		</folder>
+		<folder name="Order">
+			<child name="Edit_Orders" key="{8E96328B-8EE6-45AE-B717-7A95E11F9FB2}" path="Edit_Orders.tcKDTest" />
+			<child name="Open_Orders" key="{5653DA7C-F4DB-4D3E-B917-4C59032C6F0C}" path="Open_Orders.tcKDTest" />
+			<child name="Open_Orders_Driven_Loop" key="{7F1F97EB-9B44-496D-9ABE-7E1A8E643317}" path="Open_Orders_Driven_Loop.tcKDTest" />
+			<child name="Create_New_Order" key="{93788CDC-D433-4EA1-B43D-FC515CBE91D4}" path="Create_New_Order.tcKDTest" />
+			<child name="Open_Existing_Order" key="{AE77426C-FC10-4BB6-90B1-A9DF4F249923}" path="Open_Existing_Order.tcKDTest" />
+			<child name="Create_profile_filter" key="{A73EFED8-F874-46E0-95AE-888930BCF44F}" path="Create_profile_filter.tcKDTest" />
+			<child name="Open_1_Order_20_times" key="{3BC1BB36-BBCD-4DF3-BC04-FADF64F81382}" path="Open_1_Order_20_times.tcKDTest" />
+			<child name="Open_All_Orders" key="{B1AD4B0D-0DE8-4ED0-9AB6-08B779C02FCB}" path="Open_All_Orders.tcKDTest" />
+		</folder>
+		<folder name="User Options">
+			<child name="User_Options" key="{391E02A3-D4ED-451E-AF89-40350EA5232C}" path="User_Options.tcKDTest" />
+			<child name="Change_language_to_german" key="{DC006E45-3AD2-4DFC-A2E7-1675C4B77060}" path="Change_language_to_german.tcKDTest" />
+		</folder>
+		<folder name="Common">
+			<child name="Exit_MC" key="{C64A2561-D87A-4D03-86BA-4B759D8A248D}" path="Exit_MC.tcKDTest" />
+			<child name="Logout_MC" key="{9A8165D6-0721-4C98-B6D7-9A5D5FF4056A}" path="Logout_MC.tcKDTest" />
+			<child name="Cancel_Exit" key="{E6266DD3-8659-42A1-9B2B-9866F8347CC8}" path="Cancel_Exit.tcKDTest" />
+			<child name="Select_Filter_lea" key="{293385AA-8B07-41AA-AF1D-22150AA69DFD}" path="Select_Filter_lea.tcKDTest" />
+		</folder>
+		<folder name="Import and Export">
+			<child name="Export_new_patient" key="{96B371CD-E8AA-44AE-B1DD-DD8B92035ADD}" path="Export_new_patient.tcKDTest" />
+			<child name="Export_Patient" key="{A949B54E-AA38-4069-B2D6-34A79758A591}" path="Export_Patient.tcKDTest" />
+			<child name="Import_Intervention_events" key="{9439FCE8-8CAF-4200-89BE-4CCCA3D1CA9D}" path="Import_Intervention_events.tcKDTest" />
+			<child name="Import_Intervention_Medication" key="{951216AA-0386-44D9-A19F-1A9477C7B2B6}" path="Import_Intervention_Medication.tcKDTest" />
+			<child name="Import_new_patient" key="{D93F84B9-2E69-4AA9-83EF-F7B704E6824B}" path="Import_new_patient.tcKDTest" />
+			<child name="Import_Patient_Existing" key="{08F284FA-BE83-451C-993B-AA5EF209FB5E}" path="Import_Patient_Existing.tcKDTest" />
+			<child name="Import_Reference_List" key="{AC4042FD-9030-486D-86F5-6EB61C9F6FE8}" path="Import_Reference_List.tcKDTest" />
+		</folder>
+		<folder name="Scheduling">
+			<child name="Open_Scheduling_Menu" key="{0ED16430-F6CF-4763-A38A-95B63963C0B1}" path="Open_Scheduling_Menu.tcKDTest" />
+			<child name="Select_Patient" key="{4BA3B94E-668F-44FF-AA96-6DFC679CE698}" path="Select_Patient.tcKDTest" />
+		</folder>
+		<child name="test_dbcheckpoint" key="{05F5CF4A-1203-443E-9E62-10BB18E360B1}" path="test_dbcheckpoint.tcKDTest" />
+		<child name="Test2" key="{C1B46CDA-8449-4928-B525-D37CAA4C81A9}" path="Test2.tcKDTest" />
+	</children>
+</Root>

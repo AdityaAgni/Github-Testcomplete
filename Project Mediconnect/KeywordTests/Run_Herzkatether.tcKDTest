@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{D37F3F43-9A5D-42A4-8822-9D7094287D85}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.MediConnect2" Data="61717A69700000000100000036040000780173F235636100033320A901C40250CCC8A000640101541EC2A10EC9C4C3214489494265FECB99F8B9C4C83543A8D877B1C4B4D42BE49AC11B685E2CBBB5EA3FB966B0EB2B3883F483B0F8D494CBA4BA8391938D8FDBC3200D86D975E4EC490E0B460626067C9801288B0788D4856E92D952F90F17965A56F09A55514C1F97117C3176CDB030C0454B2D2F78C3AA246680CD0C166921756E7783544298D34A3D089B7EB01813230B03B1181456C800C8975E5DFC1197DBD1C5B1F945AC2BF630BA3A7C7C7433D8F5E49DB83D0D3348C19C361AA1C8DE20870D000321903D" />
+					<Bitmap Name="Aliases.MediConnect2.fmLogin" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.MediConnect2.fmLogin.LayoutControl1" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.MediConnect2.fmMain" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.MediConnect2.fmMessage" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.MediConnect2.fmMessage.LayoutControl1" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.MediConnect2.fmPatientPopup" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.MediConnect2.fmPatientPopup.FhLayoutControl1" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.MediConnect2.fmPatientPopup.FhLayoutControl1.ucOrderTemplateSelect" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.MediConnect2.fmPatientPopup.FhLayoutControl1.ucOrderTemplateSelect.FhLayoutControl1" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.MediConnect2.fmWorkflow" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{66F32D5F-A5DB-420E-9CB4-3DB7CADE2692}">
+				<Data Description="Runs the &quot;MediConnect2&quot; tested application." TestedApp="MediConnect2">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Count" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="IgnoreRunning" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Timeout" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="71" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="8" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters text in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="Password1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="290" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="280" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientManagement.LayoutControl1.gcPatient;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p1 item of the &apos;%n&apos; bar." Action="ClickItem">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Selected patient|Create order|Order templates|[2]" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.RibbonControl;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="43" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="4" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMessage.LayoutControl1.btn3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Selects the %p1 tab of the &apos;%n&apos; tab control." Action="ClickTab">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Material" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p1 item of the &apos;%n&apos; bar." Action="ClickItem">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Add" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain.d650bdab_6bb2_4328_8575_8f7126dede64.ucPatientOrderLine.BarDockControl.DockedBarControl;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="15" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="10" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmPatientPopup.FhLayoutControl1.ucOrderTemplateSelect.FhLayoutControl1.ucItemManagement.MainLayoutControl.UcItemGridFilterControl.MainLayoutControl.btnFind;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="175" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="73" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmPatientPopup.FhLayoutControl1.ucOrderTemplateSelect.FhLayoutControl1.ucItemManagement.MainLayoutControl.gc;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates one or several keypresses." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmPatientPopup.FhLayoutControl1.ucOrderTemplateSelect.FhLayoutControl1.ucItemManagement.MainLayoutControl.gc.fhTextBox.TextBoxMaskBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="8" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="12" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmPatientPopup.FhLayoutControl1.ucOrderTemplateSelect.FhLayoutControl1.btnAdd;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Selects the %p1 tab of the &apos;%n&apos; tab control." Action="ClickTab">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Protocol" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p1 item of the &apos;%n&apos; bar." Action="ClickItemXY">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Add Medication" />
+						<Parameter Name="X" DefVarType="3" VarType="3" ValueType="1" ValueValue="159" />
+						<Parameter Name="Y" DefVarType="3" VarType="3" ValueType="1" ValueValue="23" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain.zfb8a796_752d_4827_a8a8_dec3532c44e0.ucIntervAppliedMed.BarDockControl.DockedBarControl;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="124" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="140" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.PopupLookUpEditForm;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="12" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="10" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain.zfb8a796_752d_4827_a8a8_dec3532c44e0.ucIntervAppliedMed.FhLayoutControl1.UcIntervention1.FhLayoutControl1.gcMainIntervention.SpinEdit.TextBoxMaskBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates one or several keypresses." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="10.00" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain.zfb8a796_752d_4827_a8a8_dec3532c44e0.ucIntervAppliedMed.FhLayoutControl1.UcIntervention1.FhLayoutControl1.gcMainIntervention.SpinEdit.TextBoxMaskBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Selects the %p1 tab of the &apos;%n&apos; tab control." Action="ClickTab">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="[Leistung]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="7" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="14" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain.z629f78e_2f9f_4dcb_8a2c_26f0a663f24c.ucEntryTemplate.MainLayoutControl.z66927D6_0DE7_4B34_A183_7D76587B351E;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Selects the %p1 tab of the &apos;%n&apos; tab control." Action="ClickTab">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Biopsie *" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="125" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="12" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain.z0063d5a_4d81_4117_816a_c1afbac9163c.ucEntryTemplate.MainLayoutControl.z2B3D946_F06B_4A96_88F7_4788F2417E07.TextBoxMaskBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates one or several keypresses." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="123" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain.z0063d5a_4d81_4117_816a_c1afbac9163c.ucEntryTemplate.MainLayoutControl.z2B3D946_F06B_4A96_88F7_4788F2417E07.TextBoxMaskBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="128" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="8" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain.z0063d5a_4d81_4117_816a_c1afbac9163c.ucEntryTemplate.MainLayoutControl.z5F5CA79_B462_493E_88FC_0DBF72B4663D.TextBoxMaskBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates one or several keypresses." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="456" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain.z0063d5a_4d81_4117_816a_c1afbac9163c.ucEntryTemplate.MainLayoutControl.z5F5CA79_B462_493E_88FC_0DBF72B4663D.TextBoxMaskBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="12" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="11" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain.z0063d5a_4d81_4117_816a_c1afbac9163c.ucEntryTemplate.MainLayoutControl.C10C1141_69DF_442B_9374_D24D5F771FB8;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p1 item of the &apos;%n&apos; bar." Action="ClickItem">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Generate Finding Text" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.FhLayoutControl1.tabMain.z0063d5a_4d81_4117_816a_c1afbac9163c.ucEntryTemplate.BarDockControl.DockedBarControl;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p1 item of the &apos;%n&apos; bar." Action="ClickItem">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Save&#32;&#32;close" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmWorkflow.FhLayoutControl1.ucWorkflow.BarDockControl.DockedBarControl;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{A0EF42C5-03D9-4CE9-B1EB-5721FE0FA4FE}" />
+</Root>

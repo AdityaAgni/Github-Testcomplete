@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{B3FA197E-B3D2-4C4B-874B-5B7D416B991B}">
+	<children>
+		<child name="Project Mediconnect" key="{7EEA8FE8-B720-469D-9DB0-AAE2F86B6A5B}" path="Project Mediconnect\Project Mediconnect.mds" />
+	</children>
+	<testItems key="{B7DC53B4-DEDC-4D74-A79F-64ECFAB0A141}">
+		<children>
+			<testItem key="{7EEA8FE8-B720-469D-9DB0-AAE2F86B6A5B}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{9A5CCD2F-4985-4796-85B1-AB0C19722C17}" />
+	<analysis key="{C3FD9658-1CE9-4D4C-81AB-B098B1745262}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

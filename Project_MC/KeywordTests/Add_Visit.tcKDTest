@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{D32035E0-C1E2-4F35-AA86-B640A7654595}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.MediConnect2" Data="61717A69700000000100000036040000780173F235636100033320A901C40250CCC8A000640101541EC2A10EC9C4C3214489494265FECB99F8B9C4C83543A8D877B1C4B4D42BE49AC11B685E2CBBB5EA3FB966B0EB2B3883F483B0F8D494CBA4BA8391938D8FDBC3200D86D975E4EC490E0B460626067C9801288B0788D4856E92D952F90F17965A56F09A55514C1F97117C3176CDB030C0454B2D2F78C3AA246680CD0C166921756E7783544298D34A3D089B7EB01813230B03B1181456C800C8975E5DFC1197DBD1C5B1F945AC2BF630BA3A7C7C7433D8F5E49DB83D0D3348C19C361AA1C8DE20870D000321903D" />
+					<Bitmap Name="Aliases.MediConnect2.fmMain" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.MediConnect2.fmMain.FhLayoutControl1" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientManagement" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{94838C49-976F-4128-8B05-4E7C3E9C579D}">
+				<Data VariableType="4" VariableName="Add_Visit">
+					<Records FromBegin="True" ToEnd="True" StartRecord="1" StopIndex="1" />
+				</Data>
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the %p1 item of the &apos;%n&apos; bar." Action="ClickItem">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Add" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.BarDockControl.DockedBarControl;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="70" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="4" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtAlternateVisitNumber.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="Add_Visit" ColumnName="Altenative visit number" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtAlternateVisitNumber.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="52" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="13" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.lePatientClass;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Keys" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="Add_Visit" ColumnName="Patient Class" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.lePatientClass;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="82" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="10" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.leAmbulatoryStatus;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Keys" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="Add_Visit" ColumnName="Ambulatory" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.leAmbulatoryStatus;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.deDischargeDate.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="71" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="10" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtChargePriceIndicator.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="Add_Visit" ColumnName="Charge price indicator" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtChargePriceIndicator.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="74" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="7" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtVIPIndicator.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="Add_Visit" ColumnName="VIP indicator" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtVIPIndicator.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="3" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="7" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.deDischargeDate.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates one or several keypresses." Action="Keys">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Keys" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="Add_Visit" ColumnName="Discharge Date" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.deDischargeDate.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.deDischargeDate.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="36" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="7" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtDischargeLocation.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="Add_Visit" ColumnName="Discharge to location" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtDischargeLocation.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="47" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="7" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.leDischargeDisposition;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="{tod[[tod][Enter]" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.leDischargeDisposition;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="53" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="8" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtInsuranceCompanyName.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="Add_Visit" ColumnName="Health Insurance" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtInsuranceCompanyName.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtInsuranceCompanyName.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="36" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="6" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtInsurancePlanID.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="Add_Visit" ColumnName="Insurance plan ID" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtInsurancePlanID.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="28" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="11" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtInsuranceCompanyID.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="Add_Visit" ColumnName="Health insurance id" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtInsuranceCompanyID.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="36" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="13" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.deInsurancePlanExpirationDate.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates one or several keypresses." Action="Keys">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Keys" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="Add_Visit" ColumnName="Valid until" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.deInsurancePlanExpirationDate.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.deInsurancePlanExpirationDate.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="3" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="10" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtInsuranceCompanyPlanCode.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="Add_Visit" ColumnName="Company plan code" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtInsuranceCompanyPlanCode.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="21" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="7" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtInsurancePolicyNumber.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="Add_Visit" ColumnName="Insurance policy no" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.tabVisitInfo.tabVisit.lcVisitInfo.txtInsurancePolicyNumber.TextBoxMaskBox;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the %p1 item of the &apos;%n&apos; bar." Action="ClickItem">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Save" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.BarDockControl.DockedBarControl;" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="4" Key="{6F2B0E87-A26F-4FA0-99C2-E90456E14433}">
+		<Items>
+			<Variable Name="Add_Visit" Type="DB Table" Local="False">
+				<DefValue Kind="{94ACFE87-8AC5-4220-8268-52323FBEB9FB}">
+					<ConnectionInfo FileName="..\..\Add visit.xlsx" Table="Lembar1$" HasColumnNames="True" />
+				</DefValue>
+			</Variable>
+		</Items>
+	</Variables>
+	<Parameters Key="{5138A1FD-0426-4071-912D-2B8457568C34}" />
+</Root>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{AC4042FD-9030-486D-86F5-6EB61C9F6FE8}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45580.4002430556" objectName="Aliases.MediConnect2.fmMain.RibbonControl" objectLeft="0" objectTop="-8" objectRight="1920" objectBottom="166" clickPointX="374" clickPointY="126" imageFileName="tcvi492816312257441.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45580.4003240741" objectName="Aliases.MediConnect2.fmMain" objectLeft="-8" objectTop="-8" objectRight="1928" objectBottom="1048" clickPointX="640" clickPointY="250" imageFileName="tcvi492822953257443.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45580.4003587963" objectName="Aliases.MediConnect2.dlgSelectImportFile.DUIViewWndClassName.Explorer_Pane.CtrlNotifySink.ShellView.Items_View.CustomerReference_csv.Name" objectLeft="204" objectTop="128" objectRight="787" objectBottom="150" clickPointX="301" clickPointY="144" imageFileName="tcvi492826500257447.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

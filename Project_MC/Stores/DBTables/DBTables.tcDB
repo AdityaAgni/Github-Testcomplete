@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{C3BE8E0F-FB1F-487B-9AE3-BCFEB91CBEFF}" version="15.0">
+	<children>
+		<child name="tbl_patient" key="{E4A946D5-41F3-4D80-B116-C8004D939F99}" path="tbl_patient.tcBTable" />
+	</children>
+</Root>

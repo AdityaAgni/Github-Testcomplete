@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{D5F26786-3D60-4234-B7DC-10C21E5FCA6F}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45576.3600115741" objectName="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.FhLayoutControl1.gcVisit" objectLeft="11" objectTop="361" objectRight="657" objectBottom="1001" clickPointX="122" clickPointY="442" imageFileName="tcvi143745187244243.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45576.3600231481" objectName="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucPatientVisit.BarDockControl.DockedBarControl" objectLeft="0" objectTop="313" objectRight="1920" objectBottom="349" clickPointX="181" clickPointY="333" imageFileName="tcvi143746171244244.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45576.3600347222" objectName="Aliases.MediConnect2.fmMessage.LayoutControl1.btn1" objectLeft="517" objectTop="413" objectRight="546" objectBottom="436" clickPointX="521" clickPointY="422" imageFileName="tcvi143747953244245.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

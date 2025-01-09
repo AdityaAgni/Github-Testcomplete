@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{DC006E45-3AD2-4DFC-A2E7-1675C4B77060}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45645.1537152778" objectName="Aliases.MediConnect2.fmUserOption.FhLayoutControl1.cboLanguage" objectLeft="107" objectTop="229" objectRight="759" objectBottom="251" clickPointX="-561" clickPointY="-221" imageFileName="tcvi661071734215602.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45645.1537731482" objectName="Aliases.MediConnect2.fmUserOption.FhLayoutControl1.btnLangApply" objectLeft="692" objectTop="255" objectRight="759" objectBottom="285" clickPointX="711" clickPointY="280" imageFileName="tcvi661076921215604.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45645.1538078704" objectName="Aliases.MediConnect2.fmMessage.LayoutControl1.btn1" objectLeft="517" objectTop="413" objectRight="546" objectBottom="436" clickPointX="526" clickPointY="425" imageFileName="tcvi661079734215605.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

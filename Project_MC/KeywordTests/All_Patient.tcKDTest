@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{1C9AEA0A-124D-4FE4-A93F-B8B966B30DB8}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.MediConnect2" Data="61717A69700000000100000036040000780173F235636100033320A901C40250CCC8A000640101541EC2A10EC9C4C3214489494265FECB99F8B9C4C83543A8D877B1C4B4D42BE49AC11B685E2CBBB5EA3FB966B0EB2B3883F483B0F8D494CBA4BA8391938D8FDBC3200D86D975E4EC490E0B460626067C9801288B0788D4856E92D952F90F17965A56F09A55514C1F97117C3176CDB030C0454B2D2F78C3AA246680CD0C166921756E7783544298D34A3D089B7EB01813230B03B1181456C800C8975E5DFC1197DBD1C5B1F945AC2BF630BA3A7C7C7433D8F5E49DB83D0D3348C19C361AA1C8DE20870D000321903D" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p1 item of the &apos;%n&apos; bar." Action="ClickItem">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="All patients|Patients|Patient list" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmMain.RibbonControl;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{F30CFF88-19B7-4412-94BF-E4FD3180E3A5}" />
+</Root>

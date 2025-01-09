@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="log data">
+			<Node name="row1">
+				<Prp name="end time" type="D" value="45643.3859399769"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="45643.3859399769"/>
+				<Prp name="name" type="S" value="No element to be run for the 'Test Plan 1' test item was specified."/>
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="details" type="S" value=""/>
+			</Node>
+			<Node name="row4">
+				<Prp name="end time" type="D" value="45643.3945770486"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="status" type="I" value="2"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="45643.3945770486"/>
+				<Prp name="name" type="S" value="The execution process was interrupted."/>
+				<Prp name="index" type="I" value="4"/>
+				<Prp name="details" type="S" value=""/>
+			</Node>
+			<Node name="row3">
+				<Prp name="end time" type="D" value="45643.3945770486"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="status" type="I" value="2"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="45643.3870285995"/>
+				<Prp name="name" type="S" value="ProjectTestItem2 [KeywordTests - Add_Basic_Information_Driven_Loop]"/>
+				<Prp name="index" type="I" value="3"/>
+				<Prp name="details" type="S" value="{5876CBA8-5511-4048-B8B5-2A1A74639B9B}"/>
+			</Node>
+			<Node name="row0">
+				<Prp name="end time" type="D" value="45643.3859399769"/>
+				<Prp name="testdata item" type="B" value="-1"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="45643.3859399769"/>
+				<Prp name="name" type="S" value="Element to be run"/>
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="details" type="S" value=""/>
+			</Node>
+			<Node name="row2">
+				<Prp name="end time" type="D" value="45643.3870285185"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="status" type="I" value="2"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="45643.3859400231"/>
+				<Prp name="name" type="S" value="ProjectTestItem1 [KeywordTests - Login_Success]"/>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="details" type="S" value="{F71E0131-E476-44A2-9708-13C479832DB5}"/>
+			</Node>
+		</Node>
+	</Node>
+</Nodes>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="log data">
+			<Node name="row3">
+				<Prp name="end time" type="D" value="45643.4689903472"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="45643.4689678241"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="name" type="S" value="Failed user name [KeywordTests - Login_Failed_User_name]"/>
+				<Prp name="index" type="I" value="3"/>
+				<Prp name="status" type="I" value="2"/>
+				<Prp name="details" type="S" value="{AB410240-0238-418F-8AE9-271C96337252}"/>
+			</Node>
+			<Node name="row4">
+				<Prp name="end time" type="D" value="45643.4689903472"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="45643.4689903472"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="name" type="S" value="The execution process was interrupted."/>
+				<Prp name="index" type="I" value="4"/>
+				<Prp name="status" type="I" value="2"/>
+				<Prp name="details" type="S" value=""/>
+			</Node>
+			<Node name="row1">
+				<Prp name="end time" type="D" value="45643.4689541435"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="45643.4689541435"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="name" type="S" value="No element to be run for the 'Create Workflow' test item was specified."/>
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="details" type="S" value=""/>
+			</Node>
+			<Node name="row0">
+				<Prp name="end time" type="D" value="45643.4689541435"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="45643.4689541435"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="-1"/>
+				<Prp name="name" type="S" value="Element to be run"/>
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="details" type="S" value=""/>
+			</Node>
+			<Node name="row2">
+				<Prp name="end time" type="D" value="45643.4689678009"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="45643.4689647917"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="name" type="S" value="Run App [KeywordTests - Run_Application_MC]"/>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="status" type="I" value="1"/>
+				<Prp name="details" type="S" value="{6C9E58D6-09B3-44CC-A3A4-972A3C9C9F8B}"/>
+			</Node>
+		</Node>
+	</Node>
+</Nodes>

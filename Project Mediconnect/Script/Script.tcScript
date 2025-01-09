@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Unit1" key="{40B52C6C-BD3C-4D08-81DC-320E0ACAFCC4}" path="Unit1.js" />
+		<child name="Add_Patient_script" key="{CC628EE2-A133-4466-B25B-D87209662920}" path="Add_Patient_script.js" />
+		<child name="run_herzkatether" key="{718281BC-2731-43C2-9CF3-5F9A77F776D4}" path="run_herzkatether.js" />
+		<child name="Run_herz" key="{091B009A-7712-45B3-8F5D-A595F6CAE013}" path="Run_herz.js" />
+		<child name="Run_HerzK" key="{5AA7DFF5-CA12-4B64-B7FB-0CAEF64A8931}" path="Run_HerzK.js" />
+		<child name="RunUserScript" key="{87F516B9-E667-4E2B-982C-3B4B1DC3CA02}" path="RunUserScript.js" />
+		<child name="TestAddScript" key="{315D9042-2BD2-4387-B4AB-AB9D7F9DBEFD}" path="TestAddScript.js" />
+		<child name="ScriptTestUser2" key="{95523C2A-E14F-4D27-A463-61BBC21BD205}" path="ScriptTestUser2.js" />
+	</children>
+</Root>

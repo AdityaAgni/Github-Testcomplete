@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{5B81D9C6-CD45-4540-9A98-9E7D83BD3951}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{ADA1E4D2-52F2-4E03-809E-F393151D7B3C}">
+			<config nodeName="MediConnect2" autorunOnRecording="True" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="True">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Program Files (x86)\MC310801\MediConnect2" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Program Files (x86)\MC310801\MediConnect2" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Program Files (x86)\MC310801\MediConnect2" />
+					<param name="Simple" fileName="MediConnect2.exe" filePath="C:\Program Files (x86)\MC310801\MediConnect2\" parameters="" workFolder="C:\Program Files (x86)\MC310801\MediConnect2" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>
