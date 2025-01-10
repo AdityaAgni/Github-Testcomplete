@@ -6,6 +6,6 @@
 		<child name="export_log_to_excel" key="{AA2F3E4C-1584-4AAC-B235-EF02F4E0BDDA}" path="export_log_to_excel.js" />
 		<child name="addHostAndUserInfo" key="{EC9123F3-96C0-4AFF-8972-FFB2FF7CCC7D}" path="addHostAndUserInfo.js" />
 		<child name="testLogin" key="{94EF296C-400B-4688-A423-68BEFCD64D12}" path="testLogin.js" />
-		<child name="exportLogToExcel" key="{19A8B515-8FE7-404B-875C-831FD0A10F6B}" path="C:\Users\Administrator.SERVERFSI\Downloads\exportLogToExcel.js" />
+		<child name="exportLogToExcel" key="{3F0A80D3-F243-4D48-9525-381C7898FE40}" path="..\..\exportLogToExcel.js" />
 	</children>
 </Root>

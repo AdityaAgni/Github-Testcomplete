@@ -98,7 +98,7 @@
 					</testItem>
 				</children>
 			</testItem>
-			<testItem name="Login MC" key="{A4BCA608-6203-43A3-8A36-D7A7DEB81256}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Login MC" key="{A4BCA608-6203-43A3-8A36-D7A7DEB81256}" group="False" parallel="False" enabled="False" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children>
@@ -179,7 +179,7 @@
 					<DefValue />
 				</Variable>
 				<Variable Name="Var1" Type="String" Local="True">
-					<DefValue StrValue="D:\Testcomplete\Patient Basic Information.xlsx" />
+					<DefValue StrValue="D:\Github\Patient Basic Information.xlsx" />
 				</Variable>
 				<Variable Name="Data_Patient" Type="DB Table" Local="False">
 					<DefValue Kind="{94ACFE87-8AC5-4220-8268-52323FBEB9FB}">
@@ -210,7 +210,7 @@
 		</data>
 	</variables>
 	<settings key="{8417073B-F0D1-4715-AEF2-9E0AB9616562}">
-		<settingsVersion value="15.70" />
+		<settingsVersion value="15.71" />
 		<setting name="AgOpenApp_ExtendedSilverlightObjectTree" type="1" value="False" />
 		<setting name="ApplicationHangingProcessFilterMode" type="6" rowIndex="4" colIndex="0">
 			<columns>

@@ -411,6 +411,9 @@
 							<Prp name="expandlist" type="H" value="617162696E00000001000000440000007801636480006620C508C550210626243E480E06606A617C000274000F"/>
 						</Node>
 					</Node>
+					<Node name="{426a2bca-dc17-463d-9d1f-47bc153fdf21}\testdata">
+						<Node name="expanding"/>
+					</Node>
 					<Node name="{44769667-b0b0-4ce0-96d4-9ff33cae10a4}\testdata">
 						<Node name="expanding"/>
 					</Node>
@@ -808,6 +811,7 @@
 							<Node name="patient"/>
 							<Node name="scheduling"/>
 						</Node>
+						<Node name="script"/>
 					</Node>
 				</Node>
 				<Node name="project_mc logs">
