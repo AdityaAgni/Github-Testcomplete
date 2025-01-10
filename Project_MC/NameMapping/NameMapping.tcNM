@@ -756,6 +756,15 @@
 																					</Child>
 																				</Children>
 																			</Child>
+																			<Child Name="ucCalenderScheduler" Key="{FC8B6807-640A-4A6E-99D0-F8BAD3663673}">
+																				<Image FileName="179340391" Left="12" Top="363" Right="1508" Bottom="1001" />
+																				<TypeInfo Item0="{44B631D9-B547-4642-9145-B087552E51A9}" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="ucCalenderScheduler" />
+																					</Property>
+																				</Properties>
+																			</Child>
 																		</Children>
 																	</Child>
 																</Children>
@@ -1471,6 +1480,44 @@
 																<Properties>
 																	<Property Name="WinFormsControlName">
 																		<Value Value="gcVisit" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="ucOrderHeaderEditor" Key="{BD6FE90A-0B99-4D70-A6AB-786E14E15C47}">
+												<Image FileName="-730078755" Left="1" Top="121" Right="1386" Bottom="1039" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="ucOrderHeaderEditor" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="lcMain" Key="{AA58F71F-612A-41B6-8B39-94509A9C2771}">
+														<Image FileName="-730078755" Left="1" Top="121" Right="1386" Bottom="1039" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="lcMain" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="tabMain" Key="{2D675F9A-07CF-4A49-8905-4F3324ACB609}">
+																<Image FileName="-730078755" Left="11" Top="131" Right="1376" Bottom="1002" />
+																<TypeInfo Item0="{DC2FD956-FF92-4512-842D-1D0718D30FC5}" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="tabMain" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="btnSave" Key="{C6FB372F-C71E-4FED-9A84-2E2CD1DDA046}">
+																<Image FileName="-603006761" Left="1295" Top="1006" Right="1332" Bottom="1029" />
+																<TypeInfo Item0="{44B631D9-B547-4642-9145-B087552E51A9}" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="btnSave" />
 																	</Property>
 																</Properties>
 															</Child>
@@ -3818,6 +3865,7 @@
 									<Child Name="StandAloneBarDock" Owner="{69037FE1-E3DA-4912-AB7D-51B01DAF3BC2}">
 										<Child Name="DockedBarControl" Owner="{472ED238-0324-431C-B84A-4481A029C4E4}" />
 									</Child>
+									<Child Name="ucCalenderScheduler" Owner="{FC8B6807-640A-4A6E-99D0-F8BAD3663673}" />
 								</Child>
 							</Child>
 						</Child>
@@ -3925,6 +3973,12 @@
 						</Child>
 						<Child Name="FhLayoutControl1" Owner="{D18C59DE-E173-46D0-901C-9078C7CACED1}">
 							<Child Name="gcVisit" Owner="{CF2469C9-87E6-4317-BC6B-9C0FA1C795F3}" />
+						</Child>
+					</Child>
+					<Child Name="ucOrderHeaderEditor" Owner="{BD6FE90A-0B99-4D70-A6AB-786E14E15C47}">
+						<Child Name="lcMain" Owner="{AA58F71F-612A-41B6-8B39-94509A9C2771}">
+							<Child Name="tabMain" Owner="{2D675F9A-07CF-4A49-8905-4F3324ACB609}" />
+							<Child Name="btnSave" Owner="{C6FB372F-C71E-4FED-9A84-2E2CD1DDA046}" />
 						</Child>
 					</Child>
 				</Child>
