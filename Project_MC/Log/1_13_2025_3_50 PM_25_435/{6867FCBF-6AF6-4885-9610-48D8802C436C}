@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="log data">
+			<Node name="row1">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="end time" type="D" value="45670.6600171644"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="details" type="S" value=""/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="name" type="S" value="No element to be run for the 'Create Scheduling' test item was specified."/>
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="start time" type="D" value="45670.6600171644"/>
+			</Node>
+			<Node name="row0">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="end time" type="D" value="45670.6600171644"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="-1"/>
+				<Prp name="details" type="S" value=""/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="name" type="S" value="Element to be run"/>
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="start time" type="D" value="45670.6600171644"/>
+			</Node>
+			<Node name="row3">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="end time" type="D" value="45670.6603724653"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="details" type="S" value="{3988738F-EF8F-4A53-AED2-C2B70632C4BA}"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="name" type="S" value="Select Patient [KeywordTests - Select_Patient]"/>
+				<Prp name="index" type="I" value="3"/>
+				<Prp name="start time" type="D" value="45670.6603019444"/>
+			</Node>
+			<Node name="row4">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="end time" type="D" value="45670.6605724884"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="details" type="S" value="{CFE325DD-F60D-4909-A222-1B594AEF2622}"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="name" type="S" value="Create Scheduling [KeywordTests - Create_Scheduling]"/>
+				<Prp name="index" type="I" value="4"/>
+				<Prp name="start time" type="D" value="45670.6603724769"/>
+			</Node>
+			<Node name="row2">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="end time" type="D" value="45670.6603019213"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="details" type="S" value="{E167D3FB-B892-4F96-8C55-C4F46E83C0E2}"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="name" type="S" value="Open Schedule menu [KeywordTests - Open_Scheduling_Menu]"/>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="start time" type="D" value="45670.660017419"/>
+			</Node>
+		</Node>
+	</Node>
+</Nodes>

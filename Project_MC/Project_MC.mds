@@ -161,6 +161,27 @@
 					</testItem>
 				</children>
 			</testItem>
+			<testItem name="Create Scheduling" key="{0EB73711-824F-45D8-93C9-C129B86B94A7}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+				<testParameters />
+				<environments activeCloud="SWT" />
+				<children>
+					<testItem name="Open Schedule menu" key="{0CACA219-96BC-485F-A57D-2336540F1252}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{0ED16430-F6CF-4763-A38A-95B63963C0B1}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+					<testItem name="Select Patient" key="{F7260B4A-36A9-4E82-8963-D63AF49E05E4}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{4BA3B94E-668F-44FF-AA96-6DFC679CE698}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+					<testItem name="Create Scheduling" key="{DAC8877D-0558-4791-A9DC-96EB37C83325}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{426A2BCA-DC17-463D-9D1F-47BC153FDF21}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
 		</children>
 	</testItems>
 	<variables key="{D78FC59D-982D-4E86-B948-85FC7315B2E8}">

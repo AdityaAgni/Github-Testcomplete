@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{426A2BCA-DC17-463D-9D1F-47BC153FDF21}"/>
+		</Node>
+		<Node name="message 7">
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmPatientPopup.FhLayoutControl1.ucOrderHeaderEditor.lcMain.tabMain&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmPatientPopup&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ucOrderHeaderEditor&quot;).WinFormsObject(&quot;lcMain&quot;).WinFormsObject(&quot;tabMain&quot;))"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="The tab control page 'Summary' is already selected."/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="date" type="D" value="45670.6605579051"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+		</Node>
+		<Node name="message 0">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object right" type="I" value="1508"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="570"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage7.png"/>
+					<Prp name="object bottom" type="I" value="1001"/>
+					<Prp name="object top" type="I" value="354"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="12"/>
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45670.36871875"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="746"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucScheduling.lcScheduler.lcCalenderScheduler.ucCalenderScheduler"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="1508"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="579"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi764525265236440.png"/>
+					<Prp name="object bottom" type="I" value="1001"/>
+					<Prp name="object top" type="I" value="363"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="12"/>
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45667.4107407407"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="746"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucScheduling.lcScheduler.lcCalenderScheduler.ucCalenderScheduler"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage7_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="remarks" type="S" value="A click at point (734, 216) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucScheduling.lcScheduler.lcCalenderScheduler.ucCalenderScheduler&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ClientPanel&quot;).WinFormsObject(&quot;ucScheduling&quot;).WinFormsObject(&quot;lcScheduler&quot;).WinFormsObject(&quot;lcCalenderScheduler&quot;).WinFormsObject(&quot;ucCalenderScheduler&quot;))"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="The window was clicked with the right mouse button."/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="date" type="D" value="45670.6603870718"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 3">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object right" type="I" value="480"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage10.png"/>
+					<Prp name="object bottom" type="I" value="77"/>
+					<Prp name="object top" type="I" value="61"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="31"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="datetime" type="D" value="45670.3688041204"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.gcSelectionList.FindControlCore.rootLayout.findLayoutControl.teFind.TextBoxMaskBox"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="465"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-225"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi764537859236443.png"/>
+					<Prp name="object bottom" type="I" value="77"/>
+					<Prp name="object top" type="I" value="61"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="31"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="datetime" type="D" value="45667.4109143519"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-341"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.gcSelectionList.FindControlCore.rootLayout.findLayoutControl.teFind.TextBoxMaskBox"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage10_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.gcSelectionList.FindControlCore.rootLayout.findLayoutControl.teFind.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmSelector&quot;).WinFormsObject(&quot;LayCtrlFormLayout&quot;).WinFormsObject(&quot;gcSelectionList&quot;).WinFormsObject(&quot;FindControlCore&quot;).WinFormsObject(&quot;rootLayout&quot;).WinFormsObject(&quot;findLayoutControl&quot;).WinFormsObject(&quot;teFind&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="The text 'cardioversion' was entered in the text editor."/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="date" type="D" value="45670.6604715741"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+		</Node>
+		<Node name="message 5">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object right" type="I" value="1229"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="174"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage12.png"/>
+					<Prp name="object bottom" type="I" value="553"/>
+					<Prp name="object top" type="I" value="42"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="11"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="datetime" type="D" value="45670.3688132407"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="188"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.gcSelectionList"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="1229"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="174"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi764546328236445.png"/>
+					<Prp name="object bottom" type="I" value="553"/>
+					<Prp name="object top" type="I" value="42"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="11"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="datetime" type="D" value="45667.4109837963"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="188"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.gcSelectionList"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage12_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="remarks" type="S" value="A click at point (177, 132) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.gcSelectionList&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmSelector&quot;).WinFormsObject(&quot;LayCtrlFormLayout&quot;).WinFormsObject(&quot;gcSelectionList&quot;))"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="date" type="D" value="45670.6604805671"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+		</Node>
+		<Node name="message 1">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object right" type="I" value="1920"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage8.png"/>
+					<Prp name="object bottom" type="I" value="1013"/>
+					<Prp name="object top" type="I" value="304"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="datetime" type="D" value="45670.3687793982"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucScheduling"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="179"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="12"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi764529500236441.png"/>
+					<Prp name="object bottom" type="I" value="80"/>
+					<Prp name="object top" type="I" value="2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="2"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="datetime" type="D" value="45667.410787037"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="27"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucScheduling"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage8_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmMain.FhLayoutControl1.ClientPanel.ucScheduling.XtraPopupMenu&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ClientPanel&quot;).WinFormsObject(&quot;ucScheduling&quot;).XtraPopupMenu)"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="The 'New Order' item of the pop-up menu was clicked with the left mouse button."/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="date" type="D" value="45670.6604598843"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+		</Node>
+		<Node name="message 2">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object right" type="I" value="480"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="74"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage9.png"/>
+					<Prp name="object bottom" type="I" value="77"/>
+					<Prp name="object top" type="I" value="61"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="31"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="45670.3688023843"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="240"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.gcSelectionList.FindControlCore.rootLayout.findLayoutControl.teFind.TextBoxMaskBox"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="480"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="74"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi764535015236442.png"/>
+					<Prp name="object bottom" type="I" value="77"/>
+					<Prp name="object top" type="I" value="61"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="31"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="45667.4108449074"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="240"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.gcSelectionList.FindControlCore.rootLayout.findLayoutControl.teFind.TextBoxMaskBox"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage9_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="remarks" type="S" value="A click at point (209, 13) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.gcSelectionList.FindControlCore.rootLayout.findLayoutControl.teFind.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmSelector&quot;).WinFormsObject(&quot;LayCtrlFormLayout&quot;).WinFormsObject(&quot;gcSelectionList&quot;).WinFormsObject(&quot;FindControlCore&quot;).WinFormsObject(&quot;rootLayout&quot;).WinFormsObject(&quot;findLayoutControl&quot;).WinFormsObject(&quot;teFind&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="date" type="D" value="45670.6604701273"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+		</Node>
+		<Node name="message 6">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object right" type="I" value="1184"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage13.png"/>
+					<Prp name="object bottom" type="I" value="580"/>
+					<Prp name="object top" type="I" value="557"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="1140"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="datetime" type="D" value="45670.3688152546"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="1159"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.btnSelect"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="1184"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi764550828236446.png"/>
+					<Prp name="object bottom" type="I" value="580"/>
+					<Prp name="object top" type="I" value="557"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="1140"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="datetime" type="D" value="45667.4110300926"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="1159"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.btnSelect"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value=""/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="6"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="remarks" type="S" value="A click at point (19, 14) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.btnSelect&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmSelector&quot;).WinFormsObject(&quot;LayCtrlFormLayout&quot;).WinFormsObject(&quot;btnSelect&quot;))"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="date" type="D" value="45670.6604826389"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 4">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object right" type="I" value="558"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="64"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage11.png"/>
+					<Prp name="object bottom" type="I" value="80"/>
+					<Prp name="object top" type="I" value="58"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="488"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="datetime" type="D" value="45670.3688085069"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="516"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.gcSelectionList.FindControlCore.rootLayout.findLayoutControl.btFind"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="558"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="64"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi764542937236444.png"/>
+					<Prp name="object bottom" type="I" value="80"/>
+					<Prp name="object top" type="I" value="58"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="488"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="datetime" type="D" value="45667.4109375"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="516"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.gcSelectionList.FindControlCore.rootLayout.findLayoutControl.btFind"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage11_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="remarks" type="S" value="A click at point (28, 6) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmSelector.LayCtrlFormLayout.gcSelectionList.FindControlCore.rootLayout.findLayoutControl.btFind&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmSelector&quot;).WinFormsObject(&quot;LayCtrlFormLayout&quot;).WinFormsObject(&quot;gcSelectionList&quot;).WinFormsObject(&quot;FindControlCore&quot;).WinFormsObject(&quot;rootLayout&quot;).WinFormsObject(&quot;findLayoutControl&quot;).WinFormsObject(&quot;btFind&quot;))"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="date" type="D" value="45670.660476088"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+		</Node>
+		<Node name="message 8">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object right" type="I" value="1332"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1009"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage14.png"/>
+					<Prp name="object bottom" type="I" value="1029"/>
+					<Prp name="object top" type="I" value="1006"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="1295"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="datetime" type="D" value="45670.368893044"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="1305"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmPatientPopup.FhLayoutControl1.ucOrderHeaderEditor.lcMain.btnSave"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="1332"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1009"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi7645982652364412.png"/>
+					<Prp name="object bottom" type="I" value="1029"/>
+					<Prp name="object top" type="I" value="1006"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="1295"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="datetime" type="D" value="45667.4115856482"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="1305"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmPatientPopup.FhLayoutControl1.ucOrderHeaderEditor.lcMain.btnSave"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage14_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="8"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="remarks" type="S" value="A click at point (10, 3) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmPatientPopup.FhLayoutControl1.ucOrderHeaderEditor.lcMain.btnSave&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmPatientPopup&quot;).WinFormsObject(&quot;FhLayoutControl1&quot;).WinFormsObject(&quot;ucOrderHeaderEditor&quot;).WinFormsObject(&quot;lcMain&quot;).WinFormsObject(&quot;btnSave&quot;))"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="date" type="D" value="45670.6605610995"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+		</Node>
+		<Prp name="status" type="I" value="0"/>
+	</Node>
+</Nodes>

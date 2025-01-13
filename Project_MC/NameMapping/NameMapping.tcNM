@@ -851,6 +851,25 @@
 													</Child>
 												</Children>
 											</Child>
+											<Child Name="FhNavigationBar1" Key="{2983E708-5CEF-45D6-A2D8-BF9E56458C52}">
+												<Image FileName="-1146192271" Left="0" Top="166" Right="1278" Bottom="233" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="FhNavigationBar1" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="LayoutControl1" Key="{A01E70E9-F78F-4A9B-ACB2-818C6C76CBBE}">
+														<Image FileName="-1146192271" Left="0" Top="166" Right="1278" Bottom="233" />
+														<TypeInfo Item0="{44B631D9-B547-4642-9145-B087552E51A9}" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="LayoutControl1" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="RibbonControl" Key="{8B0BD60B-3F94-4858-A16B-FA0236693B07}">
@@ -1511,6 +1530,104 @@
 																		<Value Value="tabMain" />
 																	</Property>
 																</Properties>
+																<Children>
+																	<Child Name="tabPgSummary" Key="{926D79B1-8193-4CED-9F5B-3AE1B6812E23}">
+																		<Image FileName="181787356" Left="12" Top="158" Right="1375" Bottom="1001" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="tabPgSummary" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="lcOrderInfo" Key="{38906308-79C7-40DD-ABD7-34AEC5BA9FBA}">
+																				<Image FileName="181787356" Left="12" Top="158" Right="1375" Bottom="1001" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="lcOrderInfo" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="dtpScheduledDate" Key="{DB6CC4DF-A4A6-4170-A4C6-9DE20FAAF806}">
+																						<Image FileName="181787356" Left="152" Top="407" Right="329" Bottom="429" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="dtpScheduledDate" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="TextBoxMaskBox" Key="{68C1A72A-CDB3-4F09-A82C-64419DF456FF}">
+																								<Image FileName="181787356" Left="156" Top="410" Right="310" Bottom="426" />
+																								<TypeInfo Item0="{BBCB98BB-09FB-421A-AE0F-49C199C21FF9}" />
+																								<Properties>
+																									<Property Name="ClrFullClassName">
+																										<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="aptScheduledTime" Key="{ADA83996-B183-47DA-9A9B-48CA70B1914B}">
+																						<Image FileName="662875721" Left="331" Top="407" Right="433" Bottom="429" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="aptScheduledTime" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="TextBoxMaskBox" Key="{58C02930-0EC7-4FDA-83C5-8BEB6A3909A1}">
+																								<Image FileName="662875721" Left="335" Top="410" Right="414" Bottom="426" />
+																								<TypeInfo Item0="{BBCB98BB-09FB-421A-AE0F-49C199C21FF9}" />
+																								<Properties>
+																									<Property Name="ClrFullClassName">
+																										<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="dtpScheduledEndDate" Key="{38E4FA05-D1BC-4370-B497-D68ECA9F2A56}">
+																						<Image FileName="1821499792" Left="588" Top="407" Right="794" Bottom="429" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="dtpScheduledEndDate" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="TextBoxMaskBox" Key="{C9E140B9-77A3-4171-A247-28E4127786A7}">
+																								<Image FileName="1821499792" Left="592" Top="410" Right="775" Bottom="426" />
+																								<TypeInfo Item0="{BBCB98BB-09FB-421A-AE0F-49C199C21FF9}" />
+																								<Properties>
+																									<Property Name="ClrFullClassName">
+																										<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="aptScheduledEndTime" Key="{A994CA37-41EA-4ACC-BB8F-B47CF6CA3E93}">
+																						<Image FileName="152994243" Left="796" Top="407" Right="896" Bottom="429" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="aptScheduledEndTime" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="TextBoxMaskBox" Key="{F96C3369-5458-4806-B662-43E379166D74}">
+																								<Image FileName="152994243" Left="800" Top="410" Right="877" Bottom="426" />
+																								<TypeInfo Item0="{BBCB98BB-09FB-421A-AE0F-49C199C21FF9}" />
+																								<Properties>
+																									<Property Name="ClrFullClassName">
+																										<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
 															</Child>
 															<Child Name="btnSave" Key="{C6FB372F-C71E-4FED-9A84-2E2CD1DDA046}">
 																<Image FileName="-603006761" Left="1295" Top="1006" Right="1332" Bottom="1029" />
@@ -3260,6 +3377,15 @@
 																			</Property>
 																		</Properties>
 																	</Child>
+																	<Child Name="gcPatient" Key="{0731AA07-D83B-4F18-8399-65F24B71875E}">
+																		<Image FileName="2074252439" Left="16" Top="199" Right="1904" Bottom="1023" />
+																		<TypeInfo Item0="{44B631D9-B547-4642-9145-B087552E51A9}" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="gcPatient" />
+																			</Property>
+																		</Properties>
+																	</Child>
 																</Children>
 															</Child>
 														</Children>
@@ -3879,6 +4005,9 @@
 							</Child>
 						</Child>
 					</Child>
+					<Child Name="FhNavigationBar1" Owner="{2983E708-5CEF-45D6-A2D8-BF9E56458C52}">
+						<Child Name="LayoutControl1" Owner="{A01E70E9-F78F-4A9B-ACB2-818C6C76CBBE}" />
+					</Child>
 				</Child>
 				<Child Name="RibbonControl" Owner="{8B0BD60B-3F94-4858-A16B-FA0236693B07}" />
 			</Child>
@@ -3977,7 +4106,24 @@
 					</Child>
 					<Child Name="ucOrderHeaderEditor" Owner="{BD6FE90A-0B99-4D70-A6AB-786E14E15C47}">
 						<Child Name="lcMain" Owner="{AA58F71F-612A-41B6-8B39-94509A9C2771}">
-							<Child Name="tabMain" Owner="{2D675F9A-07CF-4A49-8905-4F3324ACB609}" />
+							<Child Name="tabMain" Owner="{2D675F9A-07CF-4A49-8905-4F3324ACB609}">
+								<Child Name="tabPgSummary" Owner="{926D79B1-8193-4CED-9F5B-3AE1B6812E23}">
+									<Child Name="lcOrderInfo" Owner="{38906308-79C7-40DD-ABD7-34AEC5BA9FBA}">
+										<Child Name="dtpScheduledDate" Owner="{DB6CC4DF-A4A6-4170-A4C6-9DE20FAAF806}">
+											<Child Name="TextBoxMaskBox" Owner="{68C1A72A-CDB3-4F09-A82C-64419DF456FF}" />
+										</Child>
+										<Child Name="aptScheduledTime" Owner="{ADA83996-B183-47DA-9A9B-48CA70B1914B}">
+											<Child Name="TextBoxMaskBox" Owner="{58C02930-0EC7-4FDA-83C5-8BEB6A3909A1}" />
+										</Child>
+										<Child Name="dtpScheduledEndDate" Owner="{38E4FA05-D1BC-4370-B497-D68ECA9F2A56}">
+											<Child Name="TextBoxMaskBox" Owner="{C9E140B9-77A3-4171-A247-28E4127786A7}" />
+										</Child>
+										<Child Name="aptScheduledEndTime" Owner="{A994CA37-41EA-4ACC-BB8F-B47CF6CA3E93}">
+											<Child Name="TextBoxMaskBox" Owner="{F96C3369-5458-4806-B662-43E379166D74}" />
+										</Child>
+									</Child>
+								</Child>
+							</Child>
 							<Child Name="btnSave" Owner="{C6FB372F-C71E-4FED-9A84-2E2CD1DDA046}" />
 						</Child>
 					</Child>
@@ -4225,6 +4371,7 @@
 									<Child Name="TextBoxMaskBox" Owner="{1BFBF5B0-F8F3-443D-AC7A-6C3BD06767DD}" />
 								</Child>
 								<Child Name="btnSearchPatient" Owner="{AD437A33-7EE6-46D9-A940-FF0AFB59F155}" />
+								<Child Name="gcPatient" Owner="{0731AA07-D83B-4F18-8399-65F24B71875E}" />
 							</Child>
 						</Child>
 					</Child>
