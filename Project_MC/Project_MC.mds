@@ -103,12 +103,7 @@
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children>
-					<testItem name="Run MC" key="{333B30B9-706C-4945-BE42-E268DE5899E3}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{E6B4AC57-0376-4BA4-8905-0AC39B4ECA90}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
-						<testParameters />
-						<environments activeCloud="SWT" />
-						<children />
-					</testItem>
-					<testItem name="Login MC" key="{313E2652-C8C7-41F9-9CB3-2AB631371C85}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{9B0BA9DE-9DC4-43E7-B7FD-67465ABDF532}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+					<testItem name="Complex Scenario 1" key="{313E2652-C8C7-41F9-9CB3-2AB631371C85}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{944345D1-7A71-41DB-9E81-60D08A80B395}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />
@@ -237,6 +232,11 @@
 				</Variable>
 				<Variable Name="Timer" Type="String" Local="True">
 					<DefValue StrValue="Timer" />
+				</Variable>
+				<Variable Name="BasicInformation" Type="DB Table" Local="False">
+					<DefValue Kind="{94ACFE87-8AC5-4220-8268-52323FBEB9FB}">
+						<ConnectionInfo FileName="..\Patient Basic Information.xlsx" Table="&apos;Basic Information$&apos;" HasColumnNames="True" />
+					</DefValue>
 				</Variable>
 			</Items>
 		</data>

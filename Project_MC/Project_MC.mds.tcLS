@@ -44,6 +44,9 @@
 						</Node>
 						<Prp name="name" type="S" value="Timer"/>
 					</Node>
+					<Node name="var12">
+						<Prp name="name" type="S" value="BasicInformation"/>
+					</Node>
 					<Node name="var2">
 						<Node name="value">
 							<Prp name="strvalue" type="H" value=" "/>

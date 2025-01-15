@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{2B188F51-5611-4A0F-921A-60CC07706614}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{16DC8186-4DEC-41AF-80A0-F8C655838299}">
+				<Data Description="Runs a test from the project." TestName="Run_Application_MC" FullName="KeywordTests - Run_Application_MC" Path="KeywordTests|Run_Application_MC" />
+			</Operation>
+			<Operation Type="{94838C49-976F-4128-8B05-4E7C3E9C579D}">
+				<Data VariableType="2" VariableName="UserLogin">
+					<Records FromBegin="True" ToEnd="True" StartRecord="1" StopIndex="1" />
+				</Data>
+				<Children>
+					<Operation Type="{16DC8186-4DEC-41AF-80A0-F8C655838299}">
+						<Data Description="Runs a test from the project." TestName="Login" FullName="KeywordTests - Login" Path="KeywordTests|Login" />
+					</Operation>
+				</Children>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{CA7CEFBC-C3B9-4E43-9C83-A2CCFE356F80}" />
+</Root>

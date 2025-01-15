@@ -8,7 +8,6 @@
 			<child name="Delete_Patient" key="{F5771E1C-F83E-4570-9D76-FAFC0964601F}" path="Delete_Patient.tcKDTest" />
 			<child name="Delete_Data_Driven_Loop" key="{B78BD735-6B1D-47AA-82BB-25B3ECFE4128}" path="Delete_Data_Driven_Loop.tcKDTest" />
 			<child name="All_Patient" key="{D2B5B8C9-5AD0-4AEE-A367-07633176422A}" path="All_Patient.tcKDTest" />
-			<child name="Add_Basic_Information_Driven_Loop2" key="{DD65DB28-F7F7-4512-8539-F499F0243493}" path="Add_Basic_Information_Driven_Loop2.tcKDTest" />
 		</folder>
 		<folder name="Visit">
 			<child name="Add_Visit" key="{C82D42AB-5353-4890-968A-8ABA772030DC}" path="Add_Visit.tcKDTest" />
@@ -17,8 +16,7 @@
 		</folder>
 		<folder name="Login">
 			<child name="Run_Application_MC" key="{E6B4AC57-0376-4BA4-8905-0AC39B4ECA90}" path="Run_Application_MC.tcKDTest" />
-			<child name="Login_MC_Using_Driven_Loop" key="{9B0BA9DE-9DC4-43E7-B7FD-67465ABDF532}" path="Login_MC_Using_Driven_Loop.tcKDTest" />
-			<child name="Login_Default" key="{F521F03A-7BB7-49A3-8DF7-648A0ABEFB4B}" path="Login_Default.tcKDTest" />
+			<child name="Login" key="{8D1DDFC6-DB8F-4A2C-A2CE-03B16A328CC6}" path="Login.tcKDTest" />
 		</folder>
 		<folder name="Order">
 			<child name="Edit_Orders" key="{8E96328B-8EE6-45AE-B717-7A95E11F9FB2}" path="Edit_Orders.tcKDTest" />
@@ -40,25 +38,9 @@
 			<child name="Cancel_Exit" key="{E6266DD3-8659-42A1-9B2B-9866F8347CC8}" path="Cancel_Exit.tcKDTest" />
 			<child name="Select_Filter_lea" key="{293385AA-8B07-41AA-AF1D-22150AA69DFD}" path="Select_Filter_lea.tcKDTest" />
 		</folder>
-		<folder name="Import and Export">
-			<child name="Export_new_patient" key="{96B371CD-E8AA-44AE-B1DD-DD8B92035ADD}" path="Export_new_patient.tcKDTest" />
-			<child name="Export_Patient" key="{A949B54E-AA38-4069-B2D6-34A79758A591}" path="Export_Patient.tcKDTest" />
-			<child name="Import_Intervention_events" key="{9439FCE8-8CAF-4200-89BE-4CCCA3D1CA9D}" path="Import_Intervention_events.tcKDTest" />
-			<child name="Import_Intervention_Medication" key="{951216AA-0386-44D9-A19F-1A9477C7B2B6}" path="Import_Intervention_Medication.tcKDTest" />
-			<child name="Import_new_patient" key="{D93F84B9-2E69-4AA9-83EF-F7B704E6824B}" path="Import_new_patient.tcKDTest" />
-			<child name="Import_Patient_Existing" key="{08F284FA-BE83-451C-993B-AA5EF209FB5E}" path="Import_Patient_Existing.tcKDTest" />
-			<child name="Import_Reference_List" key="{AC4042FD-9030-486D-86F5-6EB61C9F6FE8}" path="Import_Reference_List.tcKDTest" />
-		</folder>
-		<folder name="Scheduling">
-			<child name="Open_Scheduling_Menu" key="{0ED16430-F6CF-4763-A38A-95B63963C0B1}" path="Open_Scheduling_Menu.tcKDTest" />
-			<child name="Select_Patient" key="{4BA3B94E-668F-44FF-AA96-6DFC679CE698}" path="Select_Patient.tcKDTest" />
-			<child name="Create_Scheduling" key="{426A2BCA-DC17-463D-9D1F-47BC153FDF21}" path="Create_Scheduling.tcKDTest" />
-			<child name="Scheduling_Summary" key="{A86B17DA-87F8-4C58-B808-9DDE91C2B332}" path="Scheduling_Summary.tcKDTest" />
-			<child name="Create_Scheduling_Driven_Loop" key="{544726F4-0A91-44D0-8902-04B271908A53}" path="Create_Scheduling_Driven_Loop.tcKDTest" />
-		</folder>
 		<folder name="Testing">
-			<child name="test1" key="{8D1DDFC6-DB8F-4A2C-A2CE-03B16A328CC6}" path="test1.tcKDTest" />
-			<child name="Run_test" key="{944345D1-7A71-41DB-9E81-60D08A80B395}" path="Run_test.tcKDTest" />
+			<child name="Login_Driven_loop" key="{944345D1-7A71-41DB-9E81-60D08A80B395}" path="Login_Driven_loop.tcKDTest" />
+			<child name="Add_basic_information" key="{71E9EBCC-BB89-4042-B65D-A32AF314FAF9}" path="Add_basic_information.tcKDTest" />
 		</folder>
 		<child name="test_dbcheckpoint" key="{05F5CF4A-1203-443E-9E62-10BB18E360B1}" path="test_dbcheckpoint.tcKDTest" />
 		<child name="Test2" key="{C1B46CDA-8449-4928-B525-D37CAA4C81A9}" path="Test2.tcKDTest" />
