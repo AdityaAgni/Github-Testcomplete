@@ -26,7 +26,7 @@
 			<child name="Create_New_Order" key="{93788CDC-D433-4EA1-B43D-FC515CBE91D4}" path="Create_New_Order.tcKDTest" />
 			<child name="Open_Existing_Order" key="{AE77426C-FC10-4BB6-90B1-A9DF4F249923}" path="Open_Existing_Order.tcKDTest" />
 			<child name="Create_profile_filter" key="{A73EFED8-F874-46E0-95AE-888930BCF44F}" path="Create_profile_filter.tcKDTest" />
-			<child name="Open_1_Order_20_times" key="{3BC1BB36-BBCD-4DF3-BC04-FADF64F81382}" path="Open_1_Order_20_times.tcKDTest" />
+			<child name="Open_1_Order_3_times" key="{3BC1BB36-BBCD-4DF3-BC04-FADF64F81382}" path="Open_1_Order_3_times.tcKDTest" />
 			<child name="Open_All_Orders" key="{B1AD4B0D-0DE8-4ED0-9AB6-08B779C02FCB}" path="Open_All_Orders.tcKDTest" />
 		</folder>
 		<folder name="User Options">
@@ -54,6 +54,10 @@
 			<child name="Create_Scheduling" key="{426A2BCA-DC17-463D-9D1F-47BC153FDF21}" path="Create_Scheduling.tcKDTest" />
 			<child name="Scheduling_Summary" key="{A86B17DA-87F8-4C58-B808-9DDE91C2B332}" path="Scheduling_Summary.tcKDTest" />
 			<child name="Create_Scheduling_Driven_Loop" key="{544726F4-0A91-44D0-8902-04B271908A53}" path="Create_Scheduling_Driven_Loop.tcKDTest" />
+		</folder>
+		<folder name="Testing">
+			<child name="Login_MC_Driven_loop" key="{31EC406E-5B5F-4863-B9D1-16764D129769}" path="Login_MC_Driven_loop.tcKDTest" />
+			<child name="Login_Default" key="{F521F03A-7BB7-49A3-8DF7-648A0ABEFB4B}" path="Login_Default.tcKDTest" />
 		</folder>
 		<child name="test_dbcheckpoint" key="{05F5CF4A-1203-443E-9E62-10BB18E360B1}" path="test_dbcheckpoint.tcKDTest" />
 		<child name="Test2" key="{C1B46CDA-8449-4928-B525-D37CAA4C81A9}" path="Test2.tcKDTest" />

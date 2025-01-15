@@ -20,6 +20,9 @@
 <Nodes version="1">
 	<Node name="root">
 		<Node name="data">
+			<Node name="{19aa7b0b-e049-4c88-a158-5bccd32221d8}">
+				<Node name="variables"/>
+			</Node>
 			<Node name="logs">
 				<Prp name="key" type="S" value="{50AC0292-1FE3-4A91-B973-AF3D9C33BFC3}"/>
 				<Prp name="relpath" type="S" value="Log"/>

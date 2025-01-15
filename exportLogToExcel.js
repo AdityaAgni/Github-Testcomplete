@@ -1,7 +1,7 @@
 ﻿var prjRowIdx, caseRowIdx, detailRowIdx;
 var prjSheet, caseSheet, detailSheet;
 function exportLogToExcel() { 
-    var folderName = "D:\\Testcomplete\\Excel Report\\";
+    var folderName = "D:\\Github\\Excel Report\\";
     var baseExportFilename = "TestLog" + aqConvert.DateTimeToFormatStr(aqDateTime.Now(), "%Y%m%d_%H%M%S");
     var excelFile;
     var logRootFolder = "";
@@ -67,9 +67,9 @@ function exportLogToExcel() {
         // Exporting the test log contents
         var maxCount = Project.Logs.LogItemsCount;
         // sets the starting index of log to be exported
-        var minIdx = 200;
+        var minIdx = 0;
         // sets the maximum index of log to be exported
-        var maxIdx = 210;
+        var maxIdx = 2;
         if (maxCount > maxIdx) maxCount = maxIdx;
         var fileName = folderName + baseExportFilename + "-" + aqString.Format("%0*i", 4, minIdx) + "-" + aqString.Format("%0*i", 4, maxCount) + ".xlsx";
         if (!aqFile.Exists(fileName)) excelFile = Excel.Create(fileName);
