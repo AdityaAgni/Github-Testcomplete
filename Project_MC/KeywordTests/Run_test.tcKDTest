@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
-	<TestData Description="" Key="{C607227C-BB99-4405-8288-AB5D42D90594}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+	<TestData Description="" Key="{2B188F51-5611-4A0F-921A-60CC07706614}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
 		<Data>
 			<Extenders>
 				<NodeBitmaps />
@@ -13,14 +13,11 @@
 				</Data>
 				<Children>
 					<Operation Type="{16DC8186-4DEC-41AF-80A0-F8C655838299}">
-						<Data Description="Runs a test from the project." TestName="Login_Default" FullName="KeywordTests - Login_Default" Path="KeywordTests|Login_Default" />
+						<Data Description="Runs a test from the project." TestName="test1" FullName="KeywordTests - test1" Path="KeywordTests|test1" />
 					</Operation>
 				</Children>
 			</Operation>
-			<Operation Type="{16DC8186-4DEC-41AF-80A0-F8C655838299}">
-				<Data Description="Runs a test from the project." TestName="Logout_MC" FullName="KeywordTests - Logout_MC" Path="KeywordTests|Logout_MC" />
-			</Operation>
 		</Children>
 	</TestData>
-	<Parameters Key="{3608A005-ACB1-4FE2-9527-B7C3DD234C8F}" />
+	<Parameters Key="{CA7CEFBC-C3B9-4E43-9C83-A2CCFE356F80}" />
 </Root>

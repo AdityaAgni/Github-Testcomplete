@@ -23,20 +23,11 @@
 		<Node name="logs">
 			<Node name="log idx=0000">
 				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45671.7604425579"/>
+				<Prp name="datetime" type="D" value="45672.4771303356"/>
 				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{8821ED13-D572-4CE9-97C5-1AC2368A486A}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [Run_Application_MC]"/>
-				<Prp name="relpath" type="S" value="1_14_2025_6_15 PM_02_237\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0001">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45671.7610594444"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{D78E8188-9FF8-49F9-BBAE-16AFB4A88C03}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [Login_MC_Driven_loop]"/>
-				<Prp name="relpath" type="S" value="1_14_2025_6_15 PM_55_536\Description.tcLog"/>
+				<Prp name="key" type="S" value="{B5F12F92-9F66-46A7-9F34-B875A11A52E9}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Run_test]"/>
+				<Prp name="relpath" type="S" value="1_15_2025_11_27 AM_04_61\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
 			</Node>
 		</Node>
