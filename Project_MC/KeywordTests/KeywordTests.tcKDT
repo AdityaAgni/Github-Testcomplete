@@ -2,7 +2,7 @@
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
 	<children>
 		<folder name="Patient">
-			<child name="Add_Basic_Information_Driven_Loop" key="{5193A9B5-2CEB-4999-A372-0ACDA71213BD}" path="Add_Basic_Information_Driven_Loop.tcKDTest" />
+			<child name="Add_Basic_Information" key="{5193A9B5-2CEB-4999-A372-0ACDA71213BD}" path="Add_Basic_Information.tcKDTest" />
 			<child name="Edit_Patient" key="{9880CF54-956B-4269-B1F2-F99A331232F4}" path="Edit_Patient.tcKDTest" />
 			<child name="Delete_new_patient" key="{C6B77D37-9973-4C26-9A72-C874886FB3D9}" path="Delete_new_patient.tcKDTest" />
 			<child name="Delete_Patient" key="{F5771E1C-F83E-4570-9D76-FAFC0964601F}" path="Delete_Patient.tcKDTest" />
@@ -40,7 +40,7 @@
 		</folder>
 		<folder name="Testing">
 			<child name="Login_Driven_loop" key="{944345D1-7A71-41DB-9E81-60D08A80B395}" path="Login_Driven_loop.tcKDTest" />
-			<child name="Add_basic_information" key="{71E9EBCC-BB89-4042-B65D-A32AF314FAF9}" path="Add_basic_information.tcKDTest" />
+			<child name="Add_basic_information_test" key="{71E9EBCC-BB89-4042-B65D-A32AF314FAF9}" path="Add_basic_information_test.tcKDTest" />
 		</folder>
 		<child name="test_dbcheckpoint" key="{05F5CF4A-1203-443E-9E62-10BB18E360B1}" path="test_dbcheckpoint.tcKDTest" />
 		<child name="Test2" key="{C1B46CDA-8449-4928-B525-D37CAA4C81A9}" path="Test2.tcKDTest" />

@@ -20,7 +20,7 @@
 				</Data>
 				<Children>
 					<Operation Type="{16DC8186-4DEC-41AF-80A0-F8C655838299}">
-						<Data Description="Runs a test from the project." TestName="Add_Basic_Information_Driven_Loop" FullName="KeywordTests - Add_Basic_Information_Driven_Loop" Path="KeywordTests|Add_Basic_Information_Driven_Loop" />
+						<Data Description="Runs a test from the project." TestName="Add_Basic_Information" FullName="KeywordTests - Add_Basic_Information" Path="KeywordTests|Add_Basic_Information" />
 					</Operation>
 				</Children>
 			</Operation>
