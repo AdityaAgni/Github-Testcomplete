@@ -11,6 +11,22 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{CFC1BE49-0CDB-4027-9F2E-36A441B16B81}" version="14">
 		<children>
+			<testItem name="Default login" key="{0EB73711-824F-45D8-93C9-C129B86B94A7}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+				<testParameters />
+				<environments activeCloud="SWT" />
+				<children>
+					<testItem name="Open Schedule menu" key="{0CACA219-96BC-485F-A57D-2336540F1252}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{E6B4AC57-0376-4BA4-8905-0AC39B4ECA90}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+					<testItem name="Select Patient" key="{F7260B4A-36A9-4E82-8963-D63AF49E05E4}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{8D1DDFC6-DB8F-4A2C-A2CE-03B16A328CC6}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
 			<testItem name="Login MC" key="{A4BCA608-6203-43A3-8A36-D7A7DEB81256}" group="False" parallel="False" enabled="False" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
 				<environments activeCloud="SWT" />
@@ -27,7 +43,7 @@
 					</testItem>
 				</children>
 			</testItem>
-			<testItem name="Create Workflow" key="{18E939F3-BF9D-4185-8322-8C92D19C664E}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Create Workflow" key="{18E939F3-BF9D-4185-8322-8C92D19C664E}" group="False" parallel="False" enabled="False" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children>
@@ -151,32 +167,6 @@
 						<children />
 					</testItem>
 					<testItem name="Export to excel" key="{F3133F1A-1DC2-4D47-88E2-70F1C09E0E75}" group="False" parallel="False" enabled="True" load="False" testMoniker="{19A8B515-8FE7-404B-875C-831FD0A10F6B}exportLogToExcel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
-						<testParameters />
-						<environments activeCloud="SWT" />
-						<children />
-					</testItem>
-				</children>
-			</testItem>
-			<testItem name="Create Scheduling" key="{0EB73711-824F-45D8-93C9-C129B86B94A7}" group="False" parallel="False" enabled="False" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
-				<testParameters />
-				<environments activeCloud="SWT" />
-				<children>
-					<testItem name="Open Schedule menu" key="{0CACA219-96BC-485F-A57D-2336540F1252}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{0ED16430-F6CF-4763-A38A-95B63963C0B1}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
-						<testParameters />
-						<environments activeCloud="SWT" />
-						<children />
-					</testItem>
-					<testItem name="Select Patient" key="{F7260B4A-36A9-4E82-8963-D63AF49E05E4}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{4BA3B94E-668F-44FF-AA96-6DFC679CE698}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
-						<testParameters />
-						<environments activeCloud="SWT" />
-						<children />
-					</testItem>
-					<testItem name="Create Scheduling" key="{DAC8877D-0558-4791-A9DC-96EB37C83325}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{426A2BCA-DC17-463D-9D1F-47BC153FDF21}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
-						<testParameters />
-						<environments activeCloud="SWT" />
-						<children />
-					</testItem>
-					<testItem name="ProjectTestItem12" key="{E0FEF9A0-3BE8-4FEC-AF7F-F576A221412E}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />

@@ -174,7 +174,11 @@
 						<Node name="editor">
 							<Node name="{4f9540d5-d9ab-44cd-8dca-73f5f2e7a572}"/>
 							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}"/>
-							<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}"/>
+							<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}">
+								<Node name="main"/>
+								<Node name="tables"/>
+								<Node name="toolbox"/>
+							</Node>
 							<Node name="{eb7c9d82-bc63-4167-ad95-a6b053bbda71}"/>
 							<Prp name="editor" type="S" value="{D0356930-F07D-413C-87EF-4444F94FE240}"/>
 							<Prp name="focused" type="S" value="{7219309C-FE27-4A96-8C31-922B408DBDBE}"/>
@@ -770,7 +774,9 @@
 				<Node name="project_mc">
 					<Node name="project_mc">
 						<Node name="keywordtests">
+							<Node name="login"/>
 							<Node name="order"/>
+							<Node name="testing"/>
 						</Node>
 						<Node name="networksuite"/>
 						<Node name="script"/>
