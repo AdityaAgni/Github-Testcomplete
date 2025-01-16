@@ -33,7 +33,7 @@
 					<Node name="0">
 						<Node name="editor">
 							<Node name="{93765269-c25d-4cd5-b6bf-5d7454869c93}">
-								<Prp name="key" type="S" value="{13216413-F64B-44E2-87F9-BEA8E73195EC}"/>
+								<Prp name="key" type="S" value="{467F81B1-F5EE-48C0-BF52-F0524D862BB4}"/>
 							</Node>
 							<Prp name="editor" type="S" value="{E7AA3E70-8EE4-4335-AB10-D9E381BDD6CB}"/>
 							<Prp name="focused" type="S" value="{612B1625-0A23-4467-9C14-2D94D9B689D3}"/>
@@ -69,7 +69,11 @@
 						<Node name="editor">
 							<Node name="{4f9540d5-d9ab-44cd-8dca-73f5f2e7a572}"/>
 							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}"/>
-							<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}"/>
+							<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}">
+								<Node name="main"/>
+								<Node name="tables"/>
+								<Node name="toolbox"/>
+							</Node>
 							<Node name="{eb7c9d82-bc63-4167-ad95-a6b053bbda71}"/>
 							<Prp name="editor" type="S" value="{B944F7FC-8C69-4553-AF4D-84DE49E73BB8}"/>
 							<Prp name="focused" type="S" value="{EA439C2D-A065-4659-99DE-3991E0AA648C}"/>
@@ -185,7 +189,11 @@
 						<Node name="editor">
 							<Node name="{4f9540d5-d9ab-44cd-8dca-73f5f2e7a572}"/>
 							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}"/>
-							<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}"/>
+							<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}">
+								<Node name="main"/>
+								<Node name="tables"/>
+								<Node name="toolbox"/>
+							</Node>
 							<Node name="{eb7c9d82-bc63-4167-ad95-a6b053bbda71}"/>
 							<Prp name="editor" type="S" value="{1C14F232-82DA-4D12-BD91-DB475335707D}"/>
 							<Prp name="focused" type="S" value="{C7397161-83C1-4A38-AF17-E359DEDD141F}"/>
@@ -196,7 +204,11 @@
 						<Node name="editor">
 							<Node name="{4f9540d5-d9ab-44cd-8dca-73f5f2e7a572}"/>
 							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}"/>
-							<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}"/>
+							<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}">
+								<Node name="main"/>
+								<Node name="tables"/>
+								<Node name="toolbox"/>
+							</Node>
 							<Node name="{eb7c9d82-bc63-4167-ad95-a6b053bbda71}"/>
 							<Prp name="editor" type="S" value="{1A07085A-569B-4589-A87F-2485B9752BDF}"/>
 							<Prp name="focused" type="S" value="{CAD2B571-EA3C-4B74-B0EF-3E92A675A92B}"/>
@@ -777,6 +789,8 @@
 					<Node name="project_mc">
 						<Node name="keywordtests">
 							<Node name="login"/>
+							<Node name="order"/>
+							<Node name="patient"/>
 							<Node name="testing"/>
 						</Node>
 						<Node name="testedapps"/>

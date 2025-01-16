@@ -11,7 +11,7 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{CFC1BE49-0CDB-4027-9F2E-36A441B16B81}" version="14">
 		<children>
-			<testItem name="Login MC" key="{A4BCA608-6203-43A3-8A36-D7A7DEB81256}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Login MC" key="{A4BCA608-6203-43A3-8A36-D7A7DEB81256}" group="False" parallel="False" enabled="False" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children>
@@ -27,11 +27,11 @@
 					</testItem>
 				</children>
 			</testItem>
-			<testItem name="Create Workflow" key="{18E939F3-BF9D-4185-8322-8C92D19C664E}" group="False" parallel="False" enabled="False" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Create Workflow" key="{18E939F3-BF9D-4185-8322-8C92D19C664E}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children>
-					<testItem name="Run App" key="{56C9659D-DD2C-427D-941B-607F0CA68353}" group="False" parallel="False" enabled="False" load="False" testMoniker="KDT\{E6B4AC57-0376-4BA4-8905-0AC39B4ECA90}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+					<testItem name="Run App" key="{56C9659D-DD2C-427D-941B-607F0CA68353}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{E6B4AC57-0376-4BA4-8905-0AC39B4ECA90}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />
@@ -51,12 +51,7 @@
 						<environments activeCloud="SWT" />
 						<children />
 					</testItem>
-					<testItem name="ProjectTestItem11" key="{52657D5F-1C35-4612-A010-E3AF0A8C7F03}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{B1AD4B0D-0DE8-4ED0-9AB6-08B779C02FCB}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
-						<testParameters />
-						<environments activeCloud="SWT" />
-						<children />
-					</testItem>
-					<testItem name="ProjectTestItem1" key="{7E9859E5-3567-415C-94F3-2BD8E084E7F7}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{293385AA-8B07-41AA-AF1D-22150AA69DFD}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+					<testItem name="Open All orders" key="{52657D5F-1C35-4612-A010-E3AF0A8C7F03}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{B1AD4B0D-0DE8-4ED0-9AB6-08B779C02FCB}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />
@@ -98,7 +93,7 @@
 						<environments activeCloud="SWT" />
 						<children />
 					</testItem>
-					<testItem name="ProjectTestItem9" key="{285A2A56-7EA7-4041-8B7F-34D4AD563533}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{9B0BA9DE-9DC4-43E7-B7FD-67465ABDF532}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+					<testItem name="ProjectTestItem9" key="{285A2A56-7EA7-4041-8B7F-34D4AD563533}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{71E9EBCC-BB89-4042-B65D-A32AF314FAF9}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />

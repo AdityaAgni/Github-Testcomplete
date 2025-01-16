@@ -40,7 +40,7 @@
 			<child name="Select_Filter_lea" key="{293385AA-8B07-41AA-AF1D-22150AA69DFD}" path="Select_Filter_lea.tcKDTest" />
 		</folder>
 		<folder name="Testing">
-			<child name="Add_basic_information_test" key="{71E9EBCC-BB89-4042-B65D-A32AF314FAF9}" path="Add_basic_information_test.tcKDTest" />
+			<child name="Driven_loop_Add_basic_information" key="{71E9EBCC-BB89-4042-B65D-A32AF314FAF9}" path="Driven_loop_Add_basic_information.tcKDTest" />
 			<child name="Driven_loop_Login" key="{944345D1-7A71-41DB-9E81-60D08A80B395}" path="Driven_loop_Login.tcKDTest" />
 		</folder>
 		<child name="test_dbcheckpoint" key="{05F5CF4A-1203-443E-9E62-10BB18E360B1}" path="test_dbcheckpoint.tcKDTest" />
