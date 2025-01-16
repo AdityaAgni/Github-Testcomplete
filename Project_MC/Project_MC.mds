@@ -239,10 +239,10 @@
 					</DefValue>
 				</Variable>
 				<Variable Name="User" Type="String" Local="True">
-					<DefValue StrValue="adit" />
+					<DefValue StrValue="mc2" />
 				</Variable>
 				<Variable Name="Password" Type="String" Local="True">
-					<DefValue StrValue="adit" />
+					<DefValue StrValue="MC2_admin" />
 				</Variable>
 			</Items>
 		</data>
