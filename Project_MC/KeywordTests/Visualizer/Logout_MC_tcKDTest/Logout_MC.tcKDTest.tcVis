@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
-	<data key="{9A8165D6-0721-4C98-B6D7-9A5D5FF4056A}">
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45644.1230671296" objectName="Aliases.MediConnect2.fmMain.RibbonControl" objectLeft="0" objectTop="-8" objectRight="1920" objectBottom="166" clickPointX="1903" clickPointY="18" imageFileName="tcvi572025328243840.png" storageFileName="" needUpdate="False" rectColor="255" />
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45644.123125" objectName="Aliases.MediConnect2.fmMessage.LayoutControl1.btn2" objectLeft="483" objectTop="413" objectRight="530" objectBottom="436" clickPointX="511" clickPointY="421" imageFileName="tcvi572029812243841.png" storageFileName="" needUpdate="False" rectColor="255" />
-	</data>
+	<data key="{9A8165D6-0721-4C98-B6D7-9A5D5FF4056A}" />
 </Root>

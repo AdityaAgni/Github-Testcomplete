@@ -1,0 +1,2341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 23">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="320"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage23.png"/>
+					<Prp name="click point x" type="I" value="412"/>
+					<Prp name="object right" type="I" value="433"/>
+					<Prp name="object top" type="I" value="297"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054091898"/>
+					<Prp name="click point y" type="I" value="313"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin"/>
+					<Prp name="object left" type="I" value="394"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.497076794"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="23"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (18, 16) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btnLogin&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 24">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="417"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage24.png"/>
+					<Prp name="click point x" type="I" value="450"/>
+					<Prp name="object right" type="I" value="468"/>
+					<Prp name="object top" type="I" value="394"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054385532"/>
+					<Prp name="click point y" type="I" value="403"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1"/>
+					<Prp name="object left" type="I" value="427"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971062384"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="24"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (23, 9) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmErrorBox&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btn1&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 60">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="11"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="244"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage60.png"/>
+					<Prp name="click point x" type="I" value="377"/>
+					<Prp name="object right" type="I" value="385"/>
+					<Prp name="object top" type="I" value="222"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2057749653"/>
+					<Prp name="click point y" type="I" value="233"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLookupSelection.lcMain.lkpSelection"/>
+					<Prp name="object left" type="I" value="152"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4974445255"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="60"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="11"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (225, 11) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLookupSelection.lcMain.lkpSelection&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLookupSelection&quot;).WinFormsObject(&quot;lcMain&quot;).WinFormsObject(&quot;lkpSelection&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 40">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage40.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055180787"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971850579"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="40"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Martha' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 61">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="12"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="349"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage61.png"/>
+					<Prp name="click point x" type="I" value="436"/>
+					<Prp name="object right" type="I" value="452"/>
+					<Prp name="object top" type="I" value="326"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2057784838"/>
+					<Prp name="click point y" type="I" value="335"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLookupSelection.lcMain.btnOK"/>
+					<Prp name="object left" type="I" value="408"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4974469213"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="61"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="12"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (28, 9) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLookupSelection.lcMain.btnOK&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLookupSelection&quot;).WinFormsObject(&quot;lcMain&quot;).WinFormsObject(&quot;btnOK&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 0">
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4965674421"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The application &quot;C:\Program Files (x86)\MediConnect2\MediConnect2.exe&quot; started."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="The process ID is 16632."/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 16">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage16.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.205371956"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4970388889"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="16"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Burhan' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 32">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage32.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054788657"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971459606"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="32"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Alfy' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 5">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="320"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage4.png"/>
+					<Prp name="click point x" type="I" value="354"/>
+					<Prp name="object right" type="I" value="375"/>
+					<Prp name="object top" type="I" value="297"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2050299421"/>
+					<Prp name="click point y" type="I" value="313"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin"/>
+					<Prp name="object left" type="I" value="336"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4966976505"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (18, 16) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btnLogin&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 30">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="417"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage30.png"/>
+					<Prp name="click point x" type="I" value="450"/>
+					<Prp name="object right" type="I" value="468"/>
+					<Prp name="object top" type="I" value="394"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054751042"/>
+					<Prp name="click point y" type="I" value="403"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1"/>
+					<Prp name="object left" type="I" value="427"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971427546"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="30"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (23, 9) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmErrorBox&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btn1&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 43">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage43.png"/>
+					<Prp name="click point x" type="I" value="147"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055507407"/>
+					<Prp name="click point y" type="I" value="228"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972182986"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="43"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (51, 4) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 44">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage44.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055522222"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972193171"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="44"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Zera' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 13">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage13.png"/>
+					<Prp name="click point x" type="I" value="147"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2053676505"/>
+					<Prp name="click point y" type="I" value="228"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4970352315"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="13"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (51, 4) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 48">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="417"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage48.png"/>
+					<Prp name="click point x" type="I" value="450"/>
+					<Prp name="object right" type="I" value="468"/>
+					<Prp name="object top" type="I" value="394"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055844213"/>
+					<Prp name="click point y" type="I" value="403"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1"/>
+					<Prp name="object left" type="I" value="427"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972519792"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="48"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (23, 9) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmErrorBox&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btn1&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 37">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage37.png"/>
+					<Prp name="click point x" type="I" value="147"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055136111"/>
+					<Prp name="click point y" type="I" value="228"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971811458"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="37"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (51, 4) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 33">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage33.png"/>
+					<Prp name="click point x" type="I" value="115"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054798958"/>
+					<Prp name="click point y" type="I" value="258"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971476042"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="33"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (19, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 18">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="417"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage18.png"/>
+					<Prp name="click point x" type="I" value="450"/>
+					<Prp name="object right" type="I" value="468"/>
+					<Prp name="object top" type="I" value="394"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054014236"/>
+					<Prp name="click point y" type="I" value="403"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1"/>
+					<Prp name="object left" type="I" value="427"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4970690162"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="18"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (23, 9) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmErrorBox&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btn1&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 27">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage27.png"/>
+					<Prp name="click point x" type="I" value="115"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054437037"/>
+					<Prp name="click point y" type="I" value="258"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971115393"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="27"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (19, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 7">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage7.png"/>
+					<Prp name="click point x" type="I" value="147"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2053298843"/>
+					<Prp name="click point y" type="I" value="228"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4969974884"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (51, 4) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 41">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="320"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage41.png"/>
+					<Prp name="click point x" type="I" value="412"/>
+					<Prp name="object right" type="I" value="433"/>
+					<Prp name="object top" type="I" value="297"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055191898"/>
+					<Prp name="click point y" type="I" value="313"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin"/>
+					<Prp name="object left" type="I" value="394"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971867245"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="41"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (18, 16) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btnLogin&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 54">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="417"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage54.png"/>
+					<Prp name="click point x" type="I" value="450"/>
+					<Prp name="object right" type="I" value="468"/>
+					<Prp name="object top" type="I" value="394"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2056215625"/>
+					<Prp name="click point y" type="I" value="403"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1"/>
+					<Prp name="object left" type="I" value="427"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972891088"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="54"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (23, 9) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmErrorBox&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btn1&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 50">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage50.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055885995"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972557407"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="50"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Ika' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 46">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage46.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055550116"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972220833"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="46"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Zera' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 6">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="166"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage6.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="1366"/>
+					<Prp name="object top" type="I" value="-8"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2053141898"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.RibbonControl"/>
+					<Prp name="object left" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4969946181"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The 'MediConnect|Program|Logout' item of the ribbon control was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="13"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmMain.RibbonControl&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).WinFormsObject(&quot;RibbonControl&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 26">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage26.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054427083"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971097685"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="26"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Adi' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 14">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage14.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2053692593"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4970361921"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="14"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Burhan' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 15">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage15.png"/>
+					<Prp name="click point x" type="I" value="115"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2053702894"/>
+					<Prp name="click point y" type="I" value="258"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4970378704"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="15"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (19, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 56">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage56.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2056254051"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972925347"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="56"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'adit' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 8">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage8.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2053314236"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4969984491"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Yessika' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 51">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage51.png"/>
+					<Prp name="click point x" type="I" value="115"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055896759"/>
+					<Prp name="click point y" type="I" value="258"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972574537"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="51"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (19, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 28">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage28.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.205445463"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971124421"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="28"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Adi' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 59">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="320"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage59.png"/>
+					<Prp name="click point x" type="I" value="412"/>
+					<Prp name="object right" type="I" value="433"/>
+					<Prp name="object top" type="I" value="297"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2056294907"/>
+					<Prp name="click point y" type="I" value="313"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin"/>
+					<Prp name="object left" type="I" value="394"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972970486"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="59"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (18, 16) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btnLogin&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 17">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="320"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage17.png"/>
+					<Prp name="click point x" type="I" value="412"/>
+					<Prp name="object right" type="I" value="433"/>
+					<Prp name="object top" type="I" value="297"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2053728125"/>
+					<Prp name="click point y" type="I" value="313"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin"/>
+					<Prp name="object left" type="I" value="394"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4970403935"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="17"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (18, 16) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btnLogin&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 55">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage55.png"/>
+					<Prp name="click point x" type="I" value="147"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2056238889"/>
+					<Prp name="click point y" type="I" value="228"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972914931"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="55"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (51, 4) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 22">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage22.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054080093"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4970750926"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="22"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Andy' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{E6B4AC57-0376-4BA4-8905-0AC39B4ECA90}"/>
+			<Prp name="unit 1" type="S" value="{BB412BEF-16E3-4EE6-8296-5AB6139D87D2}"/>
+		</Node>
+		<Node name="message 29">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="320"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage29.png"/>
+					<Prp name="click point x" type="I" value="412"/>
+					<Prp name="object right" type="I" value="433"/>
+					<Prp name="object top" type="I" value="297"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054465509"/>
+					<Prp name="click point y" type="I" value="313"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin"/>
+					<Prp name="object left" type="I" value="394"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971141204"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="29"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (18, 16) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btnLogin&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 4">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage3.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2050284375"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4966954977"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'MC2_admin' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 42">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="417"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage42.png"/>
+					<Prp name="click point x" type="I" value="450"/>
+					<Prp name="object right" type="I" value="468"/>
+					<Prp name="object top" type="I" value="394"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055487037"/>
+					<Prp name="click point y" type="I" value="403"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1"/>
+					<Prp name="object left" type="I" value="427"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.497216331"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="42"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (23, 9) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmErrorBox&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btn1&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 9">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage9.png"/>
+					<Prp name="click point x" type="I" value="115"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2053326852"/>
+					<Prp name="click point y" type="I" value="258"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4970002778"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (19, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 12">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="417"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage12.png"/>
+					<Prp name="click point x" type="I" value="450"/>
+					<Prp name="object right" type="I" value="468"/>
+					<Prp name="object top" type="I" value="394"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2053656482"/>
+					<Prp name="click point y" type="I" value="403"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1"/>
+					<Prp name="object left" type="I" value="427"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4970331944"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="12"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (23, 9) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmErrorBox&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btn1&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 47">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="320"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage47.png"/>
+					<Prp name="click point x" type="I" value="412"/>
+					<Prp name="object right" type="I" value="433"/>
+					<Prp name="object top" type="I" value="297"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055560069"/>
+					<Prp name="click point y" type="I" value="313"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin"/>
+					<Prp name="object left" type="I" value="394"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972235301"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="47"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (18, 16) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btnLogin&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 19">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage19.png"/>
+					<Prp name="click point x" type="I" value="147"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054034491"/>
+					<Prp name="click point y" type="I" value="228"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4970710764"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="19"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (51, 4) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 10">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage10.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2053343866"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4970015278"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="10"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Yessika' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 34">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage34.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054817014"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971486458"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="34"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Alfy' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 38">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage38.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055152431"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971823611"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="38"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Martha' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 25">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage25.png"/>
+					<Prp name="click point x" type="I" value="147"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054409722"/>
+					<Prp name="click point y" type="I" value="228"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971085995"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="25"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (51, 4) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 20">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage20.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054050579"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4970721875"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="20"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Andy' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 21">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage21.png"/>
+					<Prp name="click point x" type="I" value="115"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054063194"/>
+					<Prp name="click point y" type="I" value="258"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.497073912"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="21"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (19, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 62">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="166"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage63.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="1366"/>
+					<Prp name="object top" type="I" value="-8"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2058183218"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmMain.RibbonControl"/>
+					<Prp name="object left" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4974941782"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="62"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The 'MediConnect|Program|Logout' item of the ribbon control was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="13"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmMain.RibbonControl&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmMain&quot;).WinFormsObject(&quot;RibbonControl&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 3">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage2.png"/>
+					<Prp name="click point x" type="I" value="115"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2050264583"/>
+					<Prp name="click point y" type="I" value="258"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4966943056"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (19, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 36">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="417"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage36.png"/>
+					<Prp name="click point x" type="I" value="450"/>
+					<Prp name="object right" type="I" value="468"/>
+					<Prp name="object top" type="I" value="394"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055115278"/>
+					<Prp name="click point y" type="I" value="403"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1"/>
+					<Prp name="object left" type="I" value="427"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971791667"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="36"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (23, 9) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmErrorBox.LayoutControl1.btn1&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmErrorBox&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btn1&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 57">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage57.png"/>
+					<Prp name="click point x" type="I" value="115"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2056266319"/>
+					<Prp name="click point y" type="I" value="258"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972941551"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="57"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (19, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 1">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage0.png"/>
+					<Prp name="click point x" type="I" value="147"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2050125231"/>
+					<Prp name="click point y" type="I" value="228"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4966842593"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (51, 4) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 2">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage1.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2050208333"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4966894213"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'mc2' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 35">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="320"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage35.png"/>
+					<Prp name="click point x" type="I" value="412"/>
+					<Prp name="object right" type="I" value="433"/>
+					<Prp name="object top" type="I" value="297"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054825694"/>
+					<Prp name="click point y" type="I" value="313"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin"/>
+					<Prp name="object left" type="I" value="394"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971503125"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="35"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (18, 16) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btnLogin&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 31">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage31.png"/>
+					<Prp name="click point x" type="I" value="147"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2054772106"/>
+					<Prp name="click point y" type="I" value="228"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971447685"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="31"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (51, 4) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 11">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="320"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage11.png"/>
+					<Prp name="click point x" type="I" value="412"/>
+					<Prp name="object right" type="I" value="433"/>
+					<Prp name="object top" type="I" value="297"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2053357176"/>
+					<Prp name="click point y" type="I" value="313"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin"/>
+					<Prp name="object left" type="I" value="394"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4970031829"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="11"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (18, 16) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btnLogin&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 45">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage45.png"/>
+					<Prp name="click point x" type="I" value="115"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055534259"/>
+					<Prp name="click point y" type="I" value="258"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972210185"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="45"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (19, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 39">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage39.png"/>
+					<Prp name="click point x" type="I" value="115"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055164699"/>
+					<Prp name="click point y" type="I" value="258"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4971840856"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="39"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (19, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 58">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage58.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2056282639"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972953819"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="58"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'adit' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 49">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="240"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage49.png"/>
+					<Prp name="click point x" type="I" value="147"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="224"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055870139"/>
+					<Prp name="click point y" type="I" value="228"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972545602"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="49"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (51, 4) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtUsername.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtUsername&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 52">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="266"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage52.png"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="430"/>
+					<Prp name="object top" type="I" value="250"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055915509"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox"/>
+					<Prp name="object left" type="I" value="96"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.497258588"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="52"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The text 'Ika' was entered in the text editor."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.txtPassword.TextBoxMaskBox&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;txtPassword&quot;).WinFormsObject(&quot;TextBoxMaskBox&quot;, &quot;&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 53">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object bottom" type="I" value="320"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="image file name" type="S" value="visImage53.png"/>
+					<Prp name="click point x" type="I" value="412"/>
+					<Prp name="object right" type="I" value="433"/>
+					<Prp name="object top" type="I" value="297"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="45673.2055925231"/>
+					<Prp name="click point y" type="I" value="313"/>
+					<Prp name="object name" type="S" value="Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin"/>
+					<Prp name="object left" type="I" value="394"/>
+				</Node>
+			</Node>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="date" type="D" value="45673.4972601273"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="53"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (18, 16) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.MediConnect2.fmLogin.LayoutControl1.btnLogin&#xA;(Sys.Process(&quot;MediConnect2&quot;).WinFormsObject(&quot;fmLogin&quot;).WinFormsObject(&quot;LayoutControl1&quot;).WinFormsObject(&quot;btnLogin&quot;))"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Prp name="status" type="I" value="0"/>
+	</Node>
+</Nodes>

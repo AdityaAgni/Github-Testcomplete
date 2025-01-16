@@ -30,7 +30,17 @@
 				<Prp name="key" type="S" value="{929E768F-F5F4-4D38-B8B2-30E780222993}"/>
 				<Prp name="relpath" type="S" value="Log"/>
 			</Node>
-			<Node name="variables"/>
+			<Node name="variables">
+				<Node name="datav4">
+					<Node name="var0">
+						<Prp name="name" type="S" value="User"/>
+					</Node>
+					<Node name="var1">
+						<Prp name="name" type="S" value="Password"/>
+					</Node>
+				</Node>
+				<Prp name="version" type="I" value="4"/>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{71078212-FAEB-4856-A901-B237C89E6B5C}"/>
 	</Node>

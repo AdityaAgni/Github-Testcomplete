@@ -8,7 +8,18 @@
 			<testItem key="{AC720EB6-0FAB-45A7-A442-8E22AE0EA548}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
-	<variables key="{B0EDF656-9266-40A3-9D13-F7E890E81303}" />
+	<variables key="{B0EDF656-9266-40A3-9D13-F7E890E81303}">
+		<data Version="4">
+			<Items>
+				<Variable Name="User" Type="String" Local="False" Descr="mc2">
+					<DefValue StrValue="adit" />
+				</Variable>
+				<Variable Name="Password" Type="String" Local="False" Descr="MC2_admin">
+					<DefValue StrValue="adit" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
 	<analysis key="{855AE7DB-B43A-426D-850A-B90C32F75E6C}" />
 	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
 		<data />

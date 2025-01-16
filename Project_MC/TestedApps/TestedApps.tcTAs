@@ -10,7 +10,7 @@
 					<param name="RunAs" parameters="" workFolder="" userName="" password="" domain="" />
 					<param name="Profile" parameters="" workFolder="" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
 					<param name="Debug" parameters="" workFolder="" />
-					<param name="Simple" fileName="MediConnect2.exe" filePath="C:\Program Files (x86)\MC310801\MediConnect2\" parameters="" workFolder="" />
+					<param name="Simple" fileName="MediConnect2.exe" filePath="C:\Program Files (x86)\MediConnect2\" parameters="" workFolder="" />
 				</runModeParams>
 			</config>
 			<testData />

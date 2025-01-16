@@ -238,6 +238,12 @@
 						<ConnectionInfo FileName="..\Patient Basic Information.xlsx" Table="&apos;Basic Information$&apos;" HasColumnNames="True" />
 					</DefValue>
 				</Variable>
+				<Variable Name="User" Type="String" Local="True">
+					<DefValue StrValue="adit" />
+				</Variable>
+				<Variable Name="Password" Type="String" Local="True">
+					<DefValue StrValue="adit" />
+				</Variable>
 			</Items>
 		</data>
 	</variables>

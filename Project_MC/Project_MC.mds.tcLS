@@ -47,6 +47,18 @@
 					<Node name="var12">
 						<Prp name="name" type="S" value="BasicInformation"/>
 					</Node>
+					<Node name="var13">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="User"/>
+					</Node>
+					<Node name="var14">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="Password"/>
+					</Node>
 					<Node name="var2">
 						<Node name="value">
 							<Prp name="strvalue" type="H" value=" "/>

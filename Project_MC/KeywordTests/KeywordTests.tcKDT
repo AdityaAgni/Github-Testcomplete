@@ -16,7 +16,8 @@
 		</folder>
 		<folder name="Login">
 			<child name="Run_Application_MC" key="{E6B4AC57-0376-4BA4-8905-0AC39B4ECA90}" path="Run_Application_MC.tcKDTest" />
-			<child name="Login" key="{8D1DDFC6-DB8F-4A2C-A2CE-03B16A328CC6}" path="Login.tcKDTest" />
+			<child name="Default_Login" key="{8D1DDFC6-DB8F-4A2C-A2CE-03B16A328CC6}" path="Default_Login.tcKDTest" />
+			<child name="Login_with_variable" key="{BB412BEF-16E3-4EE6-8296-5AB6139D87D2}" path="Login_with_variable.tcKDTest" />
 		</folder>
 		<folder name="Order">
 			<child name="Edit_Orders" key="{8E96328B-8EE6-45AE-B717-7A95E11F9FB2}" path="Edit_Orders.tcKDTest" />
@@ -39,8 +40,8 @@
 			<child name="Select_Filter_lea" key="{293385AA-8B07-41AA-AF1D-22150AA69DFD}" path="Select_Filter_lea.tcKDTest" />
 		</folder>
 		<folder name="Testing">
-			<child name="Login_Driven_loop" key="{944345D1-7A71-41DB-9E81-60D08A80B395}" path="Login_Driven_loop.tcKDTest" />
 			<child name="Add_basic_information_test" key="{71E9EBCC-BB89-4042-B65D-A32AF314FAF9}" path="Add_basic_information_test.tcKDTest" />
+			<child name="Driven_loop_Login" key="{944345D1-7A71-41DB-9E81-60D08A80B395}" path="Driven_loop_Login.tcKDTest" />
 		</folder>
 		<child name="test_dbcheckpoint" key="{05F5CF4A-1203-443E-9E62-10BB18E360B1}" path="test_dbcheckpoint.tcKDTest" />
 		<child name="Test2" key="{C1B46CDA-8449-4928-B525-D37CAA4C81A9}" path="Test2.tcKDTest" />
