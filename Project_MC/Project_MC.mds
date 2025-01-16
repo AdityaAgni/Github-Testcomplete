@@ -31,12 +31,12 @@
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children>
-					<testItem name="Run App" key="{56C9659D-DD2C-427D-941B-607F0CA68353}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{E6B4AC57-0376-4BA4-8905-0AC39B4ECA90}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+					<testItem name="Run App" key="{56C9659D-DD2C-427D-941B-607F0CA68353}" group="False" parallel="False" enabled="False" load="False" testMoniker="KDT\{E6B4AC57-0376-4BA4-8905-0AC39B4ECA90}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />
 					</testItem>
-					<testItem name="Login" key="{088FE6F7-20DE-4D23-A9F5-5957EF33BEE3}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{8D1DDFC6-DB8F-4A2C-A2CE-03B16A328CC6}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+					<testItem name="Login" key="{088FE6F7-20DE-4D23-A9F5-5957EF33BEE3}" group="False" parallel="False" enabled="False" load="False" testMoniker="KDT\{8D1DDFC6-DB8F-4A2C-A2CE-03B16A328CC6}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />
@@ -51,12 +51,12 @@
 						<environments activeCloud="SWT" />
 						<children />
 					</testItem>
-					<testItem name="Open All orders" key="{52657D5F-1C35-4612-A010-E3AF0A8C7F03}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{B1AD4B0D-0DE8-4ED0-9AB6-08B779C02FCB}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+					<testItem name="Open All orders" key="{52657D5F-1C35-4612-A010-E3AF0A8C7F03}" group="False" parallel="False" enabled="False" load="False" testMoniker="KDT\{B1AD4B0D-0DE8-4ED0-9AB6-08B779C02FCB}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />
 					</testItem>
-					<testItem name="Open Existing Order" key="{82D7741D-BFDF-4415-A04D-9EA19E592014}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{AE77426C-FC10-4BB6-90B1-A9DF4F249923}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+					<testItem name="Open Existing Order" key="{82D7741D-BFDF-4415-A04D-9EA19E592014}" group="False" parallel="False" enabled="False" load="False" testMoniker="KDT\{AE77426C-FC10-4BB6-90B1-A9DF4F249923}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />

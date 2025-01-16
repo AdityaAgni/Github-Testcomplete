@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="projects">
+			<Node name="project0">
+				<Node name="tests">
+					<Node name="test1">
+						<Node name="warnings"/>
+						<Node name="errors">
+							<Node name="error1">
+								<Prp name="msg" type="S" value="There was an attempt to perform an action at point (12, 6), which is overlapped by another window."/>
+							</Node>
+							<Node name="error0">
+								<Prp name="msg" type="S" value="Overlapping window"/>
+							</Node>
+						</Node>
+						<Prp name="duration" type="I" value="72063"/>
+						<Prp name="status" type="I" value="2"/>
+						<Prp name="durationwithoutchildren" type="I" value="72063"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewA2ADkAMAA5AEEANgBCADUALQA5ADMAMQAwAC0ANABEADAAMAAtAEEAOQA1ADQALQA2ADMAMABBADcAQQBGADUAOAAwADYARQB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+						<Prp name="name" type="S" value="Create new order"/>
+						<Prp name="starttime" type="D" value="45673.686718125"/>
+					</Node>
+					<Node name="test0">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="26478"/>
+						<Prp name="status" type="I" value="0"/>
+						<Prp name="durationwithoutchildren" type="I" value="26478"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewBCADcARABFADAAQwBDADcALQBFAEIAOQA4AC0ANABCAEEAOAAtAEIAMgBCAEQALQBEADgAQgA5AEEANAAxADQAOAAyAEQANgB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+						<Prp name="name" type="S" value="Add patient data"/>
+						<Prp name="starttime" type="D" value="45673.6864115741"/>
+					</Node>
+				</Node>
+				<Prp name="incompletedtests" type="I" value="0"/>
+				<Prp name="loadtests" type="I" value="0"/>
+				<Prp name="duration" type="I" value="98541"/>
+				<Prp name="failedtests" type="I" value="1"/>
+				<Prp name="warningtests" type="I" value="0"/>
+				<Prp name="name" type="S" value="Project_MC"/>
+				<Prp name="starttime" type="D" value="45673.6864115741"/>
+			</Node>
+		</Node>
+		<Prp name="executionstatus" type="I" value="2"/>
+		<Prp name="starttime" type="D" value="45673.6864114468"/>
+		<Prp name="warningtestwithretries" type="I" value="0"/>
+		<Prp name="host" type="S" value="DESKTOP-PQ3DT9G"/>
+		<Prp name="testname" type="S" value="Project_MC"/>
+		<Prp name="user" type="S" value="FSI01"/>
+		<Prp name="name" type="S" value="Project_MC"/>
+		<Prp name="loadtests" type="I" value="0"/>
+		<Prp name="successtestwithretries" type="I" value="0"/>
+		<Prp name="stop" type="D" value="45673.6875535069"/>
+		<Prp name="failedtests" type="I" value="1"/>
+		<Prp name="warningtests" type="I" value="0"/>
+		<Prp name="incompletedtests" type="I" value="0"/>
+		<Prp name="tests" type="I" value="2"/>
+		<Prp name="key" type="S" value="{3E1BB96E-7777-4644-AA06-98C94D99ADCD}"/>
+	</Node>
+</Nodes>
