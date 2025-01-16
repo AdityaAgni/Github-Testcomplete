@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="projects">
+			<Node name="project0">
+				<Node name="tests">
+					<Node name="test6">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="name" type="S" value="Open Existing Order"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45673.6003839583"/>
+						<Prp name="duration" type="I" value="0"/>
+					</Node>
+					<Node name="test5">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="name" type="S" value="ProjectTestItem1"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45673.6003839583"/>
+						<Prp name="duration" type="I" value="0"/>
+					</Node>
+					<Node name="test3">
+						<Node name="warnings"/>
+						<Node name="errors">
+							<Node name="error13">
+								<Prp name="msg" type="S" value="The object &quot;TextBoxMaskBox&quot; does not exist."/>
+							</Node>
+							<Node name="error8">
+								<Prp name="msg" type="S" value="The object &quot;tabMain&quot; does not exist."/>
+							</Node>
+							<Node name="error9">
+								<Prp name="msg" type="S" value="The object &quot;TextBoxMaskBox&quot; does not exist."/>
+							</Node>
+							<Node name="error4">
+								<Prp name="msg" type="S" value="The object &quot;tabMain&quot; does not exist."/>
+							</Node>
+							<Node name="error7">
+								<Prp name="msg" type="S" value="The object &quot;tabMain&quot; does not exist."/>
+							</Node>
+							<Node name="error2">
+								<Prp name="msg" type="S" value="Cannot obtain the popup menu for item 'Start workflow'."/>
+							</Node>
+							<Node name="error6">
+								<Prp name="msg" type="S" value="The object &quot;tabMain&quot; does not exist."/>
+							</Node>
+							<Node name="error14">
+								<Prp name="msg" type="S" value="The object &quot;TextBoxMaskBox&quot; does not exist."/>
+							</Node>
+							<Node name="error15">
+								<Prp name="msg" type="S" value="The test execution was interrupted."/>
+							</Node>
+							<Node name="error12">
+								<Prp name="msg" type="S" value="The object &quot;TextBoxMaskBox&quot; does not exist."/>
+							</Node>
+							<Node name="error5">
+								<Prp name="msg" type="S" value="The object &quot;tabMain&quot; does not exist."/>
+							</Node>
+							<Node name="error11">
+								<Prp name="msg" type="S" value="The object &quot;TextBoxMaskBox&quot; does not exist."/>
+							</Node>
+							<Node name="error1">
+								<Prp name="msg" type="S" value="Cannot obtain the popup menu for item 'Save'."/>
+							</Node>
+							<Node name="error0">
+								<Prp name="msg" type="S" value="Unable to perform a click on the 'Select  Continue' item of the bar control."/>
+							</Node>
+							<Node name="error10">
+								<Prp name="msg" type="S" value="The object &quot;TextBoxMaskBox&quot; does not exist."/>
+							</Node>
+							<Node name="error3">
+								<Prp name="msg" type="S" value="The object &quot;tabMain&quot; does not exist."/>
+							</Node>
+							<Node name="error16">
+								<Prp name="msg" type="S" value="The execution process was interrupted."/>
+							</Node>
+						</Node>
+						<Prp name="name" type="S" value="Create new order"/>
+						<Prp name="durationwithoutchildren" type="I" value="181817"/>
+						<Prp name="status" type="I" value="2"/>
+						<Prp name="starttime" type="D" value="45673.5982794792"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewBFADIAOQBEAEUAQwA1ADcALQAxAEUAOABBAC0ANABBADQAMwAtAEEAOQA3ADEALQAzADgARQBEAEIARABGADcAQQBGAEIAOQB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+						<Prp name="duration" type="I" value="181817"/>
+					</Node>
+					<Node name="test4">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="name" type="S" value="ProjectTestItem11"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45673.6003839583"/>
+						<Prp name="duration" type="I" value="0"/>
+					</Node>
+					<Node name="test2">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="name" type="S" value="Add patient data"/>
+						<Prp name="durationwithoutchildren" type="I" value="24396"/>
+						<Prp name="status" type="I" value="0"/>
+						<Prp name="starttime" type="D" value="45673.597997037"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewAxADQANwBBADcANgBGADcALQBDADYANABCAC0ANABFADkAOQAtAEIARQAyADMALQBBADQARQBDAEMAMAA1ADIAQgA0ADAAQgB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+						<Prp name="duration" type="I" value="24396"/>
+					</Node>
+					<Node name="test1">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="name" type="S" value="Login"/>
+						<Prp name="durationwithoutchildren" type="I" value="23187"/>
+						<Prp name="status" type="I" value="0"/>
+						<Prp name="starttime" type="D" value="45673.5977286111"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewA2ADIAMQAxAEQARQA2ADYALQA0AEEAMwBEAC0ANAA1AEYARgAtAEIANgA0ADAALQA3ADQANQA5AEMANAA1ADYANwBGAEMAMQB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+						<Prp name="duration" type="I" value="23187"/>
+					</Node>
+					<Node name="test0">
+						<Node name="warnings">
+							<Node name="warning0">
+								<Prp name="msg" type="S" value="There is (are) 1 running instance(s) of &quot;C:\Program Files (x86)\MediConnect2\MediConnect2.exe&quot;. New instances will not be launched."/>
+							</Node>
+						</Node>
+						<Node name="errors"/>
+						<Prp name="name" type="S" value="Run App"/>
+						<Prp name="durationwithoutchildren" type="I" value="64"/>
+						<Prp name="status" type="I" value="1"/>
+						<Prp name="starttime" type="D" value="45673.5977278009"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewA3ADEAMQAyAEUAMQAxADkALQA1AEEANABFAC0ANAAyAEMAOQAtADgAMwA1AEMALQA0ADUANgA4ADgAOAAwADUARgA2ADIAMAB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+						<Prp name="duration" type="I" value="64"/>
+					</Node>
+				</Node>
+				<Prp name="loadtests" type="I" value="0"/>
+				<Prp name="name" type="S" value="Project_MC"/>
+				<Prp name="warningtests" type="I" value="1"/>
+				<Prp name="failedtests" type="I" value="1"/>
+				<Prp name="starttime" type="D" value="45673.5977278009"/>
+				<Prp name="incompletedtests" type="I" value="3"/>
+				<Prp name="duration" type="I" value="229464"/>
+			</Node>
+		</Node>
+		<Prp name="incompletedtests" type="I" value="3"/>
+		<Prp name="name" type="S" value="Project_MC"/>
+		<Prp name="loadtests" type="I" value="0"/>
+		<Prp name="host" type="S" value="DESKTOP-PQ3DT9G"/>
+		<Prp name="failedtests" type="I" value="1"/>
+		<Prp name="successtestwithretries" type="I" value="0"/>
+		<Prp name="warningtestwithretries" type="I" value="0"/>
+		<Prp name="testname" type="S" value="Project_MC"/>
+		<Prp name="warningtests" type="I" value="1"/>
+		<Prp name="key" type="S" value="{08AF28EC-FB5E-4C11-96BC-3FB49E24017E}"/>
+		<Prp name="tests" type="I" value="7"/>
+		<Prp name="user" type="S" value="FSI01"/>
+		<Prp name="stop" type="D" value="45673.6003852199"/>
+		<Prp name="executionstatus" type="I" value="2"/>
+		<Prp name="starttime" type="D" value="45673.5965762269"/>
+	</Node>
+</Nodes>

@@ -23,20 +23,11 @@
 		<Node name="logs">
 			<Node name="log idx=0000">
 				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45673.496555463"/>
+				<Prp name="datetime" type="D" value="45673.604017338"/>
 				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{5F2628F3-227C-4643-9D09-867F277A62F2}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [Driven_loop_Login]"/>
-				<Prp name="relpath" type="S" value="16_01_2025_11_55_02_392\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0001">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45673.498444456"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{21DA5C49-ECAE-418E-9C1A-7BA5AEC9F75E}"/>
-				<Prp name="nameofroot" type="S" value="Project_MC"/>
-				<Prp name="relpath" type="S" value="16_01_2025_11_57_45_601\Description.tcLog"/>
+				<Prp name="key" type="S" value="{C3BDDE3A-4328-44EE-9247-3DBA43EB234A}"/>
+				<Prp name="nameofroot" type="S" value="Login MC"/>
+				<Prp name="relpath" type="S" value="16_01_2025_14_29_47_98\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
 			</Node>
 		</Node>

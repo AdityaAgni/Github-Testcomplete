@@ -12,10 +12,10 @@
 		<data Version="4">
 			<Items>
 				<Variable Name="User" Type="String" Local="False" Descr="mc2">
-					<DefValue StrValue="adit" />
+					<DefValue StrValue="mc2" />
 				</Variable>
 				<Variable Name="Password" Type="String" Local="False" Descr="MC2_admin">
-					<DefValue StrValue="adit" />
+					<DefValue StrValue="MC2_admin" />
 				</Variable>
 			</Items>
 		</data>

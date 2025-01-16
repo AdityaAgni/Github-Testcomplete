@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="log data">
+			<Node name="row1">
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="name" type="S" value="No element to be run for the 'Login MC' test item was specified."/>
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="end time" type="D" value="45673.5965762963"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="details" type="S" value=""/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="45673.5965762963"/>
+			</Node>
+			<Node name="row2">
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="name" type="S" value="Complex Scenario 1 [KeywordTests - Driven_loop_Login]"/>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="end time" type="D" value="45673.5975410301"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="details" type="S" value="{4A6751AB-7E57-46E8-8974-81A3CD42382D}"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="45673.5965763079"/>
+			</Node>
+			<Node name="row3">
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="name" type="S" value="Export to excel [Script\exportLogToExcel - exportLogToExcel]"/>
+				<Prp name="index" type="I" value="3"/>
+				<Prp name="end time" type="D" value="45673.5977277894"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="details" type="S" value="{57DA12F2-C057-49A6-8747-ABA729F2B969}"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="45673.5975410301"/>
+			</Node>
+			<Node name="row0">
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="name" type="S" value="Element to be run"/>
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45673.5965762963"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="details" type="S" value=""/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="45673.5965762963"/>
+			</Node>
+		</Node>
+	</Node>
+</Nodes>

@@ -11,11 +11,27 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{CFC1BE49-0CDB-4027-9F2E-36A441B16B81}" version="14">
 		<children>
-			<testItem name="Create Workflow" key="{18E939F3-BF9D-4185-8322-8C92D19C664E}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Login MC" key="{A4BCA608-6203-43A3-8A36-D7A7DEB81256}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children>
-					<testItem name="Run App" key="{56C9659D-DD2C-427D-941B-607F0CA68353}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{E6B4AC57-0376-4BA4-8905-0AC39B4ECA90}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+					<testItem name="Complex Scenario 1" key="{313E2652-C8C7-41F9-9CB3-2AB631371C85}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{944345D1-7A71-41DB-9E81-60D08A80B395}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+					<testItem name="Export to excel" key="{DE31C19C-8AEF-47AF-8583-94C8E98B5317}" group="False" parallel="False" enabled="True" load="False" testMoniker="{3F0A80D3-F243-4D48-9525-381C7898FE40}exportLogToExcel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="Create Workflow" key="{18E939F3-BF9D-4185-8322-8C92D19C664E}" group="False" parallel="False" enabled="False" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+				<testParameters />
+				<environments activeCloud="SWT" />
+				<children>
+					<testItem name="Run App" key="{56C9659D-DD2C-427D-941B-607F0CA68353}" group="False" parallel="False" enabled="False" load="False" testMoniker="KDT\{E6B4AC57-0376-4BA4-8905-0AC39B4ECA90}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />
@@ -93,22 +109,6 @@
 						<children />
 					</testItem>
 					<testItem name="ProjectTestItem8" key="{D1B1756E-2336-4E29-B0D6-27B3780517B8}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{5193A9B5-2CEB-4999-A372-0ACDA71213BD}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
-						<testParameters />
-						<environments activeCloud="SWT" />
-						<children />
-					</testItem>
-				</children>
-			</testItem>
-			<testItem name="Login MC" key="{A4BCA608-6203-43A3-8A36-D7A7DEB81256}" group="False" parallel="False" enabled="False" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
-				<testParameters />
-				<environments activeCloud="SWT" />
-				<children>
-					<testItem name="Complex Scenario 1" key="{313E2652-C8C7-41F9-9CB3-2AB631371C85}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{944345D1-7A71-41DB-9E81-60D08A80B395}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
-						<testParameters />
-						<environments activeCloud="SWT" />
-						<children />
-					</testItem>
-					<testItem name="Export to excel" key="{DE31C19C-8AEF-47AF-8583-94C8E98B5317}" group="False" parallel="False" enabled="True" load="False" testMoniker="{3F0A80D3-F243-4D48-9525-381C7898FE40}exportLogToExcel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />
