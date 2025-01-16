@@ -11,7 +11,7 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{CFC1BE49-0CDB-4027-9F2E-36A441B16B81}" version="14">
 		<children>
-			<testItem name="Create Workflow" key="{18E939F3-BF9D-4185-8322-8C92D19C664E}" group="False" parallel="False" enabled="False" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Create Workflow" key="{18E939F3-BF9D-4185-8322-8C92D19C664E}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children>
@@ -20,7 +20,7 @@
 						<environments activeCloud="SWT" />
 						<children />
 					</testItem>
-					<testItem name="Login" key="{088FE6F7-20DE-4D23-A9F5-5957EF33BEE3}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{9B0BA9DE-9DC4-43E7-B7FD-67465ABDF532}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+					<testItem name="Login" key="{088FE6F7-20DE-4D23-A9F5-5957EF33BEE3}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{8D1DDFC6-DB8F-4A2C-A2CE-03B16A328CC6}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />
@@ -99,7 +99,7 @@
 					</testItem>
 				</children>
 			</testItem>
-			<testItem name="Login MC" key="{A4BCA608-6203-43A3-8A36-D7A7DEB81256}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Login MC" key="{A4BCA608-6203-43A3-8A36-D7A7DEB81256}" group="False" parallel="False" enabled="False" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children>
