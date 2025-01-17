@@ -37,7 +37,6 @@
 		<folder name="Common">
 			<child name="Exit_MC" key="{C64A2561-D87A-4D03-86BA-4B759D8A248D}" path="Exit_MC.tcKDTest" />
 			<child name="Logout_MC" key="{9A8165D6-0721-4C98-B6D7-9A5D5FF4056A}" path="Logout_MC.tcKDTest" />
-			<child name="Cancel_Exit" key="{E6266DD3-8659-42A1-9B2B-9866F8347CC8}" path="Cancel_Exit.tcKDTest" />
 		</folder>
 		<folder name="Testing">
 			<child name="Driven_loop_Add_basic_information" key="{71E9EBCC-BB89-4042-B65D-A32AF314FAF9}" path="Driven_loop_Add_basic_information.tcKDTest" />

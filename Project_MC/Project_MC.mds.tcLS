@@ -59,6 +59,12 @@
 						</Node>
 						<Prp name="name" type="S" value="Password"/>
 					</Node>
+					<Node name="var15">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="PatientName"/>
+					</Node>
 					<Node name="var2">
 						<Node name="value">
 							<Prp name="strvalue" type="H" value=" "/>

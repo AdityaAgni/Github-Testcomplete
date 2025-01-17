@@ -11,7 +11,7 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{CFC1BE49-0CDB-4027-9F2E-36A441B16B81}" version="14">
 		<children>
-			<testItem name="Default login" key="{0EB73711-824F-45D8-93C9-C129B86B94A7}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Default login" key="{0EB73711-824F-45D8-93C9-C129B86B94A7}" group="False" parallel="False" enabled="False" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children>
@@ -173,6 +173,22 @@
 					</testItem>
 				</children>
 			</testItem>
+			<testItem name="Create 1 order" key="{A345285D-FDF6-418A-A921-A1F78A18CBF3}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+				<testParameters />
+				<environments activeCloud="SWT" />
+				<children>
+					<testItem name="Select patient" key="{FB741910-49E3-47A0-BE62-49B94087064D}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{EECA682F-86D8-43F6-AFEC-46EC75BB875C}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+					<testItem name="New order" key="{BD61C017-1E5A-47FB-BB97-2F169D888CE2}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{93788CDC-D433-4EA1-B43D-FC515CBE91D4}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
 		</children>
 	</testItems>
 	<variables key="{D78FC59D-982D-4E86-B948-85FC7315B2E8}">
@@ -228,6 +244,9 @@
 				</Variable>
 				<Variable Name="Password" Type="String" Local="True">
 					<DefValue StrValue="MC2_admin" />
+				</Variable>
+				<Variable Name="PatientName" Type="String" Local="True">
+					<DefValue StrValue="Lea" />
 				</Variable>
 			</Items>
 		</data>
