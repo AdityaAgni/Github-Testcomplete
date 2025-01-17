@@ -23,20 +23,11 @@
 		<Node name="logs">
 			<Node name="log idx=0000">
 				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45673.6734840162"/>
+				<Prp name="datetime" type="D" value="45674.5891904051"/>
 				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{288A7A97-A5B0-48C1-A137-F94D8906DF17}"/>
-				<Prp name="nameofroot" type="S" value="Create new order"/>
-				<Prp name="relpath" type="S" value="16_01_2025_16_09_49_19\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
-			</Node>
-			<Node name="log idx=0001">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45673.6864113657"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{BA58966F-BCB3-4795-AE36-7EB0E6B45CDA}"/>
-				<Prp name="nameofroot" type="S" value="Project_MC"/>
-				<Prp name="relpath" type="S" value="16_01_2025_16_28_25_942\Description.tcLog"/>
+				<Prp name="key" type="S" value="{A2982B27-E95C-4161-A196-B524171DB24B}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Edit_Orders]"/>
+				<Prp name="relpath" type="S" value="17_01_2025_14_08_26_51\Description.tcLog"/>
 				<Prp name="status" type="I" value="2"/>
 			</Node>
 		</Node>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="projects">
+			<Node name="project0">
+				<Node name="tests">
+					<Node name="test0">
+						<Node name="warnings"/>
+						<Node name="errors">
+							<Node name="error12">
+								<Prp name="msg" type="S" value="The test execution was interrupted."/>
+							</Node>
+							<Node name="error4">
+								<Prp name="msg" type="S" value="The object &quot;btnSelect&quot; does not exist."/>
+							</Node>
+							<Node name="error5">
+								<Prp name="msg" type="S" value="The window is disabled. The action cannot be executed."/>
+							</Node>
+							<Node name="error0">
+								<Prp name="msg" type="S" value="The menu item 'New' not found."/>
+							</Node>
+							<Node name="error9">
+								<Prp name="msg" type="S" value="The object &quot;fmLetterDesigner&quot; does not exist."/>
+							</Node>
+							<Node name="error6">
+								<Prp name="msg" type="S" value="The object &quot;gcVisit&quot; does not exist."/>
+							</Node>
+							<Node name="error1">
+								<Prp name="msg" type="S" value="The object &quot;TextBoxMaskBox&quot; does not exist."/>
+							</Node>
+							<Node name="error7">
+								<Prp name="msg" type="S" value="The object &quot;DockedBarControl&quot; does not exist."/>
+							</Node>
+							<Node name="error13">
+								<Prp name="msg" type="S" value="An exception occurred while the element specified in the 'Create new order' test item was being executed."/>
+							</Node>
+							<Node name="error2">
+								<Prp name="msg" type="S" value="The object &quot;btFind&quot; does not exist."/>
+							</Node>
+							<Node name="error10">
+								<Prp name="msg" type="S" value="There was an attempt to perform an action at point (45, 13), which is out of the window bounds."/>
+							</Node>
+							<Node name="error8">
+								<Prp name="msg" type="S" value="The menu item 'Save' is disabled."/>
+							</Node>
+							<Node name="error3">
+								<Prp name="msg" type="S" value="The object &quot;gcSelectionList&quot; does not exist."/>
+							</Node>
+							<Node name="error11">
+								<Prp name="msg" type="S" value="Exception"/>
+							</Node>
+						</Node>
+						<Prp name="status" type="I" value="2"/>
+						<Prp name="name" type="S" value="Create new order"/>
+						<Prp name="starttime" type="D" value="45674.3816133218"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewA5AEMAMAAyADgAMgA3AEYALQA4ADcARQA0AC0ANABCADUAMQAtADgARgBDADYALQBEADYANQA3ADcARQA3AEIARAA0ADgAQwB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+						<Prp name="durationwithoutchildren" type="I" value="123133"/>
+						<Prp name="duration" type="I" value="123133"/>
+					</Node>
+				</Node>
+				<Prp name="incompletedtests" type="I" value="0"/>
+				<Prp name="name" type="S" value="Project_MC"/>
+				<Prp name="starttime" type="D" value="45674.3816133218"/>
+				<Prp name="failedtests" type="I" value="1"/>
+				<Prp name="duration" type="I" value="123133"/>
+				<Prp name="warningtests" type="I" value="0"/>
+				<Prp name="loadtests" type="I" value="0"/>
+			</Node>
+		</Node>
+		<Prp name="user" type="S" value="FSI01"/>
+		<Prp name="incompletedtests" type="I" value="0"/>
+		<Prp name="warningtests" type="I" value="0"/>
+		<Prp name="testname" type="S" value="Project_MC"/>
+		<Prp name="loadtests" type="I" value="0"/>
+		<Prp name="stop" type="D" value="45674.3830394097"/>
+		<Prp name="key" type="S" value="{448496E6-5801-4CED-A630-5FD134F95957}"/>
+		<Prp name="tests" type="I" value="1"/>
+		<Prp name="warningtestwithretries" type="I" value="0"/>
+		<Prp name="name" type="S" value="Project_MC"/>
+		<Prp name="failedtests" type="I" value="1"/>
+		<Prp name="host" type="S" value="DESKTOP-PQ3DT9G"/>
+		<Prp name="successtestwithretries" type="I" value="0"/>
+		<Prp name="executionstatus" type="I" value="2"/>
+		<Prp name="starttime" type="D" value="45674.3816132292"/>
+	</Node>
+</Nodes>
