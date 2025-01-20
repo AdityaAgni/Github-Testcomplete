@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
-	<data key="{C82D42AB-5353-4890-968A-8ABA772030DC}" />
+	<data key="{C82D42AB-5353-4890-968A-8ABA772030DC}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45677.1300347222" objectName="Aliases.MediConnect2.PopupLookUpEditForm" objectLeft="0" objectTop="0" objectRight="234" objectBottom="164" clickPointX="99" clickPointY="7" imageFileName="tcvi43199809318242.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
 </Root>

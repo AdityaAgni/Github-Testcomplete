@@ -181,7 +181,7 @@
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Simulates one or several keypresses." Action="Keys">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="Alfy_test2" />
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="Demo" />
 					</Parameters>
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.MediConnect2.fmInputWithOption.lcMain.txtInput.TextBoxMaskBox;" />
 				</Data>

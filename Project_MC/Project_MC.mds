@@ -173,16 +173,31 @@
 					</testItem>
 				</children>
 			</testItem>
-			<testItem name="Create 1 order" key="{A345285D-FDF6-418A-A921-A1F78A18CBF3}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Create 1 order" key="{A345285D-FDF6-418A-A921-A1F78A18CBF3}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children>
-					<testItem name="Select patient" key="{FB741910-49E3-47A0-BE62-49B94087064D}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{EECA682F-86D8-43F6-AFEC-46EC75BB875C}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+					<testItem name="Run MC" key="{947FA715-DFCA-4A97-94F5-85591572F551}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{E6B4AC57-0376-4BA4-8905-0AC39B4ECA90}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />
 					</testItem>
-					<testItem name="New order" key="{BD61C017-1E5A-47FB-BB97-2F169D888CE2}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{93788CDC-D433-4EA1-B43D-FC515CBE91D4}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+					<testItem name="Login" key="{66B04DCA-2A21-464F-9B7D-717821885B1A}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{8D1DDFC6-DB8F-4A2C-A2CE-03B16A328CC6}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+					<testItem name="Select patient" key="{FB741910-49E3-47A0-BE62-49B94087064D}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{EECA682F-86D8-43F6-AFEC-46EC75BB875C}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+					<testItem name="New order" key="{BD61C017-1E5A-47FB-BB97-2F169D888CE2}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{93788CDC-D433-4EA1-B43D-FC515CBE91D4}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+					<testItem name="export log to excel" key="{2674E3A4-1006-46A6-9935-48813BDCB17A}" group="False" parallel="False" enabled="True" load="False" testMoniker="{3F0A80D3-F243-4D48-9525-381C7898FE40}exportLogToExcel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />
@@ -239,11 +254,11 @@
 						<ConnectionInfo FileName="..\Patient Basic Information.xlsx" Table="&apos;Basic Information$&apos;" HasColumnNames="True" />
 					</DefValue>
 				</Variable>
-				<Variable Name="User" Type="String" Local="True">
+				<Variable Name="Global_User" Type="String" Local="True">
 					<DefValue StrValue="mc2" />
 				</Variable>
-				<Variable Name="Password" Type="String" Local="True">
-					<DefValue StrValue="MC2_admin" />
+				<Variable Name="Global_Password" Type="String" Local="True">
+					<DefValue StrValue="test123" />
 				</Variable>
 				<Variable Name="PatientName" Type="String" Local="True">
 					<DefValue StrValue="Lea" />
