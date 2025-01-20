@@ -625,6 +625,11 @@
 							<Prp name="expandlist" type="H" value="617162696E000000010000001C00000078016364800026280DA218A16C0000680005"/>
 						</Node>
 					</Node>
+					<Node name="{c397a1ac-f8ae-4628-bf93-d5e5d91905a0}\testdata">
+						<Node name="expanding">
+							<Prp name="expandlist" type="H" value="617162696E000000010000002400000078016364800066280DA218A16C26280D0000BC0008"/>
+						</Node>
+					</Node>
 					<Node name="{c3dddb49-ae88-43b1-a9d7-2e29c94a012a}\testdata">
 						<Node name="expanding">
 							<Prp name="expandlist" type="H" value="617162696E000000010000003C00000078016364800036280DA218A16C2628CD0CA559A0342B94060002C80017"/>
@@ -790,6 +795,11 @@
 						<Prp name="collapsed" type="B" value="0"/>
 						<Prp name="top" type="I" value="0"/>
 					</Node>
+					<Node name="{5469899e-d56d-4a5e-8503-9a9ae6898b13}">
+						<Prp name="bottom" type="I" value="0"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
 					<Node name="{6148ba81-fde0-475a-a8cb-0aebe9e71319}">
 						<Node name="0">
 							<Node name="0">
@@ -898,18 +908,7 @@
 			</Node>
 			<Node name="{fc9c0755-2819-4b25-8964-06a87b81e1ad}">
 				<Node name="project_mc">
-					<Node name="project_mc">
-						<Node name="keywordtests">
-							<Node name="common"/>
-							<Node name="login"/>
-							<Node name="order"/>
-							<Node name="patient"/>
-							<Node name="testing"/>
-							<Node name="visit"/>
-						</Node>
-						<Node name="script"/>
-						<Node name="testedapps"/>
-					</Node>
+					<Node name="project_mc"/>
 				</Node>
 				<Node name="project_mc logs">
 					<Node name="project_mc logs"/>

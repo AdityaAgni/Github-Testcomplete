@@ -23,6 +23,9 @@
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
 				<Prp name="default project" type="S" value="{AC720EB6-0FAB-45A7-A442-8E22AE0EA548}"/>
 			</Node>
+			<Node name="{407c2855-3186-48c5-a419-ed705e771f96}">
+				<Prp name="relpath" type="S" value="..\Testing MC 3.1\Testing MC 3.1\Testing MC 3.1.mds.tcLS"/>
+			</Node>
 			<Node name="{ac720eb6-0fab-45a7-a442-8e22ae0ea548}">
 				<Prp name="relpath" type="S" value="Project_MC\Project_MC.mds.tcLS"/>
 			</Node>

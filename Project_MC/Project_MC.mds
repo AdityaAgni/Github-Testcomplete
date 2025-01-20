@@ -11,7 +11,7 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{CFC1BE49-0CDB-4027-9F2E-36A441B16B81}" version="14">
 		<children>
-			<testItem name="Default login" key="{0EB73711-824F-45D8-93C9-C129B86B94A7}" group="False" parallel="False" enabled="False" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Default login" key="{0EB73711-824F-45D8-93C9-C129B86B94A7}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children>
@@ -21,6 +21,11 @@
 						<children />
 					</testItem>
 					<testItem name="Default login" key="{F7260B4A-36A9-4E82-8963-D63AF49E05E4}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{8D1DDFC6-DB8F-4A2C-A2CE-03B16A328CC6}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="SWT" />
+						<children />
+					</testItem>
+					<testItem name="Export to excel" key="{32A48244-06DE-4960-96F4-BF9329C48301}" group="False" parallel="False" enabled="True" load="False" testMoniker="{3F0A80D3-F243-4D48-9525-381C7898FE40}exportLogToExcel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 						<testParameters />
 						<environments activeCloud="SWT" />
 						<children />
@@ -173,7 +178,7 @@
 					</testItem>
 				</children>
 			</testItem>
-			<testItem name="Create 1 order" key="{A345285D-FDF6-418A-A921-A1F78A18CBF3}" group="False" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Create 1 order" key="{A345285D-FDF6-418A-A921-A1F78A18CBF3}" group="False" parallel="False" enabled="False" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children>

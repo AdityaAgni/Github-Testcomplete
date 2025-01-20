@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="projects">
+			<Node name="project0">
+				<Node name="tests">
+					<Node name="test0">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="name" type="S" value="Run MC"/>
+						<Prp name="durationwithoutchildren" type="I" value="4263"/>
+						<Prp name="status" type="I" value="0"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewA2AEMANQAzADEAMAAxADYALQBBADkARABFAC0ANAA0AEQAMwAtAEIANABCADQALQA3ADYAMgA1ADUAMgBFADkARgA1AEQARQB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+						<Prp name="duration" type="I" value="4263"/>
+						<Prp name="starttime" type="D" value="45677.484083588"/>
+					</Node>
+					<Node name="test2">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="name" type="S" value="Select patient"/>
+						<Prp name="durationwithoutchildren" type="I" value="4126"/>
+						<Prp name="status" type="I" value="0"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewA5AEUANAA2AEYANABBAEIALQBBAEEARQA5AC0ANAAwADMAOAAtAEEANQAwAEIALQAzAEUAQgBEAEEARAA1AEEAOQA0ADcAMAB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+						<Prp name="duration" type="I" value="4126"/>
+						<Prp name="starttime" type="D" value="45677.4845468634"/>
+					</Node>
+					<Node name="test1">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="name" type="S" value="Login"/>
+						<Prp name="durationwithoutchildren" type="I" value="35744"/>
+						<Prp name="status" type="I" value="0"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewA3ADUAOAAwADkAMwA3ADUALQBCADEAOQA0AC0ANABGAEQAMQAtAEEAMgAwAEIALQBEADIAQQA4ADYARgBDADMARgAwAEQAMgB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+						<Prp name="duration" type="I" value="35744"/>
+						<Prp name="starttime" type="D" value="45677.484133044"/>
+					</Node>
+					<Node name="test3">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="name" type="S" value="New order"/>
+						<Prp name="durationwithoutchildren" type="I" value="72118"/>
+						<Prp name="status" type="I" value="0"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewA1ADIAOAAyAEYAQQBCADUALQA2ADgARgA0AC0ANAAyADQAMQAtAEEAQwA3AEYALQA1ADkARQBGADEARAA1ADMAOABGAEQAQwB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+						<Prp name="duration" type="I" value="72118"/>
+						<Prp name="starttime" type="D" value="45677.4845948148"/>
+					</Node>
+				</Node>
+				<Prp name="failedtests" type="I" value="0"/>
+				<Prp name="loadtests" type="I" value="0"/>
+				<Prp name="name" type="S" value="Project_MC"/>
+				<Prp name="incompletedtests" type="I" value="0"/>
+				<Prp name="warningtests" type="I" value="0"/>
+				<Prp name="starttime" type="D" value="45677.484083588"/>
+				<Prp name="duration" type="I" value="116251"/>
+			</Node>
+		</Node>
+		<Prp name="incompletedtests" type="I" value="0"/>
+		<Prp name="loadtests" type="I" value="0"/>
+		<Prp name="executionstatus" type="I" value="0"/>
+		<Prp name="stop" type="D" value="45677.4856354514"/>
+		<Prp name="host" type="S" value="DESKTOP-PQ3DT9G"/>
+		<Prp name="warningtestwithretries" type="I" value="0"/>
+		<Prp name="starttime" type="D" value="45677.4840835301"/>
+		<Prp name="testname" type="S" value="Project_MC"/>
+		<Prp name="name" type="S" value="Project_MC"/>
+		<Prp name="key" type="S" value="{4347FDAB-4799-43AB-AFB1-D9FD3F6296E3}"/>
+		<Prp name="successtestwithretries" type="I" value="0"/>
+		<Prp name="user" type="S" value="FSI01"/>
+		<Prp name="tests" type="I" value="4"/>
+		<Prp name="warningtests" type="I" value="0"/>
+		<Prp name="failedtests" type="I" value="0"/>
+	</Node>
+</Nodes>
